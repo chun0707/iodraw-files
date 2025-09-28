@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17" pages="3">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="24.7.17" pages="4">
   <diagram name="第 1 页" id="cC853EFCyVArBSsBNCTP">
     <mxGraphModel dx="2207" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -278,6 +278,290 @@
           <mxGeometry x="679" y="450" width="81" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DrZS1oBoeVP3kWgPrFd5-4" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;国际标准对接与欧盟药典研究&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="1330" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 1 页 的副本" id="7-2xofOiWMEjsDGm0QE9">
+    <mxGraphModel dx="1517" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-0" />
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-1" parent="iKwrPB_OF6TIzCLScu2l-0" />
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-4" target="iKwrPB_OF6TIzCLScu2l-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="-90" />
+              <mxPoint x="195" y="-90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="-70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="-90" />
+              <mxPoint x="640" y="-90" />
+              <mxPoint x="640" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-4" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: 宋体; color: windowtext;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;种源创新与规模化繁育技术研究&lt;/font&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="80" y="-140" width="660" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-5" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;span style=&quot;color: windowtext; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;宋体&quot;&gt;暗紫贝母核心种质资源库构建研究&lt;/font&gt;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;, serif; color: windowtext;&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="80" y="-70" width="231" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-6" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体; font-weight: normal;&quot;&gt;优良新品种选育与繁育技术研究&lt;/span&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="319" y="-70" width="221" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-7" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;h4 style=&quot;margin-top: 6pt; margin-right: 0cm; margin-bottom: 6pt;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体; font-weight: normal; line-height: 70%;&quot;&gt;高效授粉生物学与种子生产&lt;/span&gt;&lt;/h4&gt;&lt;h4 style=&quot;margin-top: 6pt; margin-right: 0cm; margin-bottom: 6pt;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体; font-weight: normal; line-height: 70%;&quot;&gt;技术研究&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="550" y="-70" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;川贝母（暗紫贝母）全产业链规范化生产、&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 18px; font-family: 宋体; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;精深加工关键技术研究与应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="80" y="-271" width="660" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-10" target="iKwrPB_OF6TIzCLScu2l-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-10" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;种质创新&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="199" y="-200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-12" target="iKwrPB_OF6TIzCLScu2l-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-12" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;基因组解析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="340" y="-200" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-14" target="iKwrPB_OF6TIzCLScu2l-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-14" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;分子育种&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="480" y="-200" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-15" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;新品种选育&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="620" y="-200" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-16" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;阶段一&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="80" y="-200" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="100" as="sourcePoint" />
+            <mxPoint x="-20" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-19" target="iKwrPB_OF6TIzCLScu2l-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;种植模式&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="198" y="-10" width="122" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-21" target="iKwrPB_OF6TIzCLScu2l-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-21" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;GAP&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;示范&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="340" y="-10" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-23" target="iKwrPB_OF6TIzCLScu2l-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-23" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;林下仿野生&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="480" y="-10" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-24" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;智能化种植管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="620" y="-10" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-25" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;阶段二&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="79" y="-10" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-27" target="iKwrPB_OF6TIzCLScu2l-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;精深加工&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="198" y="220" width="122" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-29" target="iKwrPB_OF6TIzCLScu2l-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-29" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;中药饮片&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="339" y="220" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-31" target="iKwrPB_OF6TIzCLScu2l-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-31" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;功能食品/&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;保健品&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="480" y="220" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-32" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;非药用产品&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="620" y="220" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-33" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;阶段三&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="79" y="220" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="100" />
+              <mxPoint x="500" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="100" />
+              <mxPoint x="700" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-36" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;生产关键环节机械化与智能化装备研发&lt;/font&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="460" y="50" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-37" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;智能农机装备研发与系统集成&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="460" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-38" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot; face=&quot;宋体&quot;&gt;机械化作业技术规范&lt;/font&gt;&lt;/h4&gt;&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot; face=&quot;宋体&quot;&gt;制定&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="661" y="120" width="79" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.464;exitY=0.963;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="379" />
+              <mxPoint x="260" y="390" />
+              <mxPoint x="120" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="380" as="sourcePoint" />
+            <mxPoint x="400" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="390" />
+              <mxPoint x="400" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-41" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;质量溯源与快速检测技术体系构建&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="120" y="340" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-42" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;川贝母真伪快速检测卡开发&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="79" y="410" width="81" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-43" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;基于区块链的全过程质量溯源平台开发&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="354" y="410" width="91" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-44" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size: 16pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;高附加值产品开发与产业化研究&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="479" y="340" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-45" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;川贝母功能性饮料开发与注册申报研究&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="200" y="980" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-46" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&lt;br/&gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:16.0pt;line-height:150%;&lt;br/&gt;font-family:华文楷体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:windowtext&quot;&gt;配方颗粒标准研究&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-size:16.0pt;line-height:150%;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:华文楷体;color:windowtext&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="124" y="1060" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-47" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;配方颗粒加工工艺优化与质量标准研究&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="140" y="1110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-48" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&lt;br/&gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;color:windowtext&quot;&gt;欧盟标准研究与草案拟制&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;color:windowtext&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="360" y="1110" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-50" target="iKwrPB_OF6TIzCLScu2l-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-50" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;质量与标准&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="198" y="280" width="122" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-52" target="iKwrPB_OF6TIzCLScu2l-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-52" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;检测认证&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="339" y="280" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-54" target="iKwrPB_OF6TIzCLScu2l-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-54" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;地方/国家/&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;国际标准&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="479" y="280" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-55" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;品牌化推广&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="620" y="280" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-56" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;阶段四&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="79" y="280" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-58" target="iKwrPB_OF6TIzCLScu2l-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-58" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;产业化应用&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="199" y="639" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-60" target="iKwrPB_OF6TIzCLScu2l-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-60" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;龙头企业培育&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="359" y="639" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-62" target="iKwrPB_OF6TIzCLScu2l-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-62" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;产业集群&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="519" y="639" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-63" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;国内外市场拓展&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="679" y="639" width="121" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-64" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;阶段五&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="80" y="639" width="104" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-65" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;生态种植于&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GAP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;规范化生产体系研究&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="840" y="-170" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.46;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="100" />
+              <mxPoint x="121" y="100" />
+            </Array>
+            <mxPoint x="120.7" y="120" as="targetPoint" />
+            <mxPoint x="192.00000000000017" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="100" />
+              <mxPoint x="320" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-68" value="&lt;h4 style=&quot;margin-top: 6pt; margin-right: 0cm; margin-bottom: 6pt; line-height: 18px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;color: windowtext;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;生态种植于&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GAP&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;规范化生产体系研究&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="91.25" y="50" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-69" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;暗紫贝母生态种植技术规程(&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;SOP)&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;研究与验证&lt;/span&gt;&lt;/span&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="80" y="120" width="83" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-70" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;span style=&quot;color: windowtext; font-weight: normal;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;高产高效&lt;/font&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;span style=&quot;color: windowtext; font-weight: normal;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;栽培基质&lt;/font&gt;&lt;/span&gt;&lt;/h4&gt;&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;span style=&quot;color: windowtext; font-weight: normal;&quot;&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 14px;&quot;&gt;配方研究&lt;/font&gt;&lt;/span&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&amp;lt;br/&amp;gt;color:windowtext&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="182" y="120" width="76" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-71" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;font style=&quot;font-size: 14px; font-weight: normal;&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GAP&lt;/font&gt;&lt;/span&gt;&lt;font face=&quot;宋体&quot;&gt;示范基地建设与标准化生产示范&lt;/font&gt;&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="276.25" y="120" width="90.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-72" value="高附加值产品开发与产业化研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="479" y="399" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-73" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;川贝母真伪快速检测卡开发&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="500" y="450" width="81" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-74" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;川贝母真伪快速检测卡开发&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+          <mxGeometry x="679" y="450" width="81" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-75" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;国际标准对接与欧盟药典研究&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="-140" y="1330" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
