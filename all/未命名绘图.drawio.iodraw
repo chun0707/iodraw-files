@@ -396,7 +396,7 @@
         <mxCell id="iKwrPB_OF6TIzCLScu2l-32" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;非药用产品&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="620" y="220" width="121" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iKwrPB_OF6TIzCLScu2l-33" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;研究内容三&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-33" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;阶段三&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="79" y="220" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-36">
@@ -478,7 +478,7 @@
         <mxCell id="iKwrPB_OF6TIzCLScu2l-55" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;品牌化推广&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="620" y="280" width="121" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iKwrPB_OF6TIzCLScu2l-56" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;研究内容四&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-56" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;阶段四&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="79" y="280" width="104" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-58" target="iKwrPB_OF6TIzCLScu2l-60">
@@ -603,10 +603,10 @@
           <mxGeometry x="70" y="-210" width="680" height="190" as="geometry" />
         </mxCell>
         <mxCell id="OboDl4v2Lba2gGsLHMyw-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
-          <mxGeometry x="70" y="-20" width="680" height="230" as="geometry" />
+          <mxGeometry x="70" y="50" width="680" height="160" as="geometry" />
         </mxCell>
         <mxCell id="OboDl4v2Lba2gGsLHMyw-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
-          <mxGeometry x="70" y="340" width="680" height="150" as="geometry" />
+          <mxGeometry x="70" y="210" width="680" height="280" as="geometry" />
         </mxCell>
         <mxCell id="OboDl4v2Lba2gGsLHMyw-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="70" y="480" width="680" height="210" as="geometry" />
