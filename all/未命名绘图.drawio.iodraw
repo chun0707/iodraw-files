@@ -360,10 +360,10 @@
         <mxCell id="iKwrPB_OF6TIzCLScu2l-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-23" target="iKwrPB_OF6TIzCLScu2l-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iKwrPB_OF6TIzCLScu2l-23" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;林下仿野生&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-23" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;林下仿野生&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="480" y="-10" width="121" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iKwrPB_OF6TIzCLScu2l-24" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;智能化种植管理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
+        <mxCell id="iKwrPB_OF6TIzCLScu2l-24" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;智能化种植管理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="620" y="-10" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-25" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;阶段二&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
