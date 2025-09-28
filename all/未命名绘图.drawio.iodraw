@@ -578,6 +578,10 @@
         <mxCell id="OboDl4v2Lba2gGsLHMyw-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="OboDl4v2Lba2gGsLHMyw-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="610" />
+              <mxPoint x="201" y="610" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OboDl4v2Lba2gGsLHMyw-11" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;配方颗粒标准研究&lt;/span&gt;&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
