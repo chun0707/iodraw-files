@@ -554,6 +554,9 @@
         <mxCell id="iKwrPB_OF6TIzCLScu2l-72" value="高附加值产品开发与产业化研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="479" y="399" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OboDl4v2Lba2gGsLHMyw-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-73" target="iKwrPB_OF6TIzCLScu2l-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-73" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;川贝母真伪快速检测卡开发&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="500" y="450" width="81" height="70" as="geometry" />
         </mxCell>
