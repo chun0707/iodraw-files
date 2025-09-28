@@ -455,7 +455,7 @@
           <mxGeometry x="80" y="410" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-47" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;配方颗粒加工工艺优化与质量标准研究&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
-          <mxGeometry x="140" y="1110" width="170" height="60" as="geometry" />
+          <mxGeometry x="88" y="910" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-48" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&lt;br/&gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:宋体;mso-ascii-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;color:windowtext&quot;&gt;欧盟标准研究与草案拟制&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;&lt;br/&gt;color:windowtext&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="360" y="1110" width="170" height="60" as="geometry" />
@@ -586,12 +586,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OboDl4v2Lba2gGsLHMyw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="OboDl4v2Lba2gGsLHMyw-11">
+        <mxCell id="OboDl4v2Lba2gGsLHMyw-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="640" as="targetPoint" />
+            <mxPoint x="408" y="600" as="sourcePoint" />
+            <mxPoint x="568" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="410" y="610" />
-              <mxPoint x="571" y="610" />
+              <mxPoint x="408" y="610" />
+              <mxPoint x="569" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
