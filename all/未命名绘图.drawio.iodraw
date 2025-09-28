@@ -318,9 +318,6 @@
         <mxCell id="iKwrPB_OF6TIzCLScu2l-7" value="&lt;div style=&quot;line-height: 70%;&quot;&gt;&lt;h4 style=&quot;margin-top: 6pt; margin-right: 0cm; margin-bottom: 6pt;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体; font-weight: normal; line-height: 70%;&quot;&gt;高效授粉生物学与种子生产&lt;/span&gt;&lt;/h4&gt;&lt;h4 style=&quot;margin-top: 6pt; margin-right: 0cm; margin-bottom: 6pt;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体; font-weight: normal; line-height: 70%;&quot;&gt;技术研究&lt;/span&gt;&lt;/h4&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="550" y="-70" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboDl4v2Lba2gGsLHMyw-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1" source="iKwrPB_OF6TIzCLScu2l-8" target="OboDl4v2Lba2gGsLHMyw-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;川贝母（暗紫贝母）全产业链规范化生产、&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 18px; font-family: 宋体; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;精深加工关键技术研究与应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="70" y="-360" width="680" height="50" as="geometry" />
         </mxCell>
@@ -607,12 +604,6 @@
         </mxCell>
         <mxCell id="OboDl4v2Lba2gGsLHMyw-23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=none;rounded=0;rotation=90;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="395.13" y="-235.12" width="28.75" height="17.5" as="geometry" />
-        </mxCell>
-        <mxCell id="OboDl4v2Lba2gGsLHMyw-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endWidth=9;endSize=5.76;" edge="1" parent="iKwrPB_OF6TIzCLScu2l-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241" y="-280" as="sourcePoint" />
-            <mxPoint x="241" y="-240" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
