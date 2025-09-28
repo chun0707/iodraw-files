@@ -284,7 +284,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="7-2xofOiWMEjsDGm0QE9">
-    <mxGraphModel dx="1514" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1517" dy="1473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-0" />
         <mxCell id="iKwrPB_OF6TIzCLScu2l-1" parent="iKwrPB_OF6TIzCLScu2l-0" />
@@ -585,7 +585,7 @@
           <mxGeometry x="661" y="410" width="79" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OboDl4v2Lba2gGsLHMyw-10" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&amp;lt;br/&amp;gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;lt;br/&amp;gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;多元化高值产品开发&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
-          <mxGeometry x="510" y="840" width="91" height="60" as="geometry" />
+          <mxGeometry x="360" y="760" width="91" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
