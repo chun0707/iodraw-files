@@ -430,8 +430,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="379" />
-              <mxPoint x="260" y="390" />
+              <mxPoint x="220" y="390" />
               <mxPoint x="120" y="390" />
             </Array>
           </mxGeometry>
@@ -447,7 +446,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-41" value="&lt;h4 style=&quot;margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;margin-left:&amp;lt;br/&amp;gt;0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:&amp;lt;br/&amp;gt;.5gd;mso-para-margin-left:0cm;line-height:150%&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;宋体&quot;&gt;质量溯源与快速检测技术体系构建&lt;/font&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
-          <mxGeometry x="91.25" y="340" width="280" height="40" as="geometry" />
+          <mxGeometry x="90.25" y="340" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iKwrPB_OF6TIzCLScu2l-42" value="&lt;h4 style=&quot;margin-top:2.5pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:&amp;lt;br/&amp;gt;0cm;line-height:150%&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;&lt;br/&gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;川贝母真伪快速检测卡开发&lt;/span&gt;&lt;/b&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iKwrPB_OF6TIzCLScu2l-1">
           <mxGeometry x="79" y="410" width="81" height="70" as="geometry" />
