@@ -216,7 +216,7 @@
         <mxCell id="Bgye72MgKzYA9d9URRDs-63" value="社会流动模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="380" width="74" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bgye72MgKzYA9d9URRDs-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;gradientDirection=west;glass=0;shadow=0;gradientColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Bgye72MgKzYA9d9URRDs-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=none;gradientDirection=west;glass=0;shadow=0;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="264" y="39" width="56" height="401" as="geometry" />
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-65" value="&lt;b&gt;疾&lt;/b&gt;&lt;div&gt;&lt;b&gt;病&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
