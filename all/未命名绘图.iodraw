@@ -210,7 +210,7 @@
         <mxCell id="Bgye72MgKzYA9d9URRDs-61" value="累积模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="44" y="160" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bgye72MgKzYA9d9URRDs-62" value="敏感期模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Bgye72MgKzYA9d9URRDs-62" value="路径模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="44" y="260" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-63" value="敏感期模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
