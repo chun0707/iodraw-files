@@ -222,8 +222,11 @@
         <mxCell id="Bgye72MgKzYA9d9URRDs-65" value="&lt;b&gt;疾&lt;/b&gt;&lt;div&gt;&lt;b&gt;病&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="168" width="30" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="Bgye72MgKzYA9d9URRDs-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgye72MgKzYA9d9URRDs-68" target="Bgye72MgKzYA9d9URRDs-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-68" value="孕前期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="78" y="7" width="70" height="20" as="geometry" />
+          <mxGeometry x="78" y="7" width="62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-69" value="生命早期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="89" y="-60" width="70" height="20" as="geometry" />
