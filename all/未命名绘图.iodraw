@@ -78,7 +78,7 @@
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bgye72MgKzYA9d9URRDs-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="165" y="270" as="targetPoint" />
+            <mxPoint x="180" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-20" value="A" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
