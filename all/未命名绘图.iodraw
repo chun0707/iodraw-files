@@ -237,6 +237,9 @@
         <mxCell id="Bgye72MgKzYA9d9URRDs-81" value="&lt;font color=&quot;#000000&quot;&gt;老年期&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#000000;fillColor=#FFCCCC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="268" y="7" width="52" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Bgye72MgKzYA9d9URRDs-83" value="孕前期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#000000;fillColor=#E6E6E6;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="17" width="51" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
