@@ -232,7 +232,7 @@
           <mxGeometry x="230" y="-60" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-78" value="生命早期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="139" y="7" width="62" height="20" as="geometry" />
+          <mxGeometry x="139" y="7" width="61" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-80" value="中年期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="218" y="7" width="61" height="20" as="geometry" />
