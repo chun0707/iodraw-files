@@ -237,7 +237,7 @@
         <mxCell id="Bgye72MgKzYA9d9URRDs-80" value="中年期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#C73500;fillColor=#FFB570;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="207" y="7" width="53" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bgye72MgKzYA9d9URRDs-81" value="老年期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="Bgye72MgKzYA9d9URRDs-81" value="老年期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#6D1F00;fillColor=#a0522d;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="268" y="7" width="52" height="20" as="geometry" />
         </mxCell>
       </root>
