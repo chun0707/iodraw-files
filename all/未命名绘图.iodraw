@@ -222,7 +222,7 @@
         <mxCell id="Bgye72MgKzYA9d9URRDs-65" value="&lt;b&gt;疾&lt;/b&gt;&lt;div&gt;&lt;b&gt;病&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="168" width="30" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Bgye72MgKzYA9d9URRDs-68" value="孕前期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#C73500;fillColor=#E6E6E6;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Bgye72MgKzYA9d9URRDs-68" value="孕前期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#000000;fillColor=#E6E6E6;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="79" y="7" width="51" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-69" value="生命早期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -231,7 +231,7 @@
         <mxCell id="Bgye72MgKzYA9d9URRDs-74" value="中年期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="230" y="-60" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Bgye72MgKzYA9d9URRDs-78" value="生命早期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#B09500;fillColor=#FFF2CC;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Bgye72MgKzYA9d9URRDs-78" value="生命早期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#000000;fillColor=#FFF2CC;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="138" y="7" width="61" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bgye72MgKzYA9d9URRDs-80" value="中年期" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=#C73500;fillColor=#FFB570;fontColor=#000000;" vertex="1" parent="1">
