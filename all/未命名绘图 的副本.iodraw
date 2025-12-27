@@ -261,7 +261,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--10" value="如何整合多模态数据，构建可持续的动态出生队列？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="139.5" height="60" as="geometry" />
+          <mxGeometry x="59.5" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--11" target="ZIDaCdDt7lohlxToWS4--13">
           <mxGeometry relative="1" as="geometry" />
