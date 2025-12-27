@@ -460,7 +460,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fsIhNJa_4iShnTCMUHOx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="fsIhNJa_4iShnTCMUHOx-26">
+        <mxCell id="fsIhNJa_4iShnTCMUHOx-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="fsIhNJa_4iShnTCMUHOx-26" target="fsIhNJa_4iShnTCMUHOx-36">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="459.0666666666666" y="370" as="targetPoint" />
           </mxGeometry>
