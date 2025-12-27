@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P6bSTpoihu1Om0InwySR" name="第 2 页">
-    <mxGraphModel dx="753" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="763" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,7 +269,7 @@
         <mxCell id="ZIDaCdDt7lohlxToWS4--11" value="研究基础重构&lt;div&gt;(将真实世界数据转化为生命早期研究的动态队列)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--13" value="研究基础重构&lt;div&gt;(将真实世界数据转化为生命早期研究的动态队列)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZIDaCdDt7lohlxToWS4--13" value="多模态动态出生队列与生命早期健康数据平台构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
