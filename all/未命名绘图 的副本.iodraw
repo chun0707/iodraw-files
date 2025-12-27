@@ -254,8 +254,8 @@
         <mxCell id="ZIDaCdDt7lohlxToWS4--5" value="研究路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="319" y="40" width="81" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--6" value="研究路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="329" y="50" width="81" height="40" as="geometry" />
+        <mxCell id="ZIDaCdDt7lohlxToWS4--6" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="40" width="81" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
