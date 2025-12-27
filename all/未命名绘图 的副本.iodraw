@@ -500,7 +500,7 @@
           <mxGeometry x="20" y="730" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fsIhNJa_4iShnTCMUHOx-52" value="CART决策树&lt;div&gt;随机森林&lt;/div&gt;&lt;div&gt;暴露组合及风险分级&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;dashed=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="420" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fsIhNJa_4iShnTCMUHOx-54" value="倾向评分加权匹配&lt;div&gt;工具变量&lt;/div&gt;&lt;div&gt;孟德尔随机&lt;/div&gt;&lt;div&gt;验证因果关系&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;dashed=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
           <mxGeometry x="237.5" y="730" width="120" height="70" as="geometry" />
