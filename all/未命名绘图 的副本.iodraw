@@ -276,7 +276,7 @@
           <mxGeometry x="338" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--15" value="多模态动态出生队列与生命早期健康数据平台构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519" y="120" width="141" height="60" as="geometry" />
+          <mxGeometry x="480" y="120" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--17" target="ZIDaCdDt7lohlxToWS4--18">
           <mxGeometry relative="1" as="geometry" />
@@ -330,7 +330,7 @@
           <mxGeometry x="339" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--34" value="儿童健康轨迹建模&lt;div&gt;与风险识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="339" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--36" target="ZIDaCdDt7lohlxToWS4--38">
           <mxGeometry relative="1" as="geometry" />
