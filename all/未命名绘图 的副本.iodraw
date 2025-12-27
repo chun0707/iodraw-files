@@ -358,7 +358,7 @@
       <root>
         <mxCell id="o5TIBo0dNLlZsB161a2a-0" />
         <mxCell id="o5TIBo0dNLlZsB161a2a-1" parent="o5TIBo0dNLlZsB161a2a-0" />
-        <mxCell id="o5TIBo0dNLlZsB161a2a-5" value="研究内容一&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;color: black; letter-spacing: -0.6pt; font-weight: normal;&quot;&gt;基于多模态数据的四川省动态出生队列构建与生命早期健康数据平台搭建&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
+        <mxCell id="o5TIBo0dNLlZsB161a2a-5" value="&lt;font face=&quot;Helvetica&quot;&gt;研究内容一&lt;/font&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;color: black; letter-spacing: -0.6pt;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;基于多模态数据的四川省动态出生队列构建与生命早期健康数据平台搭建&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
           <mxGeometry x="30" y="70" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o5TIBo0dNLlZsB161a2a-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-7" target="o5TIBo0dNLlZsB161a2a-9">
