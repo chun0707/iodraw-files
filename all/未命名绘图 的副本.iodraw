@@ -257,7 +257,7 @@
         <mxCell id="ZIDaCdDt7lohlxToWS4--7" value="研究问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="40" width="81" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZIDaCdDt7lohlxToWS4--10" value="如何整合多源妇幼健康数据，构建可持续的动态出生队列？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
