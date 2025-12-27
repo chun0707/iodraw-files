@@ -281,7 +281,7 @@
         <mxCell id="ZIDaCdDt7lohlxToWS4--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--17" target="ZIDaCdDt7lohlxToWS4--18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--17" value="如何整合多模态数据，为生命早期健康研究提供数据基础？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZIDaCdDt7lohlxToWS4--17" value="如何对孕前与孕期多源暴露进行评估，形成可用于建模分析的暴露表型体系？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="59.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--18" target="ZIDaCdDt7lohlxToWS4--20">
