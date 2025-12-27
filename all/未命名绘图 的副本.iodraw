@@ -246,7 +246,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZIDaCdDt7lohlxToWS4--1" value="研究问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="40" width="81" height="40" as="geometry" />
+          <mxGeometry x="79" y="120" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--2" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="40" width="81" height="40" as="geometry" />
@@ -258,7 +258,7 @@
           <mxGeometry x="439" y="40" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--7" value="研究问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="89" y="50" width="81" height="40" as="geometry" />
+          <mxGeometry x="79" y="40" width="81" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
