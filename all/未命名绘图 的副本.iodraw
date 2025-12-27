@@ -323,8 +323,8 @@
         <mxCell id="ZIDaCdDt7lohlxToWS4--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--28" target="ZIDaCdDt7lohlxToWS4--30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--28" value="暴露识别与量化表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="ZIDaCdDt7lohlxToWS4--28" value="因果推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="179.5" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--30" value="暴露识别与量化表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
