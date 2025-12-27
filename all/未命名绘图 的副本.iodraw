@@ -324,7 +324,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--28" value="风险识别与因果推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="209" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--30" value="纵向轨迹刻画与&lt;div&gt;风险演化解析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="360" width="120" height="60" as="geometry" />
@@ -349,8 +349,8 @@
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="178" y="310" as="sourcePoint" />
-            <mxPoint x="208" y="310" as="targetPoint" />
+            <mxPoint x="179" y="310" as="sourcePoint" />
+            <mxPoint x="209" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
