@@ -245,8 +245,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZIDaCdDt7lohlxToWS4--1" value="如何整合多源妇幼健康数据，构建可持续的动态出生队列？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="120" width="131" height="50" as="geometry" />
+        <mxCell id="ZIDaCdDt7lohlxToWS4--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="145.06666666666672" as="sourcePoint" />
+            <mxPoint x="270" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--2" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="40" width="81" height="40" as="geometry" />
