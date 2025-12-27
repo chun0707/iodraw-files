@@ -273,7 +273,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--13" value="夯实数据与队列基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="339" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--15" value="多模态动态出生队列与生命早期健康数据平台构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="120" width="141" height="60" as="geometry" />
@@ -316,9 +316,6 @@
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--26" value="出生结局及生命早期暴露如何影响儿童早期健康？如何实现风险分级与早期识别？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="360" width="149.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--28" target="ZIDaCdDt7lohlxToWS4--30">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--28" value="风险识别与因果推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="280" width="120" height="60" as="geometry" />
