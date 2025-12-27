@@ -358,8 +358,8 @@
       <root>
         <mxCell id="o5TIBo0dNLlZsB161a2a-0" />
         <mxCell id="o5TIBo0dNLlZsB161a2a-1" parent="o5TIBo0dNLlZsB161a2a-0" />
-        <mxCell id="o5TIBo0dNLlZsB161a2a-5" value="研究内容一" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="30" y="70" width="510" height="40" as="geometry" />
+        <mxCell id="o5TIBo0dNLlZsB161a2a-5" value="研究内容一&amp;nbsp;&amp;nbsp;&lt;h3 style=&quot;margin:0cm;line-height:24.0pt;mso-line-height-rule:exactly;&lt;br/&gt;mso-collapsed-heading:yes&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:black;letter-spacing:-.6pt;&lt;br/&gt;mso-font-kerning:0pt;mso-ligatures:none;layout-grid-mode:line&quot;&gt;基于多模态数据的四川省动态出生队列构建与生命早期健康数据平台搭建。&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;font-size:12.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:黑体;color:black;mso-font-kerning:0pt;mso-ligatures:none;&lt;br/&gt;layout-grid-mode:line&quot; lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
+          <mxGeometry x="30" y="70" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o5TIBo0dNLlZsB161a2a-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-7" target="o5TIBo0dNLlZsB161a2a-9">
           <mxGeometry relative="1" as="geometry" />
