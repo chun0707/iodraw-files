@@ -376,7 +376,7 @@
         <mxCell id="o5TIBo0dNLlZsB161a2a-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-11" target="o5TIBo0dNLlZsB161a2a-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-11" value="夯实数据与队列基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
+        <mxCell id="o5TIBo0dNLlZsB161a2a-11" value="核心指标体系与知识结构构建。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
           <mxGeometry x="338" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o5TIBo0dNLlZsB161a2a-12" value="多模态动态出生队列与生命早期健康数据平台构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
