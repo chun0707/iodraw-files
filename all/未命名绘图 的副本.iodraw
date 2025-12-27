@@ -281,9 +281,6 @@
         <mxCell id="ZIDaCdDt7lohlxToWS4--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--17" target="ZIDaCdDt7lohlxToWS4--18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--17" target="ZIDaCdDt7lohlxToWS4--24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--17" value="如何对孕前与孕期多源暴露进行评估，形成可用于建模分析的暴露表型体系？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="200" width="149.5" height="60" as="geometry" />
         </mxCell>
@@ -307,9 +304,6 @@
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--22" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多模态数据的孕前与孕期暴露可计算表型构建及标准化表达&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="200" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--24" target="ZIDaCdDt7lohlxToWS4--26">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--24" target="ZIDaCdDt7lohlxToWS4--28">
           <mxGeometry relative="1" as="geometry" />
