@@ -252,10 +252,10 @@
           <mxGeometry x="339" y="70" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--6" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="40" width="81" height="40" as="geometry" />
+          <mxGeometry x="504" y="70" width="81" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--7" value="研究问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="70" width="130" height="40" as="geometry" />
+          <mxGeometry x="30" y="70" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--10" target="ZIDaCdDt7lohlxToWS4--11">
           <mxGeometry relative="1" as="geometry" />
