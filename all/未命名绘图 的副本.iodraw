@@ -376,69 +376,6 @@
         <mxCell id="o5TIBo0dNLlZsB161a2a-11" value="核心指标体系与知识结构构建。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
           <mxGeometry x="338" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-14" target="o5TIBo0dNLlZsB161a2a-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-14" value="如何对孕前与孕期多源暴露进行评估，形成可用于建模分析的暴露表型体系？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="30" y="1002" width="149.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-16" target="o5TIBo0dNLlZsB161a2a-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-16" value="暴露识别与量化表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="199" y="1002" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-18" target="o5TIBo0dNLlZsB161a2a-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-18" value="多模态暴露可计算&lt;div&gt;表型构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="338" y="1002" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-19" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多模态数据的孕前与孕期暴露可计算表型构建及标准化表达&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="479" y="1002" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-21" target="o5TIBo0dNLlZsB161a2a-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-21" value="孕前与孕期暴露如何影响出生结局？其关键决定因素及风险模式是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="30" y="1082" width="149.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-23" target="o5TIBo0dNLlZsB161a2a-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-23" value="出生结局及生命早期暴露如何影响儿童早期健康？如何实现风险分级与早期识别？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="30" y="1162" width="149.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-25" target="o5TIBo0dNLlZsB161a2a-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-25" value="风险识别与因果推断" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="199" y="1082" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-27" target="o5TIBo0dNLlZsB161a2a-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-27" value="纵向轨迹刻画与&lt;div&gt;风险演化解析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="198" y="1162" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-29" target="o5TIBo0dNLlZsB161a2a-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-29" value="揭示暴露—结局关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="339" y="1082" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o5TIBo0dNLlZsB161a2a-1" source="o5TIBo0dNLlZsB161a2a-31" target="o5TIBo0dNLlZsB161a2a-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-31" value="儿童健康轨迹建模&lt;div&gt;与风险识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="339" y="1162" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-32" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;可计算表型出生结局风险模型与决定因素系统研究&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="469" y="1022" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="o5TIBo0dNLlZsB161a2a-33" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;儿童早期健康轨迹建模及风险分级应用研究&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="479" y="1162" width="141" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="o5TIBo0dNLlZsB161a2a-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
           <mxGeometry x="-40" y="-1280" width="620" height="240" as="geometry" />
         </mxCell>
