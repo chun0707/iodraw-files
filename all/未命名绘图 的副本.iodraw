@@ -329,6 +329,9 @@
         <mxCell id="ZIDaCdDt7lohlxToWS4--32" value="揭示暴露—结局关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZIDaCdDt7lohlxToWS4--48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--34" target="ZIDaCdDt7lohlxToWS4--38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--34" value="儿童健康轨迹建模&lt;div&gt;与风险识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -336,7 +339,7 @@
           <mxGeometry x="479" y="280" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--38" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;儿童早期健康轨迹建模及风险分级应用研究&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="519" y="360" width="141" height="60" as="geometry" />
+          <mxGeometry x="518" y="360" width="141" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
