@@ -354,7 +354,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究思路图 的副本" id="BCv2zz1CDn-2VEG9lcDv">
-    <mxGraphModel dx="1670" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1990" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="o5TIBo0dNLlZsB161a2a-0" />
         <mxCell id="o5TIBo0dNLlZsB161a2a-1" parent="o5TIBo0dNLlZsB161a2a-0" />
@@ -452,7 +452,7 @@
           <mxGeometry x="469" y="941" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fsIhNJa_4iShnTCMUHOx-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="o5TIBo0dNLlZsB161a2a-1">
-          <mxGeometry x="10" y="250" width="149.5" height="60" as="geometry" />
+          <mxGeometry x="10" y="250" width="149.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
