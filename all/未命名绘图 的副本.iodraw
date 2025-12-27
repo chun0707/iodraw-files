@@ -320,6 +320,9 @@
         <mxCell id="ZIDaCdDt7lohlxToWS4--24" value="孕前与孕期暴露如何影响出生结局？其关键决定因素及风险模式是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="280" width="149.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZIDaCdDt7lohlxToWS4--44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZIDaCdDt7lohlxToWS4--26" target="ZIDaCdDt7lohlxToWS4--30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--26" value="出生结局及生命早期暴露如何影响儿童早期健康？如何实现风险分级与早期识别？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="360" width="149.5" height="60" as="geometry" />
         </mxCell>
@@ -349,12 +352,6 @@
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--38" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;儿童早期健康轨迹建模及风险分级应用研究&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="519" y="360" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIDaCdDt7lohlxToWS4--41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="388" as="sourcePoint" />
-            <mxPoint x="210" y="388" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
