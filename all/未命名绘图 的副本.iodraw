@@ -379,7 +379,7 @@
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-9" target="iJE_Ixc0VP38l0kxhpYX-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-9" value="&lt;div&gt;研究基础构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-9" value="&lt;div&gt;健康状态的连续向量化表征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-11" target="iJE_Ixc0VP38l0kxhpYX-12">
