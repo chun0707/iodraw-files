@@ -454,11 +454,10 @@
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-33" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;儿童早期健康轨迹建模及风险分级应用研究&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
           <mxGeometry x="479" y="360" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-35" target="iJE_Ixc0VP38l0kxhpYX-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
-          <mxGeometry x="60" y="60" width="610" height="370" as="geometry" />
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" target="iJE_Ixc0VP38l0kxhpYX-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="245.06666666666672" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-36" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;生命早期健康轨迹与多器官系统生物衰老的形成机制研究——基于西南多模态出生队列&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;align=center;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
           <mxGeometry x="-40" y="60" width="40" height="370" as="geometry" />
