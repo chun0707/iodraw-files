@@ -394,13 +394,13 @@
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-14" target="iJE_Ixc0VP38l0kxhpYX-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-14" value="如何对孕前与孕期多源暴露进行评估，形成可用于建模分析的暴露表型体系？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-14" value="是否存在可复现的健康轨迹异质性模式？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
           <mxGeometry x="30" y="200" width="149.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-16" target="iJE_Ixc0VP38l0kxhpYX-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-16" value="暴露识别与量化表达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-16" value="轨迹分型驱动的生物学验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
           <mxGeometry x="199" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-18" target="iJE_Ixc0VP38l0kxhpYX-19">
