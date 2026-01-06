@@ -651,7 +651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究技术路线图" id="CT39UX7uNbTlieukk7ZQ">
-    <mxGraphModel dx="1922" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="7t6BdhPQN8onM-ozHs1g-0" />
         <mxCell id="7t6BdhPQN8onM-ozHs1g-1" parent="7t6BdhPQN8onM-ozHs1g-0" />
@@ -789,7 +789,7 @@
         <mxCell id="7t6BdhPQN8onM-ozHs1g-39" value="混合效应模型&lt;div&gt;边际结构模型&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="7t6BdhPQN8onM-ozHs1g-1">
           <mxGeometry x="20" y="698" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7t6BdhPQN8onM-ozHs1g-40" value="CART决策树&lt;div&gt;随机森林&lt;/div&gt;&lt;div&gt;暴露组合及风险分级&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="7t6BdhPQN8onM-ozHs1g-1">
+        <mxCell id="7t6BdhPQN8onM-ozHs1g-40" value="多元线性回归&lt;div&gt;多状态转移模型&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="7t6BdhPQN8onM-ozHs1g-1">
           <mxGeometry x="460" y="698" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7t6BdhPQN8onM-ozHs1g-41" value="因果中介分析&lt;div&gt;多组学整合中介分析&lt;/div&gt;&lt;div&gt;孟德尔随机化验证&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="7t6BdhPQN8onM-ozHs1g-1">
