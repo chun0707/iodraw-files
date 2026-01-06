@@ -805,7 +805,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7t6BdhPQN8onM-ozHs1g-45" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="7t6BdhPQN8onM-ozHs1g-1">
-          <mxGeometry x="14.5" y="870" width="571.5" height="67" as="geometry" />
+          <mxGeometry x="17" y="940" width="571.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="7t6BdhPQN8onM-ozHs1g-46" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;混合效应模型(&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;LMM)&lt;/span&gt;&lt;/font&gt;&lt;div&gt;多状态(转移概率)模型&lt;/div&gt;&lt;div&gt;刻画动态演变路径&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="7t6BdhPQN8onM-ozHs1g-1">
           <mxGeometry x="20" y="983" width="150" height="60" as="geometry" />
