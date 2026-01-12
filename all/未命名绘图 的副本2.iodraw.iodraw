@@ -356,7 +356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="修改方案后研究思路图" id="vmmdosAmkEfEUyW5wa4m">
-    <mxGraphModel dx="1928" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1928" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-0" />
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-1" parent="lBuMAX4k7uGDV3-RwbZ2-0" />
@@ -387,7 +387,7 @@
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-11" target="lBuMAX4k7uGDV3-RwbZ2-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-11" value="多源证据整合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
+        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-11" value="多源证据整合→多准则决策分析→核心&lt;div&gt;指标库构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="338" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-12" value="多模态动态出生队列与生命早期健康数据平台构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
