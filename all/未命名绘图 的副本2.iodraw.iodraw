@@ -881,9 +881,6 @@
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-40" value="CART决策树&lt;div&gt;随机森林&lt;/div&gt;&lt;div&gt;暴露组合及风险分级&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
           <mxGeometry x="460" y="698" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vuw10Q_AGiyh9IFsTDD2-41" value="倾向评分加权匹配&lt;div&gt;工具变量&lt;/div&gt;&lt;div&gt;孟德尔随机&lt;/div&gt;&lt;div&gt;验证因果关系&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
-          <mxGeometry x="239.5" y="698" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-42" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
           <mxGeometry x="10" y="774" width="580" height="43" as="geometry" />
         </mxCell>
