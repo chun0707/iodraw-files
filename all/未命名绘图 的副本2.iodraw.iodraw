@@ -420,23 +420,11 @@
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-21" value="如何整合多维度轨迹构建&lt;div&gt;稳定、可解释的生命早期&lt;/div&gt;&lt;div&gt;暴露表型？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="30" y="280" width="149.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-23" target="lBuMAX4k7uGDV3-RwbZ2-27">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-23" value="出生结局及生命早期暴露如何影响儿童早期健康？如何实现风险分级与早期识别？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
-          <mxGeometry x="30" y="360" width="149.5" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-25" target="lBuMAX4k7uGDV3-RwbZ2-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-25" value="从单维轨迹到&lt;div&gt;多维&lt;span style=&quot;background-color: initial;&quot;&gt;表型整合&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="199" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-27" target="lBuMAX4k7uGDV3-RwbZ2-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-27" value="纵向轨迹刻画与&lt;div&gt;风险演化解析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
-          <mxGeometry x="198" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-29" target="lBuMAX4k7uGDV3-RwbZ2-32">
           <mxGeometry relative="1" as="geometry" />
@@ -444,17 +432,8 @@
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-29" value="多维数据融合→潜在剖面分析→综合&lt;div&gt;表型识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="339" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-31" target="lBuMAX4k7uGDV3-RwbZ2-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-31" value="儿童健康轨迹建模&lt;div&gt;与风险识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
-          <mxGeometry x="339" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-32" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多维度轨迹整合与生命早期暴露表型构建&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="479" y="280" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-33" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;儿童早期健康轨迹建模及风险分级应用研究&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
-          <mxGeometry x="479" y="360" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" target="lBuMAX4k7uGDV3-RwbZ2-35">
           <mxGeometry relative="1" as="geometry">
