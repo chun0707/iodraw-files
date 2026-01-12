@@ -381,7 +381,7 @@
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-9" target="lBuMAX4k7uGDV3-RwbZ2-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-9" value="&lt;div&gt;研究基础构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
+        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-9" value="暴露指标的标准化、可量化与可比较表征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-11" target="lBuMAX4k7uGDV3-RwbZ2-12">
@@ -412,7 +412,7 @@
           <mxGeometry x="338" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-19" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多模态数据的孕前与孕期暴露可计算表型构建及标准化表达&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
-          <mxGeometry x="490" y="250" width="141" height="60" as="geometry" />
+          <mxGeometry x="479" y="200" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-21" target="lBuMAX4k7uGDV3-RwbZ2-25">
           <mxGeometry relative="1" as="geometry" />
