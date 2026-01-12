@@ -782,7 +782,7 @@
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Vuw10Q_AGiyh9IFsTDD2-1" source="Vuw10Q_AGiyh9IFsTDD2-13" target="Vuw10Q_AGiyh9IFsTDD2-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vuw10Q_AGiyh9IFsTDD2-13" value="&lt;p style=&quot;line-height: 120%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial; letter-spacing: -0.8px;&quot;&gt;刻画单维度轨迹模型：&amp;nbsp; &amp;nbsp;识&lt;/span&gt;&lt;span style=&quot;background-color: initial; letter-spacing: -0.8px;&quot;&gt;别最佳类别数与轨迹&amp;nbsp; 形态，轨迹特征参数提取&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
+        <mxCell id="Vuw10Q_AGiyh9IFsTDD2-13" value="&lt;p style=&quot;line-height: 120%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;background-color: initial; letter-spacing: -0.8px;&quot;&gt;刻画单维度轨迹模型&amp;nbsp; &amp;nbsp; &amp;nbsp; (匀速增长型/波动发展型/低起点追赶型)&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
           <mxGeometry x="239" y="304" width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-14" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
