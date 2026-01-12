@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P6bSTpoihu1Om0InwySR" name="研究思路图">
-    <mxGraphModel dx="1928" dy="2035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,7 +387,7 @@
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-11" target="lBuMAX4k7uGDV3-RwbZ2-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-11" value="夯实数据与队列基础" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
+        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-11" value="多源证据整合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="338" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-12" value="多模态动态出生队列与生命早期健康数据平台构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
@@ -471,7 +471,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究思路图 的副本" id="EIUbQYiHiBAOi2oEGZed">
-    <mxGraphModel dx="1738" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1741" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-0" />
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-1" parent="iJE_Ixc0VP38l0kxhpYX-0" />
@@ -580,7 +580,7 @@
           <mxGeometry x="-40" y="60" width="40" height="370" as="geometry" />
         </mxCell>
         <mxCell id="ttD24cNXJN-I8hGLPgy3-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
-          <mxGeometry x="20" y="63" width="610" height="370" as="geometry" />
+          <mxGeometry x="20" y="180" width="610" height="253" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
