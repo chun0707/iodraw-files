@@ -356,7 +356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="修改方案后研究思路图" id="vmmdosAmkEfEUyW5wa4m">
-    <mxGraphModel dx="1928" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1932" dy="2054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-0" />
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-1" parent="lBuMAX4k7uGDV3-RwbZ2-0" />
@@ -450,7 +450,7 @@
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-31" value="儿童健康轨迹建模&lt;div&gt;与风险识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="339" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-32" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;可计算表型出生结局风险模型与决定因素系统研究&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
+        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-32" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多维度轨迹整合与生命早期暴露表型构建&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="479" y="280" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-33" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;儿童早期健康轨迹建模及风险分级应用研究&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
