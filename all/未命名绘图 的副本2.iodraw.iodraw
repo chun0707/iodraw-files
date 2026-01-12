@@ -921,7 +921,7 @@
           <mxGeometry x="600" y="70" width="40" height="980" as="geometry" />
         </mxCell>
         <mxCell id="54gEHY3Bog9qkUytFZgv-2" value="贝叶斯信息准则（BIC）、轮廓系数、类别可解释性等综合指标确定最佳表型数量" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
-          <mxGeometry x="240" y="710" width="460" height="40" as="geometry" />
+          <mxGeometry x="180" y="698" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
