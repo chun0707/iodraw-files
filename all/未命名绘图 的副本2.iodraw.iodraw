@@ -412,12 +412,12 @@
           <mxGeometry x="338" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-19" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多模态数据的孕前与孕期暴露可计算表型构建及标准化表达&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
-          <mxGeometry x="479" y="200" width="141" height="60" as="geometry" />
+          <mxGeometry x="490" y="250" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-21" target="lBuMAX4k7uGDV3-RwbZ2-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-21" value="孕前与孕期暴露如何影响出生结局？其关键决定因素及风险模式是什么？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
+        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-21" value="如何整合多维度轨迹构建&lt;div&gt;稳定、可解释的生命早期&lt;/div&gt;&lt;div&gt;暴露表型？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="30" y="280" width="149.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-23" target="lBuMAX4k7uGDV3-RwbZ2-27">
