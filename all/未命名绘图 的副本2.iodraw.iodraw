@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="24.7.17" pages="6">
   <diagram name="生命历程 模型" id="1lUwp5lv9iCBSDm8D7J3">
-    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="P6bSTpoihu1Om0InwySR" name="研究思路图">
-    <mxGraphModel dx="1738" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,7 +345,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="60" width="610" height="370" as="geometry" />
+          <mxGeometry x="40" y="-35" width="610" height="370" as="geometry" />
         </mxCell>
         <mxCell id="ZIDaCdDt7lohlxToWS4--53" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;多模态数据驱动的动态出生队列构建与早期生命健康轨迹的决定因素研究——&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;以四川省为例&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;align=center;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-40" y="60" width="40" height="370" as="geometry" />
@@ -354,115 +354,115 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究思路图 的副本" id="EIUbQYiHiBAOi2oEGZed">
-    <mxGraphModel dx="1741" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1738" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-0" />
         <mxCell id="iJE_Ixc0VP38l0kxhpYX-1" parent="iJE_Ixc0VP38l0kxhpYX-0" />
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-2" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-2" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="199" y="70" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-3" value="研究路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-3" value="研究路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="339" y="70" width="121" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-4" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-4" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="480" y="70" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-5" value="研究问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-5" value="研究问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="30" y="70" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-7" target="iJE_Ixc0VP38l0kxhpYX-9">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-7" target="iJE_Ixc0VP38l0kxhpYX-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-7" value="如何刻画跨系统生命早期健康动态轨迹&lt;span style=&quot;background-color: initial;&quot;&gt;？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-7" value="如何刻画跨系统生命早期健康动态轨迹&lt;span style=&quot;background-color: initial;&quot;&gt;？&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="30" y="120" width="149.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-9" target="iJE_Ixc0VP38l0kxhpYX-11">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-9" target="iJE_Ixc0VP38l0kxhpYX-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-9" value="&lt;div&gt;健康状态的连续向量化表征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-9" value="&lt;div&gt;健康状态的连续向量化表征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-11" target="iJE_Ixc0VP38l0kxhpYX-12">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-11" target="iJE_Ixc0VP38l0kxhpYX-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-11" value="多模态融合 → 状态向量 → 动态轨迹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-11" value="多模态融合 → 状态向量 → 动态轨迹" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="338" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-12" value="高分辨率生命早期健康轨迹构建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-12" value="高分辨率生命早期健康轨迹构建" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="479" y="120" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-14" target="iJE_Ixc0VP38l0kxhpYX-16">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-14" target="iJE_Ixc0VP38l0kxhpYX-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-14" value="是否存在可复现的健康轨迹异质性模式？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-14" value="是否存在可复现的健康轨迹异质性模式？" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="30" y="200" width="149.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-16" target="iJE_Ixc0VP38l0kxhpYX-18">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-16" target="iJE_Ixc0VP38l0kxhpYX-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-16" value="轨迹分型驱动的生物学验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-16" value="轨迹分型驱动的生物学验证" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="199" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-18" target="iJE_Ixc0VP38l0kxhpYX-19">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-18" target="iJE_Ixc0VP38l0kxhpYX-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-18" value="轨迹聚类 → 分子特征关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-18" value="轨迹聚类 → 分子特征关联" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="338" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-19" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;健康轨迹亚型及其生物学基础&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-19" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;健康轨迹亚型及其生物学基础&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="479" y="200" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-21" target="iJE_Ixc0VP38l0kxhpYX-25">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-21" target="iJE_Ixc0VP38l0kxhpYX-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-21" value="早期健康轨迹是否影响多器官衰老速率？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-21" value="早期健康轨迹是否影响多器官衰老速率？" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="30" y="280" width="149.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-23" target="iJE_Ixc0VP38l0kxhpYX-27">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-23" target="iJE_Ixc0VP38l0kxhpYX-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-23" value="能否实现个体化衰老风险预测与分级？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-23" value="能否实现个体化衰老风险预测与分级？" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="30" y="360" width="149.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-25" target="iJE_Ixc0VP38l0kxhpYX-29">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-25" target="iJE_Ixc0VP38l0kxhpYX-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-25" value="从相关走向因果机制解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-25" value="从相关走向因果机制解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="199" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-27" target="iJE_Ixc0VP38l0kxhpYX-31">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-27" target="iJE_Ixc0VP38l0kxhpYX-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-27" value="风险分级导向的精准干预" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-27" value="风险分级导向的精准干预" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="198" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-29" target="iJE_Ixc0VP38l0kxhpYX-32">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-29" target="iJE_Ixc0VP38l0kxhpYX-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-29" value="衰老表型 → 因果推断 → 通路解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-29" value="衰老表型 → 因果推断 → 通路解析" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="339" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-31" target="iJE_Ixc0VP38l0kxhpYX-33">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" source="iJE_Ixc0VP38l0kxhpYX-31" target="iJE_Ixc0VP38l0kxhpYX-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-31" value="动态预测 → 窗口期&lt;div&gt;模拟&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-31" value="动态预测 → 窗口期&lt;div&gt;模拟&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="339" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-32" value="&lt;p style=&quot;font-size: 11px;&quot; data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多器官衰老速率表型与因果机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-32" value="&lt;p style=&quot;font-size: 11px;&quot; data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多器官衰老速率表型与因果机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="479" y="280" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-33" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;衰老风险分级与精准干预策略&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-33" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;衰老风险分级与精准干预策略&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="479" y="360" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="iJE_Ixc0VP38l0kxhpYX-1" target="iJE_Ixc0VP38l0kxhpYX-36">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="iJE_Ixc0VP38l0kxhpYX-1" target="iJE_Ixc0VP38l0kxhpYX-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="245.06666666666672" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iJE_Ixc0VP38l0kxhpYX-36" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;生命早期健康轨迹与多器官系统生物衰老的形成机制研究——基于西南多模态出生队列&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;align=center;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="iJE_Ixc0VP38l0kxhpYX-36" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;生命早期健康轨迹与多器官系统生物衰老的形成机制研究——基于西南多模态出生队列&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;align=center;fontColor=#333333;strokeColor=#666666;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="-40" y="60" width="40" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="ttD24cNXJN-I8hGLPgy3-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="iJE_Ixc0VP38l0kxhpYX-1">
+        <mxCell id="ttD24cNXJN-I8hGLPgy3-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="iJE_Ixc0VP38l0kxhpYX-1" vertex="1">
           <mxGeometry x="20" y="63" width="610" height="370" as="geometry" />
         </mxCell>
       </root>
@@ -651,7 +651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9TVZbKlXe7OxWzlVdGHy" name="第 3 页">
-    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
