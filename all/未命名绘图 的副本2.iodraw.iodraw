@@ -749,7 +749,7 @@
       <root>
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-0" />
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-1" parent="Vuw10Q_AGiyh9IFsTDD2-0" />
-        <mxCell id="Vuw10Q_AGiyh9IFsTDD2-2" value="&lt;font face=&quot;Helvetica&quot;&gt;研究内容一&lt;/font&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;color: black; letter-spacing: -0.6pt;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;基于多模态数据的四川省动态出生队列构建与生命早期健康数据平台搭建&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
+        <mxCell id="Vuw10Q_AGiyh9IFsTDD2-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); letter-spacing: -0.8px;&quot;&gt;研究内容一&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;color: black; letter-spacing: -0.6pt;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Helvetica&quot;&gt;生命早期健康暴露指标体系的系统构建&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
           <mxGeometry x="30" y="78" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Vuw10Q_AGiyh9IFsTDD2-1" source="Vuw10Q_AGiyh9IFsTDD2-4" target="Vuw10Q_AGiyh9IFsTDD2-6">
@@ -849,7 +849,7 @@
           <mxGeometry x="350" y="416" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
-          <mxGeometry x="11" y="70" width="575" height="121" as="geometry" />
+          <mxGeometry x="11" y="150" width="575" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
