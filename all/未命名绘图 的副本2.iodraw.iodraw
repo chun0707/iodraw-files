@@ -441,7 +441,7 @@
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-29" target="lBuMAX4k7uGDV3-RwbZ2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-29" value="多维数据融合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
+        <mxCell id="lBuMAX4k7uGDV3-RwbZ2-29" value="多维数据融合→潜在剖面分析→综合&lt;div&gt;表型识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lBuMAX4k7uGDV3-RwbZ2-1">
           <mxGeometry x="339" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lBuMAX4k7uGDV3-RwbZ2-1" source="lBuMAX4k7uGDV3-RwbZ2-31" target="lBuMAX4k7uGDV3-RwbZ2-33">
