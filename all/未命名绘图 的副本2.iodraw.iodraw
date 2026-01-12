@@ -878,7 +878,7 @@
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-39" value="潜在剖面分析(LPA)&lt;div&gt;联合轨迹模型&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
           <mxGeometry x="20" y="698" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vuw10Q_AGiyh9IFsTDD2-40" value="CART决策树&lt;div&gt;随机森林&lt;/div&gt;&lt;div&gt;暴露组合及风险分级&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
+        <mxCell id="Vuw10Q_AGiyh9IFsTDD2-40" value="个体内多维轨迹模型&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
           <mxGeometry x="460" y="698" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vuw10Q_AGiyh9IFsTDD2-41" value="个体内多维轨迹整合;&amp;nbsp;&lt;div&gt;跨个体、跨代际&lt;/div&gt;&lt;div&gt;轨迹关联&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="Vuw10Q_AGiyh9IFsTDD2-1">
