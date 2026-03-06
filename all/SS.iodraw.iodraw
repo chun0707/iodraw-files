@@ -13,6 +13,15 @@
         <mxCell id="jw6sTyqCbAsy5lxYhr1V-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumbs.dreamstime.com/b/%E5%B0%BF%E6%B2%89-%E5%A1%91%E6%96%99%E5%AE%B9%E5%99%A8%E4%B8%AD%E7%9A%84%E5%B0%BF%E6%A0%B7-%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%A3%80%E6%9F%A5%E5%92%8C%E8%AF%8A%E6%96%AD%E6%A6%82%E5%BF%B5-%E7%9F%A2%E9%87%8F%E5%8A%A8%E7%94%BB-%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%8A%A8%E7%94%BB%E6%8F%92%E5%9B%BE-215178000.jpg;" vertex="1" parent="1">
           <mxGeometry x="480" y="1260" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="K0K5bO7GTN4wGkO0fCtL-1" value="真实世界医疗数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="830" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K0K5bO7GTN4wGkO0fCtL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="860" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0K5bO7GTN4wGkO0fCtL-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumbs.dreamstime.com/b/尿沉-塑料容器中的尿样-实验室检查和诊断概念-矢量动画-矢量图动画插图-215178000.jpg;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2050" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
