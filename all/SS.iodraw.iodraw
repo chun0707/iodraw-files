@@ -19,6 +19,11 @@
         <mxCell id="K0K5bO7GTN4wGkO0fCtL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="860" width="360" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="L94ZmMxwgCsXOhqWYcWL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="K0K5bO7GTN4wGkO0fCtL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K0K5bO7GTN4wGkO0fCtL-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumbs.dreamstime.com/b/尿沉-塑料容器中的尿样-实验室检查和诊断概念-矢量动画-矢量图动画插图-215178000.jpg;" vertex="1" parent="1">
           <mxGeometry x="500" y="2050" width="40" height="40" as="geometry" />
         </mxCell>
@@ -28,8 +33,8 @@
         <mxCell id="L94ZmMxwgCsXOhqWYcWL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="900" width="360" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="L94ZmMxwgCsXOhqWYcWL-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1480" width="360" height="20" as="geometry" />
+        <mxCell id="L94ZmMxwgCsXOhqWYcWL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1400" width="360" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
