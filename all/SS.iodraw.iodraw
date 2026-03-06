@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17" pages="2">
   <diagram name="第 1 页" id="urYnWc1ZF82EtYnd5hCY">
-    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="565" dy="201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="140" y="830" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K0K5bO7GTN4wGkO0fCtL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="860" width="360" height="20" as="geometry" />
+          <mxGeometry x="140" y="860" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K0K5bO7GTN4wGkO0fCtL-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://thumbs.dreamstime.com/b/尿沉-塑料容器中的尿样-实验室检查和诊断概念-矢量动画-矢量图动画插图-215178000.jpg;" vertex="1" parent="1">
           <mxGeometry x="500" y="2050" width="40" height="40" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="492" y="1060" width="16" height="54.1" as="geometry" />
         </mxCell>
         <mxCell id="L94ZmMxwgCsXOhqWYcWL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="870" width="360" height="20" as="geometry" />
+          <mxGeometry x="140" y="900" width="360" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
