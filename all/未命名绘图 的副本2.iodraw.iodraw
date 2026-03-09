@@ -987,7 +987,7 @@
           <mxGeometry x="40" y="150" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-11" value="&lt;div&gt;构建个体从孕前至儿童早期的&lt;span style=&quot;background-color: initial;&quot;&gt;纵向暴露序列&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="40" y="270" width="130" height="40" as="geometry" />
+          <mxGeometry x="44.38" y="260" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" target="S0RlO1YUK-p0C3jvMrD0-14">
           <mxGeometry relative="1" as="geometry">
@@ -1193,7 +1193,7 @@
           <mxGeometry x="319" y="200" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-49" value="&lt;div&gt;构建个体从孕前至儿童早期的&lt;span style=&quot;background-color: initial;&quot;&gt;纵向暴露序列&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="240" y="300" width="130" height="40" as="geometry" />
+          <mxGeometry x="195.5" y="260" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
