@@ -448,7 +448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="修改方案后研究思路图 的副本" id="0lgCvWkO45U4Jzt5t3L4">
-    <mxGraphModel dx="1741" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1741" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-0" />
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-1" parent="iO1aGPT4MI7Fea-uNDnw-0" />
@@ -536,7 +536,7 @@
           <mxGeometry x="-49" y="60" width="40" height="290" as="geometry" />
         </mxCell>
         <mxCell id="nKp5_extGKhE_DW_fJV_-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
-          <mxGeometry y="-220" width="610" height="290" as="geometry" />
+          <mxGeometry x="20" y="59" width="610" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
