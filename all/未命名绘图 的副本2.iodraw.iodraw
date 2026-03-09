@@ -1217,8 +1217,8 @@
         <mxCell id="CJqxgT2aGNM467Gsjd3z-56" value="&lt;span style=&quot;letter-spacing: -0.8px;&quot;&gt;多因素回归模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="320" y="319" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CJqxgT2aGNM467Gsjd3z-57" value="&lt;span style=&quot;letter-spacing: -0.8px;&quot;&gt;多因素回归模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="480" y="330" width="110" height="20" as="geometry" />
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-57" value="&lt;span style=&quot;letter-spacing: -0.8px;&quot;&gt;分布式滞后模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
+          <mxGeometry x="460" y="319" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
