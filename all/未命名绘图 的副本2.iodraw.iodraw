@@ -1099,9 +1099,12 @@
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="80" as="sourcePoint" />
-            <mxPoint x="350" y="80" as="targetPoint" />
+            <mxPoint x="259.5" y="93.5" as="sourcePoint" />
+            <mxPoint x="319.5" y="93.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-6" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
+          <mxGeometry x="360" y="80" width="219.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
