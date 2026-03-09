@@ -1171,12 +1171,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJqxgT2aGNM467Gsjd3z-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-43">
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-43" target="CJqxgT2aGNM467Gsjd3z-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="260" as="targetPoint" />
             <Array as="points">
               <mxPoint x="175" y="240" />
               <mxPoint x="260" y="240" />
+              <mxPoint x="260" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1193,7 +1194,7 @@
           <mxGeometry x="319" y="200" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-50" value="&lt;div&gt;构建个体从孕前至&lt;/div&gt;&lt;div&gt;儿童早期的&lt;span style=&quot;background-color: initial;&quot;&gt;纵向&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;暴露&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;序列&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="205.19" y="260" width="94.81" height="50" as="geometry" />
+          <mxGeometry x="200" y="260" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
