@@ -1119,7 +1119,10 @@
           <mxGeometry x="221" y="20" width="79.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-14" value="综合暴露表型识别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="380" y="70" width="219.5" height="30" as="geometry" />
+          <mxGeometry x="319.5" y="20" width="219.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-15" target="CJqxgT2aGNM467Gsjd3z-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-15" value="1.2 综合暴露表型识别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="319.5" y="-40" width="249.5" height="30" as="geometry" />
