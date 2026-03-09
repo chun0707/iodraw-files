@@ -473,7 +473,7 @@
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-9" target="iO1aGPT4MI7Fea-uNDnw-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iO1aGPT4MI7Fea-uNDnw-9" value="核心指标构建&lt;div&gt;综合暴露表型识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-9" value="核心指标构建→&lt;div&gt;综合暴露表型识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-11" target="iO1aGPT4MI7Fea-uNDnw-12">
