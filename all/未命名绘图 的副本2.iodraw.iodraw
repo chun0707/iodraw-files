@@ -1,6 +1,6 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17" pages="8">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17" pages="9">
   <diagram name="生命历程 模型" id="1lUwp5lv9iCBSDm8D7J3">
-    <mxGraphModel dx="569" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,6 +442,98 @@
           <mxGeometry x="-49" y="60" width="40" height="290" as="geometry" />
         </mxCell>
         <mxCell id="lBuMAX4k7uGDV3-RwbZ2-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="lBuMAX4k7uGDV3-RwbZ2-1" vertex="1">
+          <mxGeometry x="20" y="60" width="610" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="修改方案后研究思路图 的副本" id="0lgCvWkO45U4Jzt5t3L4">
+    <mxGraphModel dx="1741" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-0" />
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-1" parent="iO1aGPT4MI7Fea-uNDnw-0" />
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-2" value="研究思路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="199" y="70" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-3" value="研究路径" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="339" y="70" width="121" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-4" value="研究内容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="480" y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-5" value="研究问题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontStyle=1" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="30" y="70" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-7" target="iO1aGPT4MI7Fea-uNDnw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-7" value="如何科学筛选与构建生命&lt;div&gt;早期核心暴露指标体系？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="30" y="120" width="149.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-9" target="iO1aGPT4MI7Fea-uNDnw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-9" value="暴露指标的标准化&lt;div&gt;可量化与可比较表征&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-11" target="iO1aGPT4MI7Fea-uNDnw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-11" value="多源证据整合→多准则决策分析→核心&lt;div&gt;指标库构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="338" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-12" value="生命早期健康暴露&lt;div&gt;指标体系的系统构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="479" y="120" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-14" target="iO1aGPT4MI7Fea-uNDnw-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-14" value="如何刻画生命早期关键健康维度的动态发展轨迹与&lt;div&gt;异质性亚型？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="30" y="200" width="149.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-16" target="iO1aGPT4MI7Fea-uNDnw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-16" value="从静态测量到时间&lt;div&gt;演变的动态轨迹建模&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="199" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-18" target="iO1aGPT4MI7Fea-uNDnw-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-18" value="纵向数据建模→轨迹亚型识别→轨迹&lt;div&gt;特征提取&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="338" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-19" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;基于核心指标的生命早期健康动态轨迹刻画&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="479" y="200" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-21" target="iO1aGPT4MI7Fea-uNDnw-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-21" value="如何整合多维度轨迹构建&lt;div&gt;稳定、可解释的生命早期&lt;/div&gt;&lt;div&gt;暴露表型？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="30" y="280" width="149.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-23" target="iO1aGPT4MI7Fea-uNDnw-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-23" value="从单维轨迹到&lt;div&gt;多维&lt;span style=&quot;background-color: initial;&quot;&gt;表型整合&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="199" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-25" target="iO1aGPT4MI7Fea-uNDnw-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-25" value="多维数据融合→潜在剖面分析→综合&lt;div&gt;表型识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="339" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-26" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多维度轨迹整合与生命早期暴露表型构建&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="479" y="280" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-28" target="iO1aGPT4MI7Fea-uNDnw-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-28" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;基于生命历程理论构建生命早期健康多维动态轨迹与综合表型研究&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;rounded=0;align=center;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+          <mxGeometry x="-49" y="60" width="40" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
           <mxGeometry x="20" y="60" width="610" height="290" as="geometry" />
         </mxCell>
       </root>
