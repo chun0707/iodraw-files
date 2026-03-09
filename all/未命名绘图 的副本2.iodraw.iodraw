@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究技术路线图（重新修改） 的副本" id="aJK4TaJCyyDNRj2YtTPZ">
-    <mxGraphModel dx="572" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="537" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-0" />
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-1" parent="S0RlO1YUK-p0C3jvMrD0-0" />
@@ -987,7 +987,7 @@
           <mxGeometry x="40" y="150" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-11" value="&lt;div&gt;&lt;div&gt;构建个体从孕前至儿童早期的&lt;/div&gt;&lt;div&gt;纵向暴露序列&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="10" y="264" width="190" height="40" as="geometry" />
+          <mxGeometry x="40" y="264" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" target="S0RlO1YUK-p0C3jvMrD0-14">
           <mxGeometry relative="1" as="geometry">
