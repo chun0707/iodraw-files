@@ -515,7 +515,7 @@
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-23" target="iO1aGPT4MI7Fea-uNDnw-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iO1aGPT4MI7Fea-uNDnw-23" value="暴露轨迹与ASD的关联" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-23" value="暴露轨迹与ASD的关联→潜在生物学路径探索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
           <mxGeometry x="199" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-25" target="iO1aGPT4MI7Fea-uNDnw-26">
