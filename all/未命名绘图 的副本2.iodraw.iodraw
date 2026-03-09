@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究技术路线图（重新修改） 的副本" id="aJK4TaJCyyDNRj2YtTPZ">
-    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="202" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-0" />
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-1" parent="S0RlO1YUK-p0C3jvMrD0-0" />
@@ -1097,13 +1097,13 @@
         <mxCell id="CJqxgT2aGNM467Gsjd3z-1" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="40" y="79" width="219.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CJqxgT2aGNM467Gsjd3z-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" target="CJqxgT2aGNM467Gsjd3z-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="259.5" y="93.5" as="sourcePoint" />
             <mxPoint x="319.5" y="93.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJqxgT2aGNM467Gsjd3z-6" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-6" value="综合暴露表型识别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="340" y="79" width="219.5" height="30" as="geometry" />
         </mxCell>
       </root>
