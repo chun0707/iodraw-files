@@ -1043,6 +1043,9 @@
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-25" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;联合潜类别增长模型(JLCGM)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;div&gt;增长多轨迹模型(MTM)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="350" y="416" width="230" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="S0RlO1YUK-p0C3jvMrD0-26" target="S0RlO1YUK-p0C3jvMrD0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="39.38" y="-90" width="540" height="180" as="geometry" />
         </mxCell>
