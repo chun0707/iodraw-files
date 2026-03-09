@@ -1174,8 +1174,8 @@
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="220" as="sourcePoint" />
-            <mxPoint x="350" y="220" as="targetPoint" />
+            <mxPoint x="300" y="215" as="sourcePoint" />
+            <mxPoint x="320" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
