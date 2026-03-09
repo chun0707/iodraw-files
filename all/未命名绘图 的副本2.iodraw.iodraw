@@ -1103,9 +1103,10 @@
         <mxCell id="CJqxgT2aGNM467Gsjd3z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-1" target="CJqxgT2aGNM467Gsjd3z-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJqxgT2aGNM467Gsjd3z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-1">
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-124.20000000000005" y="20" as="targetPoint" />
+            <mxPoint x="179.5" y="-10" as="sourcePoint" />
+            <mxPoint x="4.7999999999999545" y="35" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-1" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
