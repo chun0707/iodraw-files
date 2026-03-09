@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究技术路线图（重新修改） 的副本" id="aJK4TaJCyyDNRj2YtTPZ">
-    <mxGraphModel dx="1741" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-0" />
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-1" parent="S0RlO1YUK-p0C3jvMrD0-0" />
@@ -1103,9 +1103,6 @@
         <mxCell id="CJqxgT2aGNM467Gsjd3z-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-1" target="CJqxgT2aGNM467Gsjd3z-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CJqxgT2aGNM467Gsjd3z-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-1" target="CJqxgT2aGNM467Gsjd3z-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-1" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="50.5" y="-40" width="249.5" height="30" as="geometry" />
         </mxCell>
@@ -1121,11 +1118,11 @@
         <mxCell id="CJqxgT2aGNM467Gsjd3z-15" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="319.5" y="-40" width="249.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-16" target="S0RlO1YUK-p0C3jvMrD0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-16" value="确定筛选标准" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="135" y="20" width="79.5" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CJqxgT2aGNM467Gsjd3z-18" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="-249" y="20" width="249.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
