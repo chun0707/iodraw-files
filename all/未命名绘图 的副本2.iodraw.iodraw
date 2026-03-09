@@ -1195,11 +1195,14 @@
         <mxCell id="CJqxgT2aGNM467Gsjd3z-57" value="&lt;span style=&quot;letter-spacing: -0.8px;&quot;&gt;分布式滞后模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;dashed=1;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="460" y="308" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CJqxgT2aGNM467Gsjd3z-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-58" target="S0RlO1YUK-p0C3jvMrD0-15">
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-58" target="CJqxgT2aGNM467Gsjd3z-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-58" value="2.1 基于纵向模型的个体暴露动态轨迹识别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="39.379999999999995" y="450" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CJqxgT2aGNM467Gsjd3z-60" value="2.2 轨迹亚型特征刻画及敏感时间窗口识别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
+          <mxGeometry x="320" y="450" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
