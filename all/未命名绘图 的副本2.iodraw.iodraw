@@ -1095,16 +1095,16 @@
           <mxGeometry x="10" y="520" width="580" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-1" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="40" y="79" width="219.5" height="30" as="geometry" />
+          <mxGeometry x="40.25" y="-40" width="219.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" target="CJqxgT2aGNM467Gsjd3z-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="259.5" y="93.5" as="sourcePoint" />
-            <mxPoint x="319.5" y="93.5" as="targetPoint" />
+            <mxPoint x="259.75" y="-25.5" as="sourcePoint" />
+            <mxPoint x="319.75" y="-25.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-6" value="综合暴露表型识别" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="340" y="79" width="219.5" height="30" as="geometry" />
+          <mxGeometry x="340.25" y="-40" width="219.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
