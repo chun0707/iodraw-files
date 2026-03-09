@@ -1124,11 +1124,11 @@
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="-10" as="sourcePoint" />
-            <mxPoint x="230" y="19" as="targetPoint" />
+            <mxPoint x="160" y="-9" as="sourcePoint" />
+            <mxPoint x="230" y="20" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="-1" />
-              <mxPoint x="230" y="-1" />
+              <mxPoint x="160" />
+              <mxPoint x="230" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1139,7 +1139,7 @@
           <mxGeometry x="390" y="50" width="219.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-15" value="核心指标构建" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="320.5" y="-40" width="249.5" height="30" as="geometry" />
+          <mxGeometry x="319.5" y="-40" width="249.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
