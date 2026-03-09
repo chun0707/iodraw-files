@@ -448,7 +448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="修改方案后研究思路图 的副本" id="0lgCvWkO45U4Jzt5t3L4">
-    <mxGraphModel dx="1741" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1742" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-0" />
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-1" parent="iO1aGPT4MI7Fea-uNDnw-0" />
@@ -494,7 +494,7 @@
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-16" target="iO1aGPT4MI7Fea-uNDnw-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iO1aGPT4MI7Fea-uNDnw-16" value="从静态测量到时间&lt;div&gt;演变的动态轨迹建模&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-16" value="综合暴露表型动态轨迹识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
           <mxGeometry x="199" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-18" target="iO1aGPT4MI7Fea-uNDnw-19">
