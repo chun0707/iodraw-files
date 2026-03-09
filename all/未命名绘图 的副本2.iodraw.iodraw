@@ -448,7 +448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="修改方案后研究思路图 的副本" id="0lgCvWkO45U4Jzt5t3L4">
-    <mxGraphModel dx="1741" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1742" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-0" />
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-1" parent="iO1aGPT4MI7Fea-uNDnw-0" />
@@ -524,7 +524,7 @@
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-25" value="多维数据融合→潜在剖面分析→综合&lt;div&gt;表型识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
           <mxGeometry x="339" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iO1aGPT4MI7Fea-uNDnw-26" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;多维度轨迹整合与生命早期暴露表型构建&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
+        <mxCell id="iO1aGPT4MI7Fea-uNDnw-26" value="&lt;p data-end=&quot;912&quot; data-start=&quot;871&quot;&gt;生命早期代谢—炎症暴露轨迹对ASD早期风险的作用路径及关键机制解析&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="iO1aGPT4MI7Fea-uNDnw-1">
           <mxGeometry x="479" y="280" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iO1aGPT4MI7Fea-uNDnw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iO1aGPT4MI7Fea-uNDnw-1" source="iO1aGPT4MI7Fea-uNDnw-28">
