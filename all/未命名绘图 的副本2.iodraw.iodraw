@@ -976,7 +976,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="研究技术路线图（重新修改） 的副本" id="aJK4TaJCyyDNRj2YtTPZ">
-    <mxGraphModel dx="572" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2288" dy="2854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-0" />
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-1" parent="S0RlO1YUK-p0C3jvMrD0-0" />
@@ -1012,12 +1012,6 @@
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-32" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
           <mxGeometry x="40" y="400" width="550" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="S0RlO1YUK-p0C3jvMrD0-33" value="潜在剖面分析(LPA)&lt;div&gt;联合轨迹模型&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
-          <mxGeometry x="20" y="698" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="S0RlO1YUK-p0C3jvMrD0-35" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
-          <mxGeometry x="30" y="980" width="580" height="250" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="S0RlO1YUK-p0C3jvMrD0-1" edge="1">
           <mxGeometry relative="1" as="geometry">
