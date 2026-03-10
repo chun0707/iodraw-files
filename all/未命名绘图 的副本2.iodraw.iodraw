@@ -998,14 +998,8 @@
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-17" value="&lt;span style=&quot;letter-spacing: -0.8px;&quot;&gt;体重轨迹；血糖轨迹；&lt;/span&gt;&lt;span style=&quot;letter-spacing: -0.8px; background-color: initial;&quot;&gt;生长发育轨迹；神经发育轨迹等&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
           <mxGeometry x="18.5" y="586" width="149.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S0RlO1YUK-p0C3jvMrD0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="S0RlO1YUK-p0C3jvMrD0-1" source="S0RlO1YUK-p0C3jvMrD0-19" target="S0RlO1YUK-p0C3jvMrD0-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-19" value="&lt;p style=&quot;line-height: 120%;&quot; class=&quot;MsoNormal&quot;&gt;个体内多维轨迹整合;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;母体—子代跨代际&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;轨迹关联&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
           <mxGeometry x="238.75" y="586" width="141.25" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="S0RlO1YUK-p0C3jvMrD0-20" value="&lt;p style=&quot;line-height: 120%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;letter-spacing: -0.8px;&quot;&gt;综合表型：协调最优型；逆境代偿型；生长迟缓型代谢亢进—发育不协调型&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
-          <mxGeometry x="450" y="590" width="130" height="56" as="geometry" />
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
           <mxGeometry x="39.38" y="-90" width="540" height="180" as="geometry" />
@@ -1251,7 +1245,7 @@
           <mxGeometry x="340" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ue9zJV4_XMPE7nCOFB_f-7" value="&lt;p style=&quot;line-height: 120%;&quot; class=&quot;MsoNormal&quot;&gt;评估暴露轨迹与ASD早期结局之间的关联&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="350" y="530" width="80" height="50" as="geometry" />
+          <mxGeometry x="480" y="520" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
