@@ -1017,7 +1017,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
-          <mxGeometry x="39" y="140" width="540" height="200" as="geometry" />
+          <mxGeometry x="50.38" y="139" width="540" height="200" as="geometry" />
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="S0RlO1YUK-p0C3jvMrD0-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1184,7 +1184,7 @@
           <mxGeometry x="80.13" y="313" width="189.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-53" value="&lt;div&gt;分析不同暴露轨迹的&lt;/div&gt;&lt;div&gt;早期相关因素&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
-          <mxGeometry x="319.5" y="247" width="110.62" height="48" as="geometry" />
+          <mxGeometry x="347.76" y="171" width="110.62" height="48" as="geometry" />
         </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-55" value="识别暴露水平对ASD影响最大的关键&lt;div&gt;敏感时间窗口&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
           <mxGeometry x="458.38" y="247" width="110.62" height="48" as="geometry" />
