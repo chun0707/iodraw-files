@@ -1207,11 +1207,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ue9zJV4_XMPE7nCOFB_f-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-58" target="S0RlO1YUK-p0C3jvMrD0-32">
+        <mxCell id="Ue9zJV4_XMPE7nCOFB_f-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-58">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="560" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="170" y="535" />
-              <mxPoint x="90" y="535" />
+              <mxPoint x="170" y="500" />
+              <mxPoint x="90" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
