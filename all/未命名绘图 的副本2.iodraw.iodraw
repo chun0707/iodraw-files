@@ -1207,6 +1207,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ue9zJV4_XMPE7nCOFB_f-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-58" target="S0RlO1YUK-p0C3jvMrD0-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="535" />
+              <mxPoint x="90" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CJqxgT2aGNM467Gsjd3z-58" value="3.1 暴露轨迹与ASD风险的剂量—反应&lt;div&gt;及&lt;span style=&quot;background-color: initial;&quot;&gt;关键敏感窗口验证&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
           <mxGeometry x="50" y="450" width="239.38" height="40" as="geometry" />
         </mxCell>
