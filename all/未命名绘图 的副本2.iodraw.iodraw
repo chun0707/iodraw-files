@@ -1032,7 +1032,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-32" value="&lt;p style=&quot;line-height: 100%;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
-          <mxGeometry x="14" y="580" width="572" height="78" as="geometry" />
+          <mxGeometry x="14" y="640" width="572" height="18" as="geometry" />
         </mxCell>
         <mxCell id="S0RlO1YUK-p0C3jvMrD0-33" value="潜在剖面分析(LPA)&lt;div&gt;联合轨迹模型&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;rounded=0;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
           <mxGeometry x="20" y="698" width="120" height="60" as="geometry" />
@@ -1203,7 +1203,7 @@
             <mxPoint x="250" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="170" y="500" />
-              <mxPoint x="240" y="500" />
+              <mxPoint x="250" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
