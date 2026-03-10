@@ -1209,12 +1209,11 @@
             <mxPoint x="520" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="450" y="500" />
-              <mxPoint x="520" y="500" />
-              <mxPoint x="520" y="520" />
+              <mxPoint x="540" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ue9zJV4_XMPE7nCOFB_f-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-60">
+        <mxCell id="Ue9zJV4_XMPE7nCOFB_f-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="S0RlO1YUK-p0C3jvMrD0-1" source="CJqxgT2aGNM467Gsjd3z-60" target="Ue9zJV4_XMPE7nCOFB_f-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="520" as="targetPoint" />
             <Array as="points">
@@ -1234,7 +1233,7 @@
           <mxGeometry x="210" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ue9zJV4_XMPE7nCOFB_f-6" value="&lt;p style=&quot;line-height: 120%;&quot; class=&quot;MsoNormal&quot;&gt;中介标志物的靶向检测&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
-          <mxGeometry x="340" y="520" width="80" height="50" as="geometry" />
+          <mxGeometry x="320" y="520" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ue9zJV4_XMPE7nCOFB_f-7" value="&lt;p style=&quot;line-height: 120%;&quot; class=&quot;MsoNormal&quot;&gt;多标志物整合路径分析&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
           <mxGeometry x="500" y="520" width="80" height="50" as="geometry" />
