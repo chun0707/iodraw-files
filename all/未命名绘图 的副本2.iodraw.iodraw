@@ -1222,6 +1222,9 @@
         <mxCell id="CJqxgT2aGNM467Gsjd3z-60" value="3.2 基于“肠—免疫—脑”轴的多路径&lt;div&gt;中介机制解析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="S0RlO1YUK-p0C3jvMrD0-1" vertex="1">
           <mxGeometry x="320" y="450" width="260" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ue9zJV4_XMPE7nCOFB_f-2" value="&lt;p style=&quot;line-height: 120%;&quot; class=&quot;MsoNormal&quot;&gt;个体内多维轨迹整合;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;母体—子代跨代际&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;轨迹关联&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="S0RlO1YUK-p0C3jvMrD0-1">
+          <mxGeometry x="280" y="520" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
