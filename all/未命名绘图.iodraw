@@ -69,7 +69,7 @@
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="389" y="-380" as="targetPoint" />
+            <mxPoint x="389" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-24" value="Regulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
