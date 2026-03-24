@@ -15,8 +15,8 @@
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="-435" as="sourcePoint" />
-            <mxPoint x="360" y="-418" as="targetPoint" />
+            <mxPoint x="359" y="-295" as="sourcePoint" />
+            <mxPoint x="359" y="-230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
