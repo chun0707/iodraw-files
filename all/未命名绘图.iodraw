@@ -85,17 +85,17 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-37" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Physical Environment&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Population density&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Climate/terrain&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="414" y="-330" width="165" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="czKrhlEMNT-8i8LoTwNt-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="222" y="-310" as="sourcePoint" />
             <mxPoint x="222" y="-295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;Service Delivery&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Organization&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Infrastructure&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Health workforce&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Information&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Medical products&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Vaccines and technologies&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-260" width="165" height="110" as="geometry" />
+          <mxGeometry x="139" y="-260" width="165" height="110" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="131" y="-425" width="180" height="185" as="geometry" />
+          <mxGeometry x="131" y="-425" width="180" height="105" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-46" value="Health Care Sector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="160" y="-140" width="120" height="20" as="geometry" />
