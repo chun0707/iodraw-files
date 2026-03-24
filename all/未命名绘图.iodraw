@@ -56,13 +56,13 @@
           <mxGeometry x="460" y="1110" width="140.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-23" value="Organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="269.06" y="-460" width="79.94" height="20" as="geometry" />
+          <mxGeometry x="200" y="-460" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-24" value="Regulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="-460" width="79.94" height="20" as="geometry" />
+          <mxGeometry x="330" y="-460" width="98.94" height="20" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-25" value="Communication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="428.94" y="-460" width="90.06" height="20" as="geometry" />
+          <mxGeometry x="428.94" y="-460" width="191.06" height="20" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
