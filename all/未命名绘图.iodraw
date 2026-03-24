@@ -178,6 +178,9 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-89" value="Other Sectors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="666" y="-361" width="50" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-95" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-430" width="80" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
