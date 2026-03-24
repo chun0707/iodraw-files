@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-21" value="External Shocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="666" y="-241" width="51.19" height="60" as="geometry" />
+          <mxGeometry x="665" y="-241" width="51.19" height="60" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-23" value="Organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-471" width="130" height="20" as="geometry" />
@@ -147,11 +147,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="419" y="-318" as="sourcePoint" />
             <mxPoint x="459" y="-318" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-64">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="-270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
