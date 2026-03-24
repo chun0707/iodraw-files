@@ -43,6 +43,9 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-14" value="Coverage &amp;amp; Quality of MNCH Interventions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239.5" y="600" width="200.5" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-15" value="Coverage &amp;amp; Quality of MNCH Interventions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239.75" y="680" width="200.5" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
