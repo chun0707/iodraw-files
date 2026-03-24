@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uZWVHY5DHZfAhbiQWmPK">
-    <mxGraphModel dx="332" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,7 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-33" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Social Environment&lt;/b&gt;&lt;div&gt;&amp;nbsp; Leadership&lt;/div&gt;&lt;div&gt;&amp;nbsp; Organization&lt;/div&gt;&lt;div&gt;&amp;nbsp; Resources&lt;/div&gt;&lt;div&gt;&amp;nbsp; Social/cultural characteristic&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-220" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-34" target="czKrhlEMNT-8i8LoTwNt-37">
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-34" target="czKrhlEMNT-8i8LoTwNt-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-34" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Social Environment&lt;/b&gt;&lt;div&gt;&amp;nbsp; Leadership&lt;/div&gt;&lt;div&gt;&amp;nbsp; Organization&lt;/div&gt;&lt;div&gt;&amp;nbsp; Resources&lt;/div&gt;&lt;div&gt;&amp;nbsp; Social/cultural characteristic&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
