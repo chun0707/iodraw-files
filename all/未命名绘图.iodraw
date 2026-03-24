@@ -23,7 +23,7 @@
           <mxGeometry x="195" y="-486" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-8" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Enabling Environment&amp;amp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;Governance&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;Leadership&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;Oversight&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;Policies and Regulations&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;Financing&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;Provider payment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="178" y="-420" width="165" height="100" as="geometry" />
+          <mxGeometry x="178" y="-420" width="165" height="110" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-10" value="Service Delivery&lt;div&gt;Organization&lt;/div&gt;&lt;div&gt;Infrastructure&lt;/div&gt;&lt;div&gt;Health workforce&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;&lt;div&gt;Medical products&lt;/div&gt;&lt;div&gt;Vaccines and technologies&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="140" width="150" height="160" as="geometry" />
@@ -93,8 +93,8 @@
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="261" y="-312" as="sourcePoint" />
-            <mxPoint x="261" y="-297" as="targetPoint" />
+            <mxPoint x="261" y="-309" as="sourcePoint" />
+            <mxPoint x="261" y="-294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
