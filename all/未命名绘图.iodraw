@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="czKrhlEMNT-8i8LoTwNt-1" value="Health System Control Knobs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="50" width="230" height="20" as="geometry" />
+          <mxGeometry x="165" y="-260" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-2" value="Strengthening Health Systems to improve MNCH Outcomes-a Framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="-360" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-3" value="Financing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="155" y="-230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-4" value="Regulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="335" y="-230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-5" value="Organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="245" y="-230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-6" value="Communication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="90" height="40" as="geometry" />
+          <mxGeometry x="435" y="-230" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-8" value="Enabling Environment&amp;amp;&lt;div&gt;Governance&lt;/div&gt;&lt;div&gt;Leadership&lt;/div&gt;&lt;div&gt;Oversight&amp;nbsp; Policies and Regulation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="150" height="60" as="geometry" />
+          <mxGeometry x="200" y="80" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
