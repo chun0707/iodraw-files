@@ -58,7 +58,7 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-19" value="Community" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="399.75" y="970" width="140.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-20" value="Other Sector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-20" value="Other Sectors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1040" width="140.25" height="40" as="geometry" />
         </mxCell>
       </root>
