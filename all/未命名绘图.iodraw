@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="uZWVHY5DHZfAhbiQWmPK">
-    <mxGraphModel dx="572" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="565" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="195" y="-486" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-8" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Enabling Environment&amp;amp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Governance&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; Leadership&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; Oversight&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; Policies and Regulations&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; Financing&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; Provider payment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-380" width="150" height="160" as="geometry" />
+          <mxGeometry x="210" y="-380" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-9" value="Social Environment&lt;div&gt;Leadership&lt;/div&gt;&lt;div&gt;Organization&lt;/div&gt;&lt;div&gt;Resources&lt;/div&gt;&lt;div&gt;Social/cultural characteristic&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="-390" width="160" height="160" as="geometry" />
