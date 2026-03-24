@@ -79,6 +79,9 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-33" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Social Environment&lt;/b&gt;&lt;div&gt;&amp;nbsp; Leadership&lt;/div&gt;&lt;div&gt;&amp;nbsp; Organization&lt;/div&gt;&lt;div&gt;&amp;nbsp; Resources&lt;/div&gt;&lt;div&gt;&amp;nbsp; Social/cultural characteristic&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-220" width="170" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-34" target="czKrhlEMNT-8i8LoTwNt-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-34" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Social Environment&lt;/b&gt;&lt;div&gt;&amp;nbsp; Leadership&lt;/div&gt;&lt;div&gt;&amp;nbsp; Organization&lt;/div&gt;&lt;div&gt;&amp;nbsp; Resources&lt;/div&gt;&lt;div&gt;&amp;nbsp; Social/cultural characteristic&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="-421" width="165" height="71" as="geometry" />
         </mxCell>
@@ -89,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-37" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Physical Environment&lt;/span&gt;&lt;div style=&quot;&quot;&gt;Population density&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Climate/terrain&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="395" y="-270" width="165" height="71" as="geometry" />
+          <mxGeometry x="376" y="-320" width="165" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
