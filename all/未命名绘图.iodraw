@@ -13,9 +13,6 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-3" value="Financing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="-460" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-4" value="Regulation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="-230" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="-435" as="sourcePoint" />
@@ -25,14 +22,11 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="-486" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-6" value="Communication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="-230" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-8" value="Enabling Environment&amp;amp;&lt;div&gt;Governance&lt;/div&gt;&lt;div&gt;Leadership&lt;/div&gt;&lt;div&gt;Oversight&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Policies and Regulations&lt;/div&gt;&lt;div&gt;Financing&lt;/div&gt;&lt;div&gt;Provider payment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-230" width="150" height="160" as="geometry" />
+          <mxGeometry x="210" y="-380" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-9" value="Social Environment&lt;div&gt;Leadership&lt;/div&gt;&lt;div&gt;Organization&lt;/div&gt;&lt;div&gt;Resources&lt;/div&gt;&lt;div&gt;Social/cultural characteristic&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="-30" width="160" height="160" as="geometry" />
+          <mxGeometry x="410" y="-390" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-10" value="Service Delivery&lt;div&gt;Organization&lt;/div&gt;&lt;div&gt;Infrastructure&lt;/div&gt;&lt;div&gt;Health workforce&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;&lt;div&gt;Medical products&lt;/div&gt;&lt;div&gt;Vaccines and technologies&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="140" width="150" height="160" as="geometry" />
