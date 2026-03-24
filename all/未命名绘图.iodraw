@@ -97,7 +97,7 @@
             <mxPoint x="261" y="-295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Service Delivery&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;Organization&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Infrastructure&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Health workforce&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Information&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Medical products&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Vaccines and technologies&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;Service Delivery&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Organization&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Infrastructure&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Health workforce&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Information&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Medical products&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Vaccines and technologies&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="179" y="-295" width="165" height="110" as="geometry" />
         </mxCell>
       </root>
