@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="459" y="-446" as="sourcePoint" />
-            <mxPoint x="459" y="-431" as="targetPoint" />
+            <mxPoint x="459" y="-451" as="sourcePoint" />
+            <mxPoint x="459" y="-436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-37" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Physical Environment&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Population density&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Climate/terrain&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="73" y="-420" width="574" height="310" as="geometry" />
+          <mxGeometry x="73" y="-410" width="574" height="300" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-66" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
