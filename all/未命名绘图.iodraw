@@ -26,7 +26,7 @@
           <mxGeometry x="139" y="-420" width="165" height="110" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-12" value="Household Characteristics&lt;div&gt;Size and composition&lt;/div&gt;&lt;div&gt;Wealth/Education&lt;/div&gt;&lt;div&gt;Intra-household power relations&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290.25" y="20" width="150" height="130" as="geometry" />
+          <mxGeometry x="290.25" y="20" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-13" value="Individual factors&lt;div&gt;Biological factors&lt;/div&gt;&lt;div&gt;Psychological factors&lt;/div&gt;&lt;div&gt;Behavioral factors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="10" width="150" height="130" as="geometry" />
