@@ -145,12 +145,6 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="73" y="-180" width="574" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-65" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.998;exitY=0.834;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-45" target="czKrhlEMNT-8i8LoTwNt-51">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="-190" as="sourcePoint" />
-            <mxPoint x="310" y="-240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
