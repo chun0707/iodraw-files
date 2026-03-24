@@ -94,8 +94,10 @@
         <mxCell id="czKrhlEMNT-8i8LoTwNt-44" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;Service Delivery&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Organization&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Infrastructure&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Health workforce&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Information&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Medical products&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Vaccines and technologies&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="88" y="-295" width="165" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-45" target="czKrhlEMNT-8i8LoTwNt-55">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="-290" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="-425" width="180" height="270" as="geometry" />
@@ -129,9 +131,6 @@
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-54" value="Health System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="110.5" y="-140" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-55" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=none;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-320" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
