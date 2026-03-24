@@ -50,7 +50,7 @@
           <mxGeometry x="399.75" y="970" width="140.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-21" value="External Shocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="658.81" y="-240" width="51.19" height="40" as="geometry" />
+          <mxGeometry x="658.81" y="-240" width="51.19" height="60" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-23" value="Organization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="-471" width="130" height="20" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry x="20" y="-501" width="590" height="400" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-89" value="Other Sectors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="658.81" y="-360" width="50" height="70" as="geometry" />
+          <mxGeometry x="658.81" y="-360" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
