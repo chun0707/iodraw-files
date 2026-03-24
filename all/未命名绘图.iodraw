@@ -26,10 +26,10 @@
           <mxGeometry x="87" y="-420" width="165" height="110" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-12" value="&lt;b&gt;&amp;nbsp;Household&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Characteristics&lt;/b&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp; Size and composition&lt;/div&gt;&lt;div&gt;&amp;nbsp; Wealth/Education&lt;/div&gt;&lt;div&gt;&amp;nbsp; Intra-household power&amp;nbsp; &amp;nbsp; &amp;nbsp;relations&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-220" width="160" height="79" as="geometry" />
+          <mxGeometry x="320" y="-225" width="160" height="79" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-13" value="&lt;b&gt;&amp;nbsp;Individual factors&lt;/b&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Biological factors&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Psychological factors&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;Behavioral factors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="502" y="-220" width="130" height="79" as="geometry" />
+          <mxGeometry x="502" y="-225" width="130" height="79" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-14" value="Coverage &amp;amp; Quality of MNCH Interventions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="239.5" y="600" width="200.5" height="60" as="geometry" />
@@ -108,19 +108,19 @@
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-50" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-12" target="czKrhlEMNT-8i8LoTwNt-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480.25" y="-186.5" as="sourcePoint" />
-            <mxPoint x="500.25" y="-186.5" as="targetPoint" />
+            <mxPoint x="480.25" y="-191.5" as="sourcePoint" />
+            <mxPoint x="500.25" y="-191.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="313.97" y="-225" width="326.03" height="115" as="geometry" />
+          <mxGeometry x="313.97" y="-230" width="326.03" height="115" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-52" value="Households" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="431.94" y="-136" width="120" height="20" as="geometry" />
+          <mxGeometry x="431.94" y="-141" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.568;exitY=-0.042;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-51" target="czKrhlEMNT-8i8LoTwNt-48">
+        <mxCell id="czKrhlEMNT-8i8LoTwNt-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="czKrhlEMNT-8i8LoTwNt-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="-200" as="sourcePoint" />
+            <mxPoint x="504" y="-230" as="sourcePoint" />
             <mxPoint x="540" y="-250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
