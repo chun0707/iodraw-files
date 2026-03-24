@@ -151,9 +151,6 @@
             <mxPoint x="312" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="czKrhlEMNT-8i8LoTwNt-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="czKrhlEMNT-8i8LoTwNt-74" target="czKrhlEMNT-8i8LoTwNt-77">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-74" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="23" y="-491" width="10" height="90" as="geometry" />
         </mxCell>
@@ -164,7 +161,7 @@
           <mxGeometry x="930" y="-515" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-81" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=25;rotation=-195;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-471" width="63.76" height="101" as="geometry" />
+          <mxGeometry x="647" y="-491" width="63.76" height="101" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
