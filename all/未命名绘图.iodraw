@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-34" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Social Environment&lt;/b&gt;&lt;div&gt;&amp;nbsp; Leadership&lt;/div&gt;&lt;div&gt;&amp;nbsp; Organization&lt;/div&gt;&lt;div&gt;&amp;nbsp; Resources&lt;/div&gt;&lt;div&gt;&amp;nbsp; Social/cultural characteristic&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="393" y="-421" width="165" height="71" as="geometry" />
+          <mxGeometry x="394" y="-421" width="165" height="71" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-37" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Physical Environment&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Population density&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; Climate/terrain&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="393" y="-331" width="165" height="51" as="geometry" />
+          <mxGeometry x="394" y="-331" width="165" height="51" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,7 +104,7 @@
           <mxGeometry x="182" y="-180" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="czKrhlEMNT-8i8LoTwNt-47" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Community&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="415.5" y="-275" width="120" height="20" as="geometry" />
+          <mxGeometry x="416.5" y="-275" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
