@@ -268,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-172" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="139" y="400" width="320" height="171" as="geometry" />
+          <mxGeometry x="139" y="560" width="320" height="11" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-177" value="&lt;font color=&quot;#ffffff&quot;&gt;实际风险&lt;span style=&quot;background-color: initial;&quot;&gt;结构&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;生殖衰老)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;可能存在&lt;span style=&quot;background-color: initial;&quot;&gt;系统性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;错配&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="465.5" y="480" width="74.5" height="74" as="geometry" />
