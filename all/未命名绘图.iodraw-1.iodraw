@@ -104,8 +104,8 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-46" value="中国宫颈癌&lt;div&gt;疾病负担&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-47" value="高危HPV感染率&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="120" height="40" as="geometry" />
+        <mxCell id="oCkb1at5Bk3bMaboroE6-47" value="高危HPV感染率&lt;div&gt;（两个高峰：20~24岁；&amp;gt;45岁）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="320" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
