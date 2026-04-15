@@ -183,6 +183,18 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-67" value="&lt;ul&gt;&lt;li&gt;疫苗筛查均无&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-64">
           <mxGeometry y="90" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-69" value="&amp;nbsp; &amp;nbsp; 疫苗&amp;amp;筛查(&amp;lt;45岁女性)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-70" value="&lt;ul&gt;&lt;li&gt;疫苗+筛查&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-69">
+          <mxGeometry y="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-71" value="&lt;ul&gt;&lt;li&gt;仅疫苗/仅筛查&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-69">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-72" value="&lt;ul&gt;&lt;li&gt;疫苗筛查均无&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-69">
+          <mxGeometry y="90" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
