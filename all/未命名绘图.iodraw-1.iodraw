@@ -275,6 +275,9 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-182" value="当前筛查策略&lt;div&gt;（基于年龄）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="468" y="400" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-186" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="320" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
