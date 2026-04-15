@@ -216,7 +216,7 @@
             <mxRectangle width="141" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" edge="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="401" y="563" as="sourcePoint" />
             <mxPoint x="401" y="543" as="targetPoint" />
@@ -267,7 +267,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-172" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="139" y="419" width="320" height="170" as="geometry" />
+          <mxGeometry x="139" y="419" width="320" height="111" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-177" value="实际风险结构&lt;div&gt;(基于生殖衰老)&lt;/div&gt;&lt;div&gt;存在系统性错配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463" y="533" width="90" height="50" as="geometry" />
