@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="xPrWM4DjN8UuHRUYaUnr">
-    <mxGraphModel dx="326" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="566" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-36" value="可获得筛查&lt;div&gt;（大部分&amp;gt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#000000;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="260" as="targetPoint" />
             <Array as="points">
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#000000;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="260" as="targetPoint" />
             <Array as="points">
@@ -114,45 +114,45 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-53" value="现实困境&lt;div&gt;现实挑战&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="48" y="405" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-73" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-73" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="314" y="405" width="140" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-74" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
           <mxGeometry width="140" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-75" value="&lt;b&gt;&amp;gt;45岁女性（机制解析）&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-74">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-75" value="&lt;b&gt;&amp;gt;45岁女性（机制解析）&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-74">
           <mxGeometry width="140" height="19" as="geometry">
             <mxRectangle width="140" height="19" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
           <mxGeometry y="19" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-77" value="围绝经期激素波动" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-76">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-77" value="围绝经期激素波动" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-76">
           <mxGeometry width="140" height="20" as="geometry">
             <mxRectangle width="140" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-78" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
           <mxGeometry y="39" width="140" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-79" value="免疫衰老(HPV清除下降)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-78">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-79" value="免疫衰老(HPV清除下降)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-78">
           <mxGeometry width="140" height="17" as="geometry">
             <mxRectangle width="140" height="17" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-80" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-80" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
           <mxGeometry y="56" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-81" value="宫颈屏障功能下降" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-80">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-81" value="宫颈屏障功能下降" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-80">
           <mxGeometry width="140" height="20" as="geometry">
             <mxRectangle width="140" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-112" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-112" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-73">
           <mxGeometry y="76" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-113" value="炎症微环境(SASP)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-112">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-113" value="炎症微环境(SASP)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-112">
           <mxGeometry width="140" height="20" as="geometry">
             <mxRectangle width="140" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -162,37 +162,37 @@
             <mxPoint x="224" y="506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-84" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-84" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="144" y="406" width="160" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-84">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-85" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-84">
           <mxGeometry width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-86" value="&lt;b&gt;&amp;gt;45岁女性（流调视角）&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-85">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-86" value="&lt;b&gt;&amp;gt;45岁女性（流调视角）&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-85">
           <mxGeometry width="160" height="20" as="geometry">
             <mxRectangle width="160" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-84">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-87" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-84">
           <mxGeometry y="20" width="160" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-88" value="大多错过疫苗，仅依赖筛查" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-87">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-88" value="大多错过疫苗，仅依赖筛查" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-87">
           <mxGeometry width="160" height="17" as="geometry">
             <mxRectangle width="160" height="17" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-84">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-84">
           <mxGeometry y="37" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-90" value="筛查参与率下降" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-89">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-90" value="筛查参与率下降" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-89">
           <mxGeometry width="160" height="20" as="geometry">
             <mxRectangle width="160" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-91" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-84">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-91" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-84">
           <mxGeometry y="57" width="160" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-92" value="健康认知不足" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-91">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-92" value="健康认知不足" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-91">
           <mxGeometry width="160" height="22" as="geometry">
             <mxRectangle width="160" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -268,7 +268,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-172" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="139" y="400" width="320" height="171" as="geometry" />
+          <mxGeometry x="139" y="530" width="320" height="41" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-177" value="&lt;font color=&quot;#ffffff&quot;&gt;实际风险&lt;span style=&quot;background-color: initial;&quot;&gt;结构&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;生殖衰老)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;可能存在&lt;span style=&quot;background-color: initial;&quot;&gt;系统性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;错配&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="465.5" y="480" width="74.5" height="74" as="geometry" />
