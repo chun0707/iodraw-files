@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="xPrWM4DjN8UuHRUYaUnr">
-    <mxGraphModel dx="569" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="570" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,7 +270,7 @@
           <mxGeometry x="140" y="390" width="330" height="180" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-176" value="当前筛查策略&lt;div&gt;（基于年龄）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-177" value="实际风险结构&lt;div&gt;(基于生殖衰老)&lt;/div&gt;&lt;div&gt;存在系统性错配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="90" height="50" as="geometry" />
