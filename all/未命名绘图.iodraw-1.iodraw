@@ -270,7 +270,7 @@
           <mxGeometry x="145" y="395" width="320" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-176" value="当前筛查策略&lt;div&gt;（基于年龄）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="401" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-177" value="实际风险结构&lt;div&gt;(基于生殖衰老)&lt;/div&gt;&lt;div&gt;存在系统性错配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="90" height="50" as="geometry" />
