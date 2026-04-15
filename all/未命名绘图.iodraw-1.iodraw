@@ -54,7 +54,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-17" target="oCkb1at5Bk3bMaboroE6-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="240" />
+              <mxPoint x="100" y="240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="中国宫颈癌筛查指南&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(35~64岁女性)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="500" height="30" as="geometry" />
