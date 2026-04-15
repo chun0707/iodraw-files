@@ -105,8 +105,14 @@
             <mxPoint x="200" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37" target="oCkb1at5Bk3bMaboroE6-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-37" value="理想状态：疫苗筛查均有" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-42" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
