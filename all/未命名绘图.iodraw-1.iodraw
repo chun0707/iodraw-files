@@ -27,7 +27,7 @@
           <mxGeometry x="420" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-9" value="WHO消除&lt;div&gt;宫颈癌目标&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="80" height="40" as="geometry" />
+          <mxGeometry x="50" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6C8EBF;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-10">
           <mxGeometry relative="1" as="geometry">
@@ -49,7 +49,7 @@
           <mxGeometry x="420" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="&lt;font color=&quot;#ffffff&quot;&gt;中国宫颈癌&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;筛查指南&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(35~64岁)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="80" height="100" as="geometry" />
+          <mxGeometry x="50" y="200" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-20" value="未获得疫苗和筛查&lt;br&gt;&lt;div&gt;(年龄/可及性/依从性等)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="400" y="266" width="140" height="40" as="geometry" />
