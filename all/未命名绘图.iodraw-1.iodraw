@@ -270,7 +270,7 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-172" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="139" y="400" width="320" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-177" value="实际风险结构&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;生殖衰老)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;可能存在&lt;/div&gt;&lt;div&gt;系统性&lt;/div&gt;&lt;div&gt;错配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-177" value="实际风险&lt;span style=&quot;background-color: initial;&quot;&gt;结构&lt;/span&gt;&lt;div&gt;&lt;div&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;生殖衰老)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;可能存在&lt;span style=&quot;background-color: initial;&quot;&gt;系统性&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;错配&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465.5" y="480" width="77" height="74" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-182" target="oCkb1at5Bk3bMaboroE6-177">
