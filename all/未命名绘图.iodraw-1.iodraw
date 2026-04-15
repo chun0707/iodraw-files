@@ -67,8 +67,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="中国宫颈癌筛查指南&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(35~64岁女性)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="200" height="60" as="geometry" />
+        <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="中国宫颈癌&lt;div&gt;筛查指南&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(35~64岁)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-20" value="未获得疫苗和筛查&lt;br&gt;&lt;div&gt;(年龄/可及性/依从性等)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="360" width="140" height="40" as="geometry" />
