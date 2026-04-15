@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-37" value="理想状态：疫苗筛查均有" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="205" width="400" height="30" as="geometry" />
+          <mxGeometry x="140" y="205" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-46" value="中国宫颈癌&lt;div&gt;疾病负担&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="49" y="325" width="80" height="60" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="410" y="321" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="266" y="265" width="280" height="110" as="geometry" />
+          <mxGeometry x="270" y="404" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
