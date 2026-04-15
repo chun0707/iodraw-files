@@ -265,7 +265,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="470" />
+              <mxPoint x="480" y="480" />
               <mxPoint x="480" y="415" />
             </Array>
           </mxGeometry>
