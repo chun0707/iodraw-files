@@ -294,7 +294,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="59" width="500" height="122" as="geometry" />
+          <mxGeometry x="40" y="59" width="500" height="111" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-208" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="220" width="40" height="60" as="geometry" />
