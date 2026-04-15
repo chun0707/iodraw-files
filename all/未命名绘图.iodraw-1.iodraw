@@ -281,12 +281,13 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-182" value="当前筛查&lt;div&gt;（基于年龄）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="405" width="72" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-186">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="390" as="targetPoint" />
+            <mxPoint x="502.79999999999995" y="405" as="sourcePoint" />
+            <mxPoint x="400" y="385" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="503" y="380" />
-              <mxPoint x="471" y="380" />
+              <mxPoint x="503" y="385" />
+              <mxPoint x="471" y="385" />
             </Array>
           </mxGeometry>
         </mxCell>
