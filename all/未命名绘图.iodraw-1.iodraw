@@ -104,6 +104,9 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-46" value="中国宫颈癌&lt;div&gt;疾病负担&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-47" value="可获得疫苗&amp;amp;筛查&lt;div&gt;（大部分&amp;lt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
