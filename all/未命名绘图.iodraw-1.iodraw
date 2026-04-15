@@ -113,13 +113,20 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="266" y="250" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-50">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-50" target="oCkb1at5Bk3bMaboroE6-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="470" as="targetPoint" />
+            <mxPoint x="480" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="380" />
+              <mxPoint x="406" y="380" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-50" value="以年龄为宫颈癌筛查的优先人群？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-53" value="现实困境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
