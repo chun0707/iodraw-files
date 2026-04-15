@@ -48,25 +48,25 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-12" value="90%的宫颈疾病&lt;div&gt;患者&lt;span style=&quot;background-color: initial;&quot;&gt;接受治疗&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="420" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="中国宫颈癌&lt;div&gt;筛查指南&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(35~64岁)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="中国宫颈癌&lt;div&gt;筛查指南&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(35~64岁)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="50" y="200" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-20" value="未获得疫苗和筛查&lt;br&gt;&lt;div&gt;(年龄/可及性/依从性等)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-20" value="未获得疫苗和筛查&lt;br&gt;&lt;div&gt;(年龄/可及性/依从性等)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="266" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-23" value="可获得疫苗&amp;amp;筛查&lt;div&gt;（大部分&amp;lt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-23" value="可获得疫苗&amp;amp;筛查&lt;div&gt;（大部分&amp;lt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-24" value="疫苗&amp;amp;筛查(&amp;lt;45岁女性)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1030" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-34" value="&lt;font&gt;可获得筛查&lt;/font&gt;&lt;div&gt;&lt;font&gt;（大部分&amp;gt;45岁女性）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-34" value="&lt;font&gt;可获得筛查&lt;/font&gt;&lt;div&gt;&lt;font&gt;（大部分&amp;gt;45岁女性）&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="270" y="266" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-36" value="可获得筛查&lt;div&gt;（大部分&amp;gt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1010" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="260" as="targetPoint" />
             <Array as="points">
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="260" as="targetPoint" />
             <Array as="points">
@@ -84,19 +84,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-37" value="理想状态：疫苗筛查均有" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-37" value="理想状态：疫苗筛查均有" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="140" y="200" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-46" value="中国宫颈癌&lt;div&gt;疾病负担&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-46" value="中国宫颈癌&lt;div&gt;疾病负担&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="49" y="320" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-47" value="高危HPV感染率&lt;div&gt;（两个高峰：20~24岁；&amp;gt;45岁）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-47" value="高危HPV感染率&lt;div&gt;（两个高峰：20~24岁；&amp;gt;45岁）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="270" y="316" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-48" value="宫颈癌发病率和死亡率&lt;br&gt;&lt;div&gt;（高峰：&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;45岁&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-48" value="宫颈癌发病率和死亡率&lt;br&gt;&lt;div&gt;（高峰：&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;45岁&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="410" y="316" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="260" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-50" target="oCkb1at5Bk3bMaboroE6-49">
@@ -108,7 +108,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-50" value="&lt;font color=&quot;#ffffff&quot;&gt;宫颈癌精准防控的&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;优先人群？&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-50" value="&lt;font color=&quot;#ffffff&quot;&gt;宫颈癌精准防控的&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;优先人群？&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="316" width="120" height="54" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-53" value="现实困境&lt;div&gt;现实挑战&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
