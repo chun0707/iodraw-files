@@ -50,31 +50,31 @@
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="232" as="sourcePoint" />
-            <mxPoint x="470" y="272" as="targetPoint" />
+            <mxPoint x="290" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="242" />
-              <mxPoint x="471" y="242" />
+              <mxPoint x="290" y="330" />
+              <mxPoint x="471" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="oCkb1at5Bk3bMaboroE6-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="232" as="sourcePoint" />
+            <mxPoint x="290" y="320" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="290" y="242" />
-              <mxPoint x="100" y="242" />
+              <mxPoint x="290" y="330" />
+              <mxPoint x="100" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="中国宫颈癌筛查指南&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(35~64岁女性)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="500" height="30" as="geometry" />
+          <mxGeometry x="40" y="200" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-20" value="未获得疫苗和筛查&lt;br&gt;&lt;div&gt;(年龄/可及性/依从性等)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="272" width="140" height="40" as="geometry" />
+          <mxGeometry x="400" y="360" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-23" value="可获得疫苗&amp;amp;筛查&lt;div&gt;（大部分&amp;lt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="272" width="140" height="40" as="geometry" />
+          <mxGeometry x="220" y="360" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-24" value="疫苗&amp;amp;筛查(&amp;lt;45岁女性)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1030" width="130" height="80" as="geometry" />
@@ -95,13 +95,13 @@
           <mxGeometry x="450" y="580" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-34" value="可获得筛查&lt;div&gt;（大部分&amp;gt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="272" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-36" value="可获得筛查&lt;div&gt;（大部分&amp;gt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="555" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-37" value="理想状态：疫苗筛查均有" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="247" width="160" height="20" as="geometry" />
+          <mxGeometry x="210" y="335" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
