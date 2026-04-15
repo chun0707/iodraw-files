@@ -270,7 +270,7 @@
           <mxGeometry x="145" y="395" width="320" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-177" value="实际风险结构&lt;div&gt;(基于生殖衰老)&lt;/div&gt;&lt;div&gt;存在系统性错配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="650" width="90" height="50" as="geometry" />
+          <mxGeometry x="450" y="600" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-182">
           <mxGeometry relative="1" as="geometry">
@@ -279,9 +279,6 @@
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-182" value="当前筛查策略&lt;div&gt;（基于年龄）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="400" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-185" value="当前筛查策略&lt;div&gt;（基于年龄）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="540" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
