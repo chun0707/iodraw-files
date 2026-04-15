@@ -48,16 +48,6 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-12" value="90%的宫颈疾病&lt;div&gt;患者&lt;span style=&quot;background-color: initial;&quot;&gt;接受治疗&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="320" as="sourcePoint" />
-            <mxPoint x="470" y="360" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="330" />
-              <mxPoint x="471" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="中国宫颈癌&lt;div&gt;筛查指南&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(35~64岁)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="80" height="60" as="geometry" />
         </mxCell>
@@ -86,7 +76,7 @@
           <mxGeometry x="450" y="580" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-34" value="可获得筛查&lt;div&gt;（大部分&amp;gt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="110" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-36" value="可获得筛查&lt;div&gt;（大部分&amp;gt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="555" width="120" height="40" as="geometry" />
