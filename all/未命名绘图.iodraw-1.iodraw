@@ -150,11 +150,6 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-72" value="&lt;ul&gt;&lt;li&gt;疫苗筛查均无&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-69">
           <mxGeometry y="90" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="oCkb1at5Bk3bMaboroE6-117">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="257" y="665" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-73" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="190" y="569" width="140" height="91" as="geometry" />
         </mxCell>
@@ -239,7 +234,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-117" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="187" y="685" width="140" height="40" as="geometry" />
+          <mxGeometry x="189" y="688" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-118" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-117">
           <mxGeometry width="140" height="20" as="geometry" />
@@ -259,14 +254,14 @@
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="705" as="sourcePoint" />
-            <mxPoint x="275" y="685" as="targetPoint" />
+            <mxPoint x="277" y="708" as="sourcePoint" />
+            <mxPoint x="277" y="688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="269" y="725" as="sourcePoint" />
-            <mxPoint x="269" y="705" as="targetPoint" />
+            <mxPoint x="271" y="728" as="sourcePoint" />
+            <mxPoint x="271" y="708" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-155" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
