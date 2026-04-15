@@ -49,7 +49,7 @@
           <mxGeometry x="420" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-17" value="中国宫颈癌筛查指南" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="500" height="60" as="geometry" />
+          <mxGeometry x="40" y="200" width="500" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
