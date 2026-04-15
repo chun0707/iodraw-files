@@ -81,19 +81,19 @@
           <mxGeometry x="40" y="320" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-25" value="&amp;nbsp; &amp;nbsp; 疫苗&amp;amp;筛查(&amp;lt;45岁女性)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="140" height="100" as="geometry" />
+          <mxGeometry x="40" y="420" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-26" value="&lt;ul&gt;&lt;li&gt;疫苗+筛查&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-25">
-          <mxGeometry y="30" width="140" height="10" as="geometry" />
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-27" value="&lt;ul&gt;&lt;li&gt;仅疫苗/仅筛查&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-25">
-          <mxGeometry y="40" width="140" height="30" as="geometry" />
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-28" value="&lt;ul&gt;&lt;li&gt;疫苗筛查均无&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="oCkb1at5Bk3bMaboroE6-25">
-          <mxGeometry y="70" width="140" height="30" as="geometry" />
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-30" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="100" height="80" as="geometry" />
+          <mxGeometry x="450" y="580" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
