@@ -230,6 +230,9 @@
             <mxRectangle width="160" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-82" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="160" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
