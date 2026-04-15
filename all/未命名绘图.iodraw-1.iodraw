@@ -263,11 +263,11 @@
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oCkb1at5Bk3bMaboroE6-172">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="480" as="targetPoint" />
+            <mxPoint x="530" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-172" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="144" y="397" width="320" height="170" as="geometry" />
+          <mxGeometry x="145" y="397" width="320" height="170" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-176" value="当前筛查策略&lt;div&gt;（基于年龄）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="390" width="80" height="40" as="geometry" />
