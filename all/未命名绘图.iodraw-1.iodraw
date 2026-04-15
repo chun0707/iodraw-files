@@ -54,7 +54,7 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-20" value="未获得疫苗和筛查&lt;br&gt;&lt;div&gt;(年龄/可及性/依从性等)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="400" y="266" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-23" value="可获得疫苗&amp;amp;筛查&lt;div&gt;（大部分&amp;lt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-23" value="可获得疫苗&amp;amp;筛查&lt;div&gt;（&amp;lt;45岁女性）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-24" value="疫苗&amp;amp;筛查(&amp;lt;45岁女性)&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -111,7 +111,7 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-50" value="&lt;font color=&quot;#ffffff&quot;&gt;宫颈癌精准防控的&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;优先人群？&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="316" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="oCkb1at5Bk3bMaboroE6-53" value="现实困境&lt;div&gt;现实挑战&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oCkb1at5Bk3bMaboroE6-53" value="现实困境&lt;div&gt;现实挑战&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="48" y="405" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oCkb1at5Bk3bMaboroE6-73" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
