@@ -73,6 +73,9 @@
         <mxCell id="oCkb1at5Bk3bMaboroE6-20" value="中国宫颈癌筛查指南&lt;div&gt;(35~64岁女性)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="270" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oCkb1at5Bk3bMaboroE6-22" value="中国宫颈癌筛查指南&lt;div&gt;(35~64岁女性)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
