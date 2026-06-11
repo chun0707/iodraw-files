@@ -47,7 +47,7 @@
           <mxGeometry x="7.142857142857143" y="7.142857142857143" width="5.714285714285714" height="5.714285714285714" as="geometry" />
         </mxCell>
         <mxCell id="cXpeMneaMoIMZW-RpxaT-5" value="" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="250" width="98" height="98" as="geometry" />
+          <mxGeometry x="140" y="250" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
