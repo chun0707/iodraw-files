@@ -38,7 +38,7 @@
           <mxGeometry x="65" y="109" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cXpeMneaMoIMZW-RpxaT-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#ACACAC;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="130" width="66" height="63" as="geometry" />
+          <mxGeometry x="310" y="170" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
