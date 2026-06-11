@@ -28,7 +28,7 @@
         <mxCell id="_c24yqkxXgfOXOLMPt6X-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_c24yqkxXgfOXOLMPt6X-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_c24yqkxXgfOXOLMPt6X-11" value="UHC&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
