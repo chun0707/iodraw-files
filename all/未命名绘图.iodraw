@@ -58,7 +58,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0dvO7jvNqKXQBQIlDZgp-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="200" height="280" as="geometry" />
+          <mxGeometry x="45" y="85" width="280" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
