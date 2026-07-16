@@ -49,8 +49,8 @@
         <mxCell id="cXpeMneaMoIMZW-RpxaT-5" value="" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#FF0000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="104" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="reUQ-a3_DCMWWGAjg1JX-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;科学问题1（配置机制）&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;价值错配：有限卫生资源是否优先配置于&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;能够产生最大健康收益的人群和服务环节？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="410" width="240" height="50" as="geometry" />
+        <mxCell id="reUQ-a3_DCMWWGAjg1JX-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;科学问题2（实现机制）&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;连续性服务：已进入筛查体系的对象能否顺利完成筛查—诊断—治疗—随访全过程，实现健康收益？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="reUQ-a3_DCMWWGAjg1JX-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;科学问题1（配置机制）&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;价值错配：有限卫生资源是否优先配置于&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;能够产生最大健康收益的人群和服务环节？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="240" height="50" as="geometry" />
