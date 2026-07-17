@@ -267,6 +267,9 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-102" value="" style="image;image=img/lib/atlassian/Jira_Logo.svg;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="1030" width="72" height="72" as="geometry" />
         </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-103" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.myspace;fillColor=#003399;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="-51" y="937" width="63" height="70.2" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
