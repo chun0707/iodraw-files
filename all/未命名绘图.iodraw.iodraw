@@ -252,6 +252,9 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-97" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-135" y="667" width="66" height="63" as="geometry" />
         </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-98" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.migration_hub_2;fillColor=#ABABAB;gradientColor=none;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="-102" y="767" width="114" height="121.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
