@@ -132,9 +132,12 @@
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="779.5" y="20" as="sourcePoint" />
-            <mxPoint x="779.5" y="40" as="targetPoint" />
+            <mxPoint x="779.5" y="19" as="sourcePoint" />
+            <mxPoint x="779.5" y="39" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-90" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
