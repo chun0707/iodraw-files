@@ -178,7 +178,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-69" value="价值错配的双向表现&lt;div&gt;不该筛而筛&lt;/div&gt;&lt;div&gt;（过度服务）&amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="130" height="60" as="geometry" />
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-70" value="价值错配的双向表现&lt;div&gt;不该筛而筛&lt;/div&gt;&lt;div&gt;（过度服务）&amp;nbsp; &amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
