@@ -11,7 +11,7 @@
           <mxGeometry x="100" y="40" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-3" value="邀请与识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="50" width="80" height="30" as="geometry" />
+          <mxGeometry x="100" y="90" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
