@@ -222,6 +222,9 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-84" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="48" y="651" width="180" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-88" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;价值错配的影响&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;健康收益降低：疾病未能早发现，病死病残风险增加&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;资源利用低效：过度医疗服务增加负担，有效服务未充分利用&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;健康不公平加剧：不同人群间差距扩大，社会公平性受损&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277.13" y="760" width="284" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
