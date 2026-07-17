@@ -244,7 +244,10 @@
           <mxGeometry x="66" y="930" width="33" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-95" value="About us" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.about_us;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="510" width="120" height="70" as="geometry" />
+          <mxGeometry x="-130" y="510" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-96" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="570" width="121.2" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
