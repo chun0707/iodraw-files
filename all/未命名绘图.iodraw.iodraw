@@ -76,9 +76,6 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-31" value="" style="shape=mxgraph.signs.healthcare.surgery;html=1;pointerEvents=1;fillColor=#FF3333;strokeColor=#0e8088;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="60.75" width="30" height="29.25" as="geometry" />
         </mxCell>
-        <mxCell id="9KmjehkoqxsfO9Dkp8X2-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.77;exitY=0.195;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9KmjehkoqxsfO9Dkp8X2-34" target="9KmjehkoqxsfO9Dkp8X2-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-34" value="" style="shape=mxgraph.signs.healthcare.family_practice;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="550" width="30" height="30" as="geometry" />
         </mxCell>
@@ -220,10 +217,13 @@
           <mxGeometry x="681" y="75.38" width="36" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-35" value="" style="shape=mxgraph.signs.healthcare.health_education;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="510" width="30" height="30" as="geometry" />
+          <mxGeometry x="20" y="605.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-84" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="543" width="260" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-87" value="" style="shape=mxgraph.signs.healthcare.health_education;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="520" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
