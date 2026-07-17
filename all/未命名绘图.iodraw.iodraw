@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-2" value="邀请与识别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="70" height="30" as="geometry" />
+          <mxGeometry x="100" y="40" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
