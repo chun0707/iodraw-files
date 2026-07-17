@@ -85,8 +85,8 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-35" value="" style="shape=mxgraph.signs.healthcare.health_education;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="182" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="9KmjehkoqxsfO9Dkp8X2-36" value="" style="shape=mxgraph.signs.healthcare.alternative_medicine;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="100" width="99" height="95" as="geometry" />
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-37" value="" style="shape=mxgraph.signs.healthcare.tdd;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="686" y="212" width="84" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
