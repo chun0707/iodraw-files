@@ -247,7 +247,10 @@
           <mxGeometry x="-130" y="510" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-96" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="570" width="121.2" height="111" as="geometry" />
+          <mxGeometry x="-140" y="570" width="76.43" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-97" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="667" width="66" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
