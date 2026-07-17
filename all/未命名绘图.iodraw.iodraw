@@ -273,6 +273,9 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-104" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="-108" y="1127" width="98" height="98" as="geometry" />
         </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-105" value="" style="shape=mxgraph.signs.healthcare.immunizations;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1240" width="99" height="98" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
