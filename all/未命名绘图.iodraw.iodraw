@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="TQAPwbcY8asHVWMb0gcJ">
-    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="332" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-4" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
           <mxGeometry x="130.1" y="65" width="19.8" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9KmjehkoqxsfO9Dkp8X2-6" value="About us" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.about_us;" vertex="1" parent="1">
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-6" value="About us" style="html=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.about_us;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
