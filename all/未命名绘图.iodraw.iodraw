@@ -240,6 +240,9 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-93" value="" style="image;html=1;image=img/lib/clip_art/finance/Stock_Down_128x128.png" vertex="1" parent="1">
           <mxGeometry x="80" y="840" width="70" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-94" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/users.svg;" vertex="1" parent="1">
+          <mxGeometry x="66" y="930" width="33" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
