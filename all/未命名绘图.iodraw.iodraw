@@ -49,6 +49,9 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.deployments;fillColor=#759C3E;gradientColor=none;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="81" height="76.5" as="geometry" />
         </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-20" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_hub;fillColor=#AD688A;gradientColor=#F58435;gradientDirection=west;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="75" height="81" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
