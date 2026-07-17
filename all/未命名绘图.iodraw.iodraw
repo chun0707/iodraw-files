@@ -79,9 +79,6 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-34" value="" style="shape=mxgraph.signs.healthcare.family_practice;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="199" y="560" width="39" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="9KmjehkoqxsfO9Dkp8X2-35" value="" style="shape=mxgraph.signs.healthcare.health_education;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="580" width="35" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-37" value="" style="shape=mxgraph.signs.healthcare.tdd;html=1;pointerEvents=1;fillColor=#FF3333;strokeColor=#0e8088;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="928" y="64.38" width="24" height="22" as="geometry" />
         </mxCell>
@@ -218,6 +215,9 @@
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-82" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="681" y="75.38" width="36" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-35" value="" style="shape=mxgraph.signs.healthcare.health_education;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="490" width="35" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
