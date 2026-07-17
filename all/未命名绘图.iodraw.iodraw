@@ -277,7 +277,10 @@
           <mxGeometry x="-120" y="1240" width="99" height="98" as="geometry" />
         </mxCell>
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-106" value="" style="shape=mxgraph.signs.travel.cashier;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="66" y="1210" width="99" height="99" as="geometry" />
+          <mxGeometry x="13" y="1240" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-107" value="" style="shape=mxgraph.signs.travel.downstairs;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="1200" width="99" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
