@@ -31,6 +31,9 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-13" value="HPV检测/&lt;div&gt;细胞学检测&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="88.5" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-14" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
