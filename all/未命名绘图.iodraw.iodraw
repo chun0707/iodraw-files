@@ -46,7 +46,7 @@
         <mxCell id="9KmjehkoqxsfO9Dkp8X2-18" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
           <mxGeometry x="445" y="64.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9KmjehkoqxsfO9Dkp8X2-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.deployments;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="9KmjehkoqxsfO9Dkp8X2-19" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.deployments;fillColor=#759C3E;gradientColor=none;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="81" height="76.5" as="geometry" />
         </mxCell>
       </root>
