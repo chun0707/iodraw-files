@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7wubcpTe4MZLG1ig53sb-1" value="邀请与识别&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;目标人群识别&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="190" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="200" width="120" height="80" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="40" y="330" width="49.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="85" y="225" width="30" height="30" as="geometry" />
+          <mxGeometry x="85" y="220" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
