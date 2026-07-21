@@ -160,7 +160,7 @@
             <mxPoint x="379" y="-52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.deployments;fillColor=#000000;gradientColor=none;rotation=-180;" vertex="1" parent="1">
+        <mxCell id="7wubcpTe4MZLG1ig53sb-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.deployments;fillColor=#67AB9F;gradientColor=none;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="356" y="-32.5" width="50" height="36.5" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-63" value="&lt;b&gt;随访不足/过度&lt;/b&gt;&lt;div&gt;&lt;b&gt;(长期损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;随访失访/脱落&lt;/div&gt;&lt;div&gt;随访频率不合理&lt;/div&gt;&lt;div&gt;随访管理碎片化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
