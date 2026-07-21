@@ -225,7 +225,7 @@
           <mxGeometry x="481" y="278.5" width="119" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-79" value="价值错配的影响双向表现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="270" width="360" height="20" as="geometry" />
+          <mxGeometry x="640" y="250" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
