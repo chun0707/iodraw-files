@@ -80,7 +80,7 @@
           <mxGeometry x="250" y="938" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Change_Analysis.svg;" vertex="1" parent="1">
-          <mxGeometry x="112" y="978" width="68" height="67.67999999999999" as="geometry" />
+          <mxGeometry x="548" y="915.32" width="68" height="67.67999999999999" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-35" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.groups" vertex="1" parent="1">
           <mxGeometry x="379" y="938" width="50" height="48" as="geometry" />
