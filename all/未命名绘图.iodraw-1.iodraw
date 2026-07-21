@@ -145,8 +145,8 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-54" value="&lt;b&gt;未被筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(机会损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;高风险人群未覆盖&lt;/div&gt;&lt;div&gt;邀请触达不足&lt;/div&gt;&lt;div&gt;健康素养/可及性低&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="60" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-55" value="&lt;b&gt;未被筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(机会损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;高风险人群未覆盖&lt;/div&gt;&lt;div&gt;邀请触达不足&lt;/div&gt;&lt;div&gt;健康素养/可及性低&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="49.5" y="70" width="120" height="90" as="geometry" />
+        <mxCell id="7wubcpTe4MZLG1ig53sb-55" value="&lt;b&gt;过度筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(资源浪费)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;低风险人群未覆盖&lt;/div&gt;&lt;div&gt;检测频率过高&lt;/div&gt;&lt;div&gt;非必要联合检测&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
