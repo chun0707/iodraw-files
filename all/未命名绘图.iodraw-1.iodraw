@@ -160,10 +160,10 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-63" value="&lt;b&gt;随访不足/过度&lt;/b&gt;&lt;div&gt;&lt;b&gt;(长期损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;随访失访/脱落&lt;/div&gt;&lt;div&gt;随访频率不合理&lt;/div&gt;&lt;div&gt;随访管理碎片化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="740" y="58" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="7wubcpTe4MZLG1ig53sb-46">
+        <mxCell id="7wubcpTe4MZLG1ig53sb-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-40" y="180" as="sourcePoint" />
-            <mxPoint x="879" as="targetPoint" />
+            <mxPoint x="880" y="-20" as="targetPoint" />
             <Array as="points">
               <mxPoint x="879" y="180" />
               <mxPoint x="879" y="70" />
