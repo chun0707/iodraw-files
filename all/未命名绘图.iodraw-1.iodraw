@@ -64,6 +64,9 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Change_Analysis.svg;" vertex="1" parent="1">
           <mxGeometry x="480" y="560" width="68" height="67.67999999999999" as="geometry" />
         </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Launch_Portal.svg;" vertex="1" parent="1">
+          <mxGeometry x="370" y="580" width="68" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
