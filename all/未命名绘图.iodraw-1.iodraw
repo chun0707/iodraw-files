@@ -22,6 +22,9 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-10" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="360" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="330" width="49.5" height="66" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
