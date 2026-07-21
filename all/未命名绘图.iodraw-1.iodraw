@@ -103,6 +103,9 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-38" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="60" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-39" value="" style="shape=mxgraph.signs.science.laboratory;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="270" width="98" height="98" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
