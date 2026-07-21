@@ -113,7 +113,7 @@
           <mxGeometry x="600" y="-52" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-46" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;随访管理&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;定期随访/&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;长期管理&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="742" y="-52" width="120" height="90" as="geometry" />
+          <mxGeometry x="740" y="-52" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-47" value="" style="shape=mxgraph.signs.healthcare.alternative_medicine;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="502" y="-31" width="40" height="39" as="geometry" />
@@ -138,8 +138,8 @@
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="667.5" y="-72.5" as="sourcePoint" />
-            <mxPoint x="667.5" y="-52" as="targetPoint" />
+            <mxPoint x="660.5" y="-72.5" as="sourcePoint" />
+            <mxPoint x="660.5" y="-52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-54" value="&lt;b&gt;未被筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(机会损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;高风险人群未覆盖&lt;/div&gt;&lt;div&gt;邀请触达不足&lt;/div&gt;&lt;div&gt;健康素养/可及性低&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
