@@ -104,7 +104,7 @@
           <mxGeometry x="460" y="-50" width="120" height="89" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;治疗干预&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;规范治疗/&lt;/div&gt;&lt;div&gt;治疗依从性&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#67AB9F;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-51" width="120" height="90" as="geometry" />
+          <mxGeometry x="600" y="-50" width="120" height="89" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-46" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;随访管理&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;定期随访/&lt;/div&gt;&lt;div&gt;长期管理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#67AB9F;" vertex="1" parent="1">
           <mxGeometry x="740" y="-51" width="120" height="90" as="geometry" />
