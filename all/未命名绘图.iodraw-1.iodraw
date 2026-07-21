@@ -113,7 +113,7 @@
           <mxGeometry x="502" y="-34" width="40" height="39" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-48" value="" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#67AB9F;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-30" width="38" height="36" as="geometry" />
+          <mxGeometry x="640" y="-34" width="38" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-49" value="" style="shape=mxgraph.signs.healthcare.health_education;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="787" y="-30" width="30" height="28" as="geometry" />
