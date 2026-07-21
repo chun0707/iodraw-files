@@ -53,7 +53,7 @@
           <mxGeometry x="161" y="668" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/Multi_Tenancy.svg;" vertex="1" parent="1">
-          <mxGeometry x="260" y="681" width="68" height="65" as="geometry" />
+          <mxGeometry x="18" y="390" width="68" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Change_Analysis.svg;" vertex="1" parent="1">
           <mxGeometry x="480" y="560" width="68" height="67.67999999999999" as="geometry" />
@@ -225,7 +225,7 @@
           <mxGeometry x="699.5" y="221" width="160.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="199" width="280" height="102" as="geometry" />
+          <mxGeometry x="-65.25" y="179.75" width="280" height="102" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="279" y="199" width="360" height="102" as="geometry" />
