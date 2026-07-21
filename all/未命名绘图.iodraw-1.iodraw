@@ -209,7 +209,7 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-72" value="该筛未筛&lt;div&gt;(服务不足)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="330" width="80" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-73" value="低风险人群过度筛查&lt;div&gt;资源浪费、潜在伤害&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7wubcpTe4MZLG1ig53sb-73" value="高风险人群筛查不足&lt;div&gt;机会损失、疾病延误&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="81" y="330" width="119" height="41.5" as="geometry" />
         </mxCell>
       </root>
