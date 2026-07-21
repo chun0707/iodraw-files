@@ -152,7 +152,10 @@
           <mxGeometry x="320" y="60" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-57" value="&lt;b&gt;过度筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(资源浪费)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;低风险人群未覆盖&lt;/div&gt;&lt;div&gt;检测频率过高&lt;/div&gt;&lt;div&gt;非必要联合检测&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="70" width="120" height="90" as="geometry" />
+          <mxGeometry x="461" y="60" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-58" value="&lt;b&gt;过度筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(资源浪费)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;低风险人群未覆盖&lt;/div&gt;&lt;div&gt;检测频率过高&lt;/div&gt;&lt;div&gt;非必要联合检测&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
