@@ -216,10 +216,10 @@
           <mxGeometry x="240" y="258" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-75" value="&lt;b&gt;健康收益降低&lt;/b&gt;&lt;div&gt;疾病未能早发现&lt;/div&gt;&lt;div&gt;病死病残风险增加&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="239" y="278.5" width="111" height="81.5" as="geometry" />
+          <mxGeometry x="239" y="278.5" width="111" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-77" value="&lt;b&gt;资源利用低效&lt;/b&gt;&lt;div&gt;过度医疗增加负担&lt;/div&gt;&lt;div&gt;有效服务未从充分利用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="350" y="278.5" width="130" height="81.5" as="geometry" />
+          <mxGeometry x="350" y="278.5" width="130" height="61.5" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-78" value="&lt;b&gt;健康不公平加剧&lt;/b&gt;&lt;div&gt;不同人群间差距扩大&lt;/div&gt;&lt;div&gt;社会公平性受损&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="481" y="278.5" width="119" height="61.5" as="geometry" />
