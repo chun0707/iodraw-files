@@ -28,7 +28,10 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-14" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#ACACAC;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="485" width="66" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-15" value="Users" style="sketch=0;outlineConnect=0;strokeColor=#d79b00;fillColor=#ffe6cc;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;" vertex="1" parent="1">
+        <mxCell id="7wubcpTe4MZLG1ig53sb-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wubcpTe4MZLG1ig53sb-15" target="7wubcpTe4MZLG1ig53sb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-15" value="Users" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.users;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="19" y="425" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-16" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" vertex="1" parent="1">
