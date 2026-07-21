@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17" pages="3">
   <diagram name="第 1 页" id="S-9VeCmZl9MSf6FvBg1f">
-    <mxGraphModel dx="647" dy="112" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,10 +49,10 @@
         <mxCell id="cXpeMneaMoIMZW-RpxaT-5" value="" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#FF0000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="104" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="reUQ-a3_DCMWWGAjg1JX-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;科学问题2（实现机制）&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;连续性服务：已进入筛查体系的对象能否顺利完成&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;筛查—诊断—治疗—随访全过程，实现健康收益？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="reUQ-a3_DCMWWGAjg1JX-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;科学问题2（实现机制）&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;连续性服务：已进入筛查体系的对象能否顺利完成&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;筛查—诊断—治疗—随访全过程，实现健康收益？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="240" y="440" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="reUQ-a3_DCMWWGAjg1JX-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;科学问题1（配置机制）&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;价值错配：有限卫生资源是否优先配置于&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;能够产生最大健康收益的人群和服务环节？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="reUQ-a3_DCMWWGAjg1JX-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;科学问题1（配置机制）&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;价值错配：有限卫生资源是否优先配置于&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;OGX5psUT_xkH7mukSYry&quot;&gt;能够产生最大健康收益的人群和服务环节？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="500" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
