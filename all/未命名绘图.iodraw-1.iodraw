@@ -77,7 +77,7 @@
           <mxGeometry x="59" y="918" width="60" height="65" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-33" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/migrate/Cost_Management_and_Billing.svg;" vertex="1" parent="1">
-          <mxGeometry x="440" y="217.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="620" y="340" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Change_Analysis.svg;" vertex="1" parent="1">
           <mxGeometry x="548" y="915.32" width="68" height="67.67999999999999" as="geometry" />
@@ -210,7 +210,7 @@
           <mxGeometry x="278" y="221" width="111" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-77" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;资源利用低效&lt;/b&gt;&lt;div&gt;过度医疗增加负担&lt;/div&gt;&lt;div&gt;有效服务未从充分利用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="438" y="280" width="130" height="81.5" as="geometry" />
+          <mxGeometry x="385" y="217.5" width="130" height="81.5" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-78" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;健康不公平加剧&lt;/b&gt;&lt;div&gt;不同人群间差距扩大&lt;/div&gt;&lt;div&gt;社会公平性受损&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="219.5" width="119" height="81.5" as="geometry" />
