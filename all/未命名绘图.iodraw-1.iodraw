@@ -107,22 +107,22 @@
           <mxGeometry x="230" y="-26" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-42" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;诊断确诊&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;阴道镜检查/&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;病理诊断&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-50" width="120" height="90" as="geometry" />
+          <mxGeometry x="480" y="-50" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-43" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;治疗干预&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;规范治疗/&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;治疗依从性&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="462" y="-51" width="120" height="90" as="geometry" />
+          <mxGeometry x="622" y="-51" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-46" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;随访管理&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;定期随访/&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;长期管理&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="601" y="-51" width="120" height="90" as="geometry" />
+          <mxGeometry x="761" y="-51" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-47" value="" style="shape=mxgraph.signs.healthcare.alternative_medicine;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="361" y="-30" width="40" height="39" as="geometry" />
+          <mxGeometry x="521" y="-30" width="40" height="39" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-48" value="" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="512" y="-26" width="31" height="27" as="geometry" />
+          <mxGeometry x="672" y="-26" width="31" height="27" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-49" value="" style="shape=mxgraph.signs.healthcare.health_education;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="651" y="-30" width="30" height="28" as="geometry" />
+          <mxGeometry x="811" y="-30" width="30" height="28" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -132,14 +132,14 @@
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="-70.5" as="sourcePoint" />
-            <mxPoint x="380" y="-50" as="targetPoint" />
+            <mxPoint x="540" y="-70.5" as="sourcePoint" />
+            <mxPoint x="540" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="526.5" y="-71.5" as="sourcePoint" />
-            <mxPoint x="526.5" y="-51" as="targetPoint" />
+            <mxPoint x="686.5" y="-71.5" as="sourcePoint" />
+            <mxPoint x="686.5" y="-51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-54" value="&lt;b&gt;未被筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(机会损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;高风险人群未覆盖&lt;/div&gt;&lt;div&gt;邀请触达不足&lt;/div&gt;&lt;div&gt;健康素养/可及性低&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -156,6 +156,18 @@
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-58" value="&lt;b&gt;过度筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(资源浪费)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;低风险人群未覆盖&lt;/div&gt;&lt;div&gt;检测频率过高&lt;/div&gt;&lt;div&gt;非必要联合检测&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-59" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;初筛检测&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;HPV检测/&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;细胞学检测&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-60" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="240" y="-16" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249" y="-61.5" as="sourcePoint" />
+            <mxPoint x="249" y="-41" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
