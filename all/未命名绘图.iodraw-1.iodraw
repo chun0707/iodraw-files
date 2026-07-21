@@ -212,7 +212,7 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-73" value="高风险人群筛查不足&lt;div&gt;机会损失、疾病延误&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="81" y="319" width="119" height="41.5" as="geometry" />
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-74" value="价值错配的影响双向表现" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="7wubcpTe4MZLG1ig53sb-74" value="价值错配的影响双向表现" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="258" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-75" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;健康收益降低&lt;/b&gt;&lt;div&gt;疾病未能早发现&lt;/div&gt;&lt;div&gt;病死病残风险增加&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -234,7 +234,7 @@
           <mxGeometry y="260" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="360" height="70" as="geometry" />
+          <mxGeometry x="230" y="190" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
