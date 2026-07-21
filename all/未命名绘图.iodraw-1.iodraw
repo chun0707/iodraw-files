@@ -62,7 +62,7 @@
           <mxGeometry x="71" y="728" width="57.99999999999999" height="64" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="265.25" width="40.98" height="33.75" as="geometry" />
+          <mxGeometry x="-10" y="265.25" width="30.05" height="24.75" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-28" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="778" width="68" height="68" as="geometry" />
@@ -222,7 +222,7 @@
           <mxGeometry x="699.5" y="221" width="160.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="201.5" width="280" height="102" as="geometry" />
+          <mxGeometry x="-11.16" y="350" width="280" height="102" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-82" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="279" y="198.5" width="360" height="102" as="geometry" />
