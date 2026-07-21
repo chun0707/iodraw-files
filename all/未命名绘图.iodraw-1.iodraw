@@ -216,7 +216,10 @@
           <mxGeometry x="240" y="240" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-75" value="&lt;b&gt;健康收益降低&lt;/b&gt;&lt;div&gt;疾病未能早发现&lt;/div&gt;&lt;div&gt;病死病残风险增加&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="278.5" width="121" height="61.5" as="geometry" />
+          <mxGeometry x="239" y="278.5" width="111" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-77" value="&lt;b&gt;健康收益降低&lt;/b&gt;&lt;div&gt;疾病未能早发现&lt;/div&gt;&lt;div&gt;病死病残风险增加&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398.5" y="278.5" width="121" height="61.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
