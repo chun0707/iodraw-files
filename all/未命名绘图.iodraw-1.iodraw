@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17" pages="2">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17" pages="3">
   <diagram name="第 1 页" id="gVEXdvXon647CJdyp1zW">
     <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -536,6 +536,277 @@
           <mxGeometry x="2" y="40" width="50" height="26" as="geometry" />
         </mxCell>
         <mxCell id="QMsYLttqxZ8XIxH4Ulv9-77" value="" style="line;strokeWidth=1;html=1;strokeColor=#E6E6E6;" vertex="1" parent="QMsYLttqxZ8XIxH4Ulv9-1">
+          <mxGeometry x="-40" y="255.25" width="280" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="第 1 页 的副本 的副本" id="ipBDOYBMgYsf3MuM4fVM">
+    <mxGraphModel dx="3115" dy="2369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-0" />
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-1" parent="hZkxxLY8XRfK1td2U2QP-0" />
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-2" value="&lt;b&gt;邀请与识别&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;目标人群识别&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#67AB9F;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="40" y="-50" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;初筛检测&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;HPV&lt;/font&gt;检测/&lt;/div&gt;&lt;div&gt;细胞学检测&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#67AB9F;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="180" y="-50" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="50" y="548" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="50" y="618" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-6" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="170" y="498" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="50" y="674" width="49.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#67AB9F;gradientColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="79" y="-24" width="41" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-9" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#ACACAC;gradientColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="290" y="485" width="66" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-10" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="511" y="438" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-11" value="Deployments" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.deployments;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="370" y="518" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="-30" y="578" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-13" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents3;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="356" y="628" width="57" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents2;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="270" y="570" width="67" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-15" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.contact_center;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="420" y="480" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-16" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#C925D1;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.iq;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="161" y="668" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-17" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/Multi_Tenancy.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="-11.16" y="217.5" width="39.24" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Change_Analysis.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="480" y="560" width="68" height="67.67999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-19" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Launch_Portal.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="370" y="718" width="68" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Web_Slots.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="71" y="728" width="57.99999999999999" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-21" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="-10" y="265.25" width="30.05" height="24.75" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Verification_As_A_Service.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="260" y="778" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-23" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/eBooks.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="390" y="670" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Intune_Trends.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="59" y="818" width="56.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-25" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="59" y="918" width="60" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-26" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/migrate/Cost_Management_and_Billing.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="441" y="219" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Change_Analysis.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="548" y="915.32" width="68" height="67.67999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-28" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.groups" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="379" y="938" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-29" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="360" y="1009" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-30" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Identity_Governance.svg;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="180" y="878" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-31" value="" style="shape=mxgraph.signs.science.laboratory;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="684" y="430" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-32" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png;imageBackground=default;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="230" y="-26" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-33" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;诊断确诊&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;阴道镜检查/&lt;/div&gt;&lt;div&gt;病理诊断&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#67AB9F;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="460" y="-50" width="120" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-34" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;治疗干预&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;规范治疗/&lt;/div&gt;&lt;div&gt;治疗依从性&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#67AB9F;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="600" y="-50" width="120" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;随访管理&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;定期随访/&lt;/div&gt;&lt;div&gt;长期管理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#67AB9F;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="740" y="-51" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-36" value="" style="shape=mxgraph.signs.healthcare.alternative_medicine;html=1;pointerEvents=1;fillColor=#67AB9F;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="502" y="-34" width="40" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-37" value="" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#67AB9F;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="640" y="-31" width="38" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-38" value="" style="shape=mxgraph.signs.healthcare.health_education;html=1;pointerEvents=1;fillColor=#67AB9F;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="780" y="-28" width="37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239" y="-70.5" as="sourcePoint" />
+            <mxPoint x="239" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="-70.5" as="sourcePoint" />
+            <mxPoint x="520" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660.5" y="-70.5" as="sourcePoint" />
+            <mxPoint x="660.5" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-42" value="&lt;b&gt;未被筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(机会损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;高风险人群未覆盖&lt;/div&gt;&lt;div&gt;邀请触达不足&lt;/div&gt;&lt;div&gt;健康素养/可及性低&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFCCCC;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="39.5" y="60" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-43" value="&lt;b&gt;过度筛查&lt;/b&gt;&lt;div&gt;&lt;b&gt;(资源浪费)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;低风险人群未覆盖&lt;/div&gt;&lt;div&gt;检测频率过高&lt;/div&gt;&lt;div&gt;非必要联合检测&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFCCCC;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="180" y="60" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-44" value="&lt;b&gt;未及时分流&lt;/b&gt;&lt;div&gt;&lt;b&gt;(延迟风险)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;阳性结果未及时反馈&lt;/div&gt;&lt;div&gt;分流路径不清晰&lt;/div&gt;&lt;div&gt;依从性不足&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFCCCC;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="320" y="60" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-45" value="&lt;b&gt;过度/不足诊断&lt;/b&gt;&lt;div&gt;&lt;b&gt;(效率损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;阴道镜/活检过度&lt;/div&gt;&lt;div&gt;诊断延迟或不足&lt;/div&gt;&lt;div&gt;病理质控不足&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFCCCC;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="461" y="60" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-46" value="&lt;b&gt;治疗不足/过度&lt;/b&gt;&lt;div&gt;&lt;b&gt;(效果损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;治疗延迟或中断&lt;/div&gt;&lt;div&gt;非适应症治疗&lt;/div&gt;&lt;div&gt;治疗质量差异&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCCCC;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="600" y="60" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-47" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;阳性分流&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;阳性结果反馈&lt;/div&gt;&lt;div&gt;与分流建议&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#67AB9F;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="320" y="-50" width="120" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-48" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.deployments;fillColor=#67AB9F;gradientColor=none;rotation=-180;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="356" y="-30.5" width="50" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-49" value="&lt;b&gt;随访不足/过度&lt;/b&gt;&lt;div&gt;&lt;b&gt;(长期损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;随访失访/脱落&lt;/div&gt;&lt;div&gt;随访频率不合理&lt;/div&gt;&lt;div&gt;随访管理碎片化&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FFCCCC;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="740" y="58" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="170" as="sourcePoint" />
+            <mxPoint x="859" y="-7" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="170" />
+              <mxPoint x="880" y="60" />
+              <mxPoint x="880" y="-7" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-51" value="优化连续性服务，减少价值错配，实现健康收益最大化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hZkxxLY8XRfK1td2U2QP-50">
+          <mxGeometry x="-0.4773" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-52" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="-130" y="-9" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="170" as="sourcePoint" />
+            <mxPoint x="-60" y="122" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-60" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-54" value="&lt;b&gt;价值错配&lt;/b&gt;&lt;div&gt;服务与人群真实&lt;/div&gt;&lt;div&gt;需求不匹配&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="-120" y="1" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-55" value="&lt;b&gt;价值错配的双向表现&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="40" y="200" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-56" value="不该筛而筛&lt;div&gt;(过度服务)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="40" y="219.5" width="80" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-57" value="低风险人群过度筛查&lt;div&gt;资源浪费、潜在伤害&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="121" y="219.5" width="119" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-58" value="该筛未筛&lt;div&gt;(服务不足)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="40" y="261" width="80" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-59" value="高风险人群筛查不足&lt;div&gt;机会损失、疾病延误&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="121" y="260" width="119" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-60" value="价值错配的影响双向表现" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="279" y="199" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-61" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;健康收益降低&lt;/b&gt;&lt;div&gt;疾病未能早发现&lt;/div&gt;&lt;div&gt;病死病残风险增加&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="278" y="221" width="111" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-62" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;资源利用低效&lt;/b&gt;&lt;div&gt;过度医疗增加负担&lt;/div&gt;&lt;div&gt;有效服务未从充分利用&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="385" y="217.5" width="130" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;健康不公平加剧&lt;/b&gt;&lt;div&gt;不同人群间差距扩大&lt;/div&gt;&lt;div&gt;社会公平性受损&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="520" y="219.5" width="119" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-64" value="&lt;b&gt;治理目标&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="700" y="200.25" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-65" value="精准识别高风险人群&lt;div&gt;优化分流与诊疗路径&lt;/div&gt;&lt;div&gt;提升服务连续性与依从性&lt;/div&gt;&lt;div&gt;提高健康收益与公平性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="699.5" y="221" width="160.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="-40" y="199" width="280" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="279" y="198.5" width="360" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="680" y="199" width="200" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-69" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="hZkxxLY8XRfK1td2U2QP-1" target="hZkxxLY8XRfK1td2U2QP-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="99" y="-50" as="sourcePoint" />
+            <mxPoint x="419" y="-40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="99" y="-70" />
+              <mxPoint x="800" y="-70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="-70.5" as="sourcePoint" />
+            <mxPoint x="380" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-71" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.34285507202148435;arrowSize=0.4693872360956101;shadow=0;dashed=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="160" y="-13" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-72" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.34285507202148435;arrowSize=0.4693872360956101;shadow=0;dashed=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="300" y="-11" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-73" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.34285507202148435;arrowSize=0.4693872360956101;shadow=0;dashed=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="440" y="-11" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-74" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.34285507202148435;arrowSize=0.4693872360956101;shadow=0;dashed=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="580" y="-12" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-75" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.34285507202148435;arrowSize=0.4693872360956101;shadow=0;dashed=0;fillColor=#B3B3B3;fontColor=#333333;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="720" y="-10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-76" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;fillColor=#FF0000;strokeColor=none;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
+          <mxGeometry x="2" y="40" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="hZkxxLY8XRfK1td2U2QP-77" value="" style="line;strokeWidth=1;html=1;strokeColor=#E6E6E6;" vertex="1" parent="hZkxxLY8XRfK1td2U2QP-1">
           <mxGeometry x="-40" y="255.25" width="280" height="10" as="geometry" />
         </mxCell>
       </root>
