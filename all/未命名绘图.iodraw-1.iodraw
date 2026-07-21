@@ -22,7 +22,7 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="674" width="49.5" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#7EA6E0;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="7wubcpTe4MZLG1ig53sb-12" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#67AB9F;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="79" y="-24" width="41" height="36" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-14" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#ACACAC;gradientColor=none;" vertex="1" parent="1">
