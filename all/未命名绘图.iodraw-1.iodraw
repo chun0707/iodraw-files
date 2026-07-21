@@ -197,9 +197,6 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-66" value="&lt;b&gt;价值错配&lt;/b&gt;&lt;div&gt;服务与人群真实&lt;/div&gt;&lt;div&gt;需求不匹配&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-120" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-69" value="价值错配的双向表现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="258" width="200" height="102" as="geometry" />
-        </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-70" value="不该筛而筛&lt;div&gt;(过度服务)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry y="278.5" width="80" height="41.5" as="geometry" />
         </mxCell>
@@ -229,6 +226,9 @@
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-80" value="精准识别高风险人群&lt;div&gt;优化分流与诊疗路径&lt;/div&gt;&lt;div&gt;提升服务连续性与依从性&lt;/div&gt;&lt;div&gt;提高健康收益与公平性&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="639.5" y="278.5" width="160.5" height="61.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7wubcpTe4MZLG1ig53sb-69" value="价值错配的双向表现" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="258" width="200" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
