@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="gVEXdvXon647CJdyp1zW">
-    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
         <mxCell id="7wubcpTe4MZLG1ig53sb-56" value="&lt;b&gt;未及时分流&lt;/b&gt;&lt;div&gt;&lt;b&gt;(延迟风险)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;阳性结果未及时反馈&lt;/div&gt;&lt;div&gt;分流路径不清晰&lt;/div&gt;&lt;div&gt;依从性不足&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7wubcpTe4MZLG1ig53sb-57" value="&lt;b&gt;过度/不足诊断&lt;/b&gt;&lt;div&gt;&lt;b&gt;(效率损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;阴道镜/活检过度&lt;/div&gt;&lt;div&gt;诊断延迟或不足&lt;/div&gt;&lt;div&gt;病理质控不足&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7wubcpTe4MZLG1ig53sb-57" value="&lt;b&gt;过度/不足诊断&lt;/b&gt;&lt;div&gt;&lt;b&gt;(效率损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;阴道镜/活检过度&lt;/div&gt;&lt;div&gt;诊断延迟或不足&lt;/div&gt;&lt;div&gt;病理质控不足&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;" vertex="1" parent="1">
           <mxGeometry x="461" y="60" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7wubcpTe4MZLG1ig53sb-58" value="&lt;b&gt;治疗不足/过度&lt;/b&gt;&lt;div&gt;&lt;b&gt;(效果损失)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;治疗延迟或中断&lt;/div&gt;&lt;div&gt;非适应症治疗&lt;/div&gt;&lt;div&gt;治疗质量差异&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
