@@ -1,4 +1,4 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 Edg/149.0.0.0" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="S-9VeCmZl9MSf6FvBg1f">
     <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -34,19 +34,19 @@
         <mxCell id="_c24yqkxXgfOXOLMPt6X-12" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;卫生筹资&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;TRHkInyXtVOInJPzudJJ&quot;&gt;可持续融资机制&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;TRHkInyXtVOInJPzudJJ&quot;&gt;保障资源投入&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="140" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cXpeMneaMoIMZW-RpxaT-1" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" vertex="1" parent="1">
+        <mxCell id="cXpeMneaMoIMZW-RpxaT-1" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_0_128x128.png" parent="1" vertex="1">
           <mxGeometry x="65" y="109" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cXpeMneaMoIMZW-RpxaT-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#ACACAC;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="cXpeMneaMoIMZW-RpxaT-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.users;fillColor=#ACACAC;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="125" y="105" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cXpeMneaMoIMZW-RpxaT-3" value="" style="shape=ellipse;fillColor=#FF4081;strokeColor=none;shadow=1;aspect=fixed;sketch=0;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="cXpeMneaMoIMZW-RpxaT-3" value="" style="shape=ellipse;fillColor=#FF4081;strokeColor=none;shadow=1;aspect=fixed;sketch=0;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="195" y="105" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cXpeMneaMoIMZW-RpxaT-4" value="" style="dashed=0;html=1;shape=mxgraph.gmdl.plus;strokeColor=#ffffff;strokeWidth=2;shadow=0;sketch=0;" vertex="1" parent="cXpeMneaMoIMZW-RpxaT-3">
+        <mxCell id="cXpeMneaMoIMZW-RpxaT-4" value="" style="dashed=0;html=1;shape=mxgraph.gmdl.plus;strokeColor=#ffffff;strokeWidth=2;shadow=0;sketch=0;" parent="cXpeMneaMoIMZW-RpxaT-3" vertex="1">
           <mxGeometry x="7.142857142857143" y="7.142857142857143" width="5.714285714285714" height="5.714285714285714" as="geometry" />
         </mxCell>
-        <mxCell id="cXpeMneaMoIMZW-RpxaT-5" value="" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#FF0000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+        <mxCell id="cXpeMneaMoIMZW-RpxaT-5" value="" style="shape=mxgraph.signs.healthcare.medical_library;html=1;pointerEvents=1;fillColor=#FF0000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="104" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
