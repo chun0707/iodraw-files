@@ -287,7 +287,7 @@
           <mxGeometry y="130" width="930" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-74" value="多源数据整合(以45岁及以上女性为重点)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="185" width="231" height="25" as="geometry" />
+          <mxGeometry x="120" y="185" width="800" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
