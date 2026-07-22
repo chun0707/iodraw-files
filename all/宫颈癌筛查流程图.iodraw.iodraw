@@ -223,6 +223,9 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-47" value="&lt;b&gt;4. AI辅助决策系统原型&lt;/b&gt;&lt;div&gt;(风险识别、干预推荐、资源优化)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="960" width="220" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-48" value="&lt;b&gt;5. 策略模拟结果与政策建议&lt;/b&gt;&lt;div&gt;(优化策略包与实施路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1010" width="220" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
