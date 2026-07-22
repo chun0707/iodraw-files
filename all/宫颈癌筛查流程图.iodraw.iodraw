@@ -191,7 +191,7 @@
           <mxGeometry x="440" y="521" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-30" value="&lt;b&gt;科学问题2：连续性服务形成机制与关键断点识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="439" y="370" width="411" height="29" as="geometry" />
+          <mxGeometry x="439" y="380" width="411" height="19" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-31" value="&lt;b&gt;科学问题3：人工智能辅助决策与优化策略研究&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="380" width="321" height="30" as="geometry" />
@@ -308,7 +308,7 @@
           <mxGeometry y="380" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-85" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="378" width="430" height="160" as="geometry" />
+          <mxGeometry x="430" y="380" width="430" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
