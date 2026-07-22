@@ -100,9 +100,6 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-3" value="构建全过程真实世界数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="140" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-4" value="识别价值错配及健康收益损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-5" value="揭示连续性服务断点及形成机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="140" width="170" height="30" as="geometry" />
         </mxCell>
@@ -264,6 +261,20 @@
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="19" width="910" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-3" target="FvH_3-1YUIvuT-5ucj9W-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="155" as="sourcePoint" />
+            <mxPoint x="290" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-4" value="识别价值错配及健康收益损失" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="140" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
