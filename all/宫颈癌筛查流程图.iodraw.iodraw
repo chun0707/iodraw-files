@@ -106,8 +106,11 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-8" value="策略模拟与健康收益评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="140" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-9" value="两癌筛查平台数据&lt;div&gt;(筛查邀请、HPV细胞学结果、&lt;/div&gt;&lt;div&gt;重复筛查等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-9" value="&lt;b&gt;两癌筛查平台数据&lt;/b&gt;&lt;div&gt;(筛查邀请、HPV细胞学结果、&lt;/div&gt;&lt;div&gt;重复筛查等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="190" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-10" value="&lt;b&gt;临床诊疗数据&lt;/b&gt;&lt;div&gt;(阴道镜、病理、治疗、随访&lt;span style=&quot;background-color: initial;&quot;&gt;等)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
