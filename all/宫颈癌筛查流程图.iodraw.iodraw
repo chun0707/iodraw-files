@@ -124,8 +124,8 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-14" value="数据清洗、标准化、去标识化、联结(患者级、机构级、地区级)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-15" value="&lt;b&gt;科学问题1：价值错配识别与健康收益损失测度&lt;/b&gt;&lt;div&gt;(筛查邀请、HPV细胞学结果、&lt;/div&gt;&lt;div&gt;重复筛查等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="240" height="60" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-15" value="&lt;b&gt;科学问题1：价值错配识别与健康收益损失测度&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
