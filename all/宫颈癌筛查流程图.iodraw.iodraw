@@ -164,10 +164,10 @@
           <mxGeometry x="439" y="460" width="131" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-24" value="&lt;b&gt;2. 关键断点&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="460" width="126" height="29" as="geometry" />
+          <mxGeometry x="580" y="460" width="130" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-25" value="&lt;b&gt;2. 形成机制&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;解析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="449" width="130" height="40" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-25" value="&lt;b&gt;3. 形成机制&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;解析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="460" width="130" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-26" value="级联完成率与流失率&lt;div&gt;各环节时延分析&lt;/div&gt;&lt;div&gt;Kaplan-Meier曲线&lt;/div&gt;&lt;div&gt;连续性服务指数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="439" y="500" width="130" height="70" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="516" y="812" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-30" value="&lt;b&gt;科学问题2：连续性服务形成机制与关键断点识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="330" width="321" height="30" as="geometry" />
+          <mxGeometry x="439" y="330" width="321" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-31" value="&lt;b&gt;科学问题3：人工智能辅助决策与优化策略研究&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="380" width="321" height="30" as="geometry" />
