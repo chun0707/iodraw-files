@@ -112,6 +112,9 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-10" value="&lt;b&gt;临床诊疗数据&lt;/b&gt;&lt;div&gt;(阴道镜、病理、治疗、随访&lt;span style=&quot;background-color: initial;&quot;&gt;等)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="190" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-11" value="&lt;b&gt;医疗机构数据&lt;/b&gt;&lt;div&gt;(服务能力、转诊、人力资源等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
