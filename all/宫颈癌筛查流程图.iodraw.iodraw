@@ -142,7 +142,7 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-20" value="筛查及后续服务利用&lt;div&gt;服务强度与频率&lt;/div&gt;&lt;div&gt;服务成本与时延&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-21" value="筛查及后续服务利用&lt;div&gt;服务强度与频率&lt;/div&gt;&lt;div&gt;服务成本与时延&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-21" value="价值错配指数&lt;div&gt;四象限分类&lt;/div&gt;&lt;div&gt;公平性分析&lt;/div&gt;&lt;div&gt;空间错配分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="480" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
