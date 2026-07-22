@@ -134,13 +134,13 @@
           <mxGeometry x="50" y="380" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-16" value="&lt;b&gt;1. 潜在健康收益评估&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="430" width="90" height="40" as="geometry" />
+          <mxGeometry x="40" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-17" value="&lt;b&gt;2. 实际资源投入测量&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="430" width="90" height="40" as="geometry" />
+          <mxGeometry x="170" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-18" value="&lt;b&gt;3. 价值错配&lt;/b&gt;&lt;div&gt;&lt;b&gt;评价&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="90" height="40" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-18" value="&lt;b&gt;3. 价值错配&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;评价&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-19" value="CIN2+风险预测模型(Cox/XGBoost等)&lt;div&gt;干预收益估计&lt;/div&gt;&lt;div&gt;潜在健康收益评分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="120" height="70" as="geometry" />
