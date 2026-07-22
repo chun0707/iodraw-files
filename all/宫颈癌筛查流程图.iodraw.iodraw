@@ -122,7 +122,10 @@
           <mxGeometry x="780" y="190" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-14" value="数据清洗、标准化、去标识化、联结(患者级、机构级、地区级)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="360" height="50" as="geometry" />
+          <mxGeometry x="80" y="280" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-15" value="&lt;b&gt;两癌筛查平台数据&lt;/b&gt;&lt;div&gt;(筛查邀请、HPV细胞学结果、&lt;/div&gt;&lt;div&gt;重复筛查等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
