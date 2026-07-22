@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZAQcNjQFTSWqV5mM_C_O" name="第 3 页">
-    <mxGraphModel dx="573" dy="67" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-38" value="输出：AI辅助决策系统与最优策略方案" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="960" y="600" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-39" value="阶段1(0-6月)&lt;div&gt;数据整合与项目启动&lt;/div&gt;&lt;div&gt;数据治理、指标体系、风险模型构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="680" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
