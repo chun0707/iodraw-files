@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZAQcNjQFTSWqV5mM_C_O" name="第 3 页">
-    <mxGraphModel dx="572" dy="59" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,8 +160,11 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-26" value="级联完成率与流失率&lt;div&gt;各环节时延分析&lt;/div&gt;&lt;div&gt;Kaplan-Meier曲线&lt;/div&gt;&lt;div&gt;连续性服务指数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="480" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-27" value="多状态模型&lt;div&gt;（转移概率/停留时间）&lt;/div&gt;&lt;div&gt;序列/轨迹聚类分析&lt;/div&gt;&lt;div&gt;断点定位与分层&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-27" value="多状态模型&lt;div&gt;（转移概率/停留时间）&lt;/div&gt;&lt;div&gt;序列/轨迹聚类分析&lt;/div&gt;&lt;div&gt;断点定位与分层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-28" value="多水平混合效应模型&lt;div&gt;中介效应/结构方程模型&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="480" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
