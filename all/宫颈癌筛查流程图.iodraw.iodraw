@@ -142,10 +142,10 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-18" value="&lt;b&gt;3. 价值错配&lt;/b&gt;&lt;div&gt;&lt;b&gt;评价&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="430" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-19" value="CIN2+风险预测模型(Cox/XGBoost等)&lt;div&gt;干预收益估计&lt;/div&gt;&lt;div&gt;潜在健康收益评分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-19" value="CIN2+风险预测模型(Cox/XGBoost等)&lt;div&gt;干预收益估计&lt;/div&gt;&lt;div&gt;潜在健康收益评分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="40" y="480" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-20" value="筛查及后续服务利用&lt;div&gt;服务强度与频率&lt;/div&gt;&lt;div&gt;服务成本与时延&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-20" value="筛查及后续服务利用&lt;div&gt;服务强度与频率&lt;/div&gt;&lt;div&gt;服务成本与时延&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="160" y="480" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-21" value="价值错配指数&lt;div&gt;四象限分类&lt;/div&gt;&lt;div&gt;公平性分析&lt;/div&gt;&lt;div&gt;空间错配分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -258,9 +258,6 @@
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-57" value="&lt;b&gt;面向健康收益最大化的宫颈癌筛查全过程优化：价值错配识别&amp;nbsp; &amp;nbsp; &amp;nbsp; 连续性服务形成机制&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;人工智能辅助决策&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="19" width="910" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-59" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;CIN2+风险预测模型(Cox/XGBoost等)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry y="680" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="18" width="930" height="90" as="geometry" />
