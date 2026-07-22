@@ -172,13 +172,13 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-25" value="&lt;b&gt;2. 形成机制&lt;/b&gt;&lt;div&gt;&lt;b&gt;解析&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="430" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-26" value="级联完成率与流失率&lt;div&gt;各环节时延分析&lt;/div&gt;&lt;div&gt;Kaplan-Meier曲线&lt;/div&gt;&lt;div&gt;连续性服务指数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-26" value="级联完成率与流失率&lt;div&gt;各环节时延分析&lt;/div&gt;&lt;div&gt;Kaplan-Meier曲线&lt;/div&gt;&lt;div&gt;连续性服务指数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="439" y="500" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-27" value="多状态模型&lt;div&gt;（转移概率/停留时间）&lt;/div&gt;&lt;div&gt;序列/轨迹聚类分析&lt;/div&gt;&lt;div&gt;断点定位与分层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-27" value="多状态模型&lt;div&gt;（转移概率/停留时间）&lt;/div&gt;&lt;div&gt;序列/轨迹聚类分析&lt;/div&gt;&lt;div&gt;断点定位与分层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="590" y="500" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-28" value="多水平混合效应模型&lt;div&gt;中介效应/结构方程模型&lt;/div&gt;&lt;div&gt;CFIR框架分析&lt;/div&gt;&lt;div&gt;定性访谈(Mixed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-28" value="多水平混合效应模型&lt;div&gt;中介效应/结构方程模型&lt;/div&gt;&lt;div&gt;CFIR框架分析&lt;/div&gt;&lt;div&gt;定性访谈(Mixed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="740" y="500" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-29" value="输出：关键断点清单与形成机制模型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
