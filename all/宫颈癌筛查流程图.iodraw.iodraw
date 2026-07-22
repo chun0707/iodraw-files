@@ -161,7 +161,7 @@
           <mxGeometry x="300" y="490" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-22" value="输出：价值错配图谱与优先事项排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="790" width="260" height="30" as="geometry" />
+          <mxGeometry x="40" y="570" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-23" value="&lt;b&gt;1. 连续性服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;现状评价&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="430" width="100" height="40" as="geometry" />
