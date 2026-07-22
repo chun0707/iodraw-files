@@ -226,8 +226,8 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-48" value="&lt;b&gt;5. 策略模拟结果与政策建议&lt;/b&gt;&lt;div&gt;(优化策略包与实施路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="1010" width="220" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-49" value="&lt;b&gt;6. 学术论文&amp;gt;3篇&lt;/b&gt;&lt;div&gt;(优化策略包与实施路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1060" width="220" height="43" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-49" value="&lt;b&gt;6. 学术论文&amp;gt;3篇&lt;/b&gt;&lt;div&gt;7. 研究报告/政策建议&lt;/div&gt;&lt;div&gt;8. 数据产品与工具包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1060" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
