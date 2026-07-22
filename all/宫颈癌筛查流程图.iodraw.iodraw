@@ -161,7 +161,7 @@
           <mxGeometry x="10" y="520" width="380" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-23" value="&lt;b&gt;1. 连续性服务&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;现状评价&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="449" width="131" height="40" as="geometry" />
+          <mxGeometry x="439" y="460" width="131" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-24" value="&lt;b&gt;2. 关键断点&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="586" y="449" width="120" height="40" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="516" y="812" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-30" value="&lt;b&gt;科学问题2：连续性服务形成机制与关键断点识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="380" width="321" height="30" as="geometry" />
+          <mxGeometry x="400" y="330" width="321" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-31" value="&lt;b&gt;科学问题3：人工智能辅助决策与优化策略研究&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="380" width="321" height="30" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry y="221" width="930" height="89" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="370" width="400" height="170" as="geometry" />
+          <mxGeometry y="470" width="400" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
