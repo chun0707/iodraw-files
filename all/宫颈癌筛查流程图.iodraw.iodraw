@@ -164,34 +164,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-23" value="&lt;b&gt;1. 连续性服务&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;现状评价&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="400" width="130" height="30" as="geometry" />
+          <mxGeometry x="420" y="400" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-24" target="FvH_3-1YUIvuT-5ucj9W-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-24" value="&lt;b&gt;2. 关键断点&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="581" y="400" width="129" height="29" as="geometry" />
+          <mxGeometry x="561" y="400" width="129" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-25" target="FvH_3-1YUIvuT-5ucj9W-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-25" value="&lt;b&gt;3. 形成机制&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;解析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="400" width="130" height="29" as="geometry" />
+          <mxGeometry x="700" y="400" width="130" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-26" value="级联完成率与流失率&lt;div&gt;各环节时延分析&lt;/div&gt;&lt;div&gt;Kaplan-Meier曲线&lt;/div&gt;&lt;div&gt;连续性服务指数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="440" y="450" width="130" height="70" as="geometry" />
+          <mxGeometry x="420" y="450" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-27" value="多状态模型&lt;div&gt;（转移概率/停留时间）&lt;/div&gt;&lt;div&gt;序列/轨迹聚类分析&lt;/div&gt;&lt;div&gt;断点定位与分层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="581" y="449" width="129" height="71" as="geometry" />
+          <mxGeometry x="561" y="449" width="129" height="71" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-28" value="多水平混合效应模型&lt;div&gt;中介效应/结构方程模型&lt;/div&gt;&lt;div&gt;CFIR框架分析&lt;/div&gt;&lt;div&gt;定性访谈(Mixed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="720" y="450" width="130" height="70" as="geometry" />
+          <mxGeometry x="700" y="450" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-29" value="输出：关键断点清单与形成机制模型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="521" width="410" height="20" as="geometry" />
+          <mxGeometry x="420" y="521" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-30" value="&lt;b&gt;科学问题2：连续性服务形成机制与关键断点识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="439" y="380" width="411" height="19" as="geometry" />
+          <mxGeometry x="419" y="380" width="411" height="19" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-31" value="&lt;b&gt;科学问题3：人工智能辅助决策与优化策略研究&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="380" width="321" height="30" as="geometry" />
@@ -205,7 +205,7 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-34" value="&lt;b&gt;3. 策略模拟与评估&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="439" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-35" value="高健康收益人群识别模型&lt;div&gt;失访风险预测模型&lt;/div&gt;&lt;div&gt;资源需求预测模型&lt;/div&gt;&lt;div&gt;（阴道镜/病理/治疗）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-35" value="高健康收益人群识别模型&lt;div&gt;失访风险预测模型&lt;/div&gt;&lt;div&gt;资源需求预测模型&lt;/div&gt;&lt;div&gt;（阴道镜/病理/治疗）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="910" y="500" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-36" value="强化学习/优化算法&lt;div&gt;资源分配策略生成&lt;/div&gt;&lt;div&gt;个体化干预建议&lt;/div&gt;&lt;div&gt;(导航、提醒、转诊等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -308,7 +308,7 @@
           <mxGeometry y="380" width="400" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-85" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="380" width="430" height="160" as="geometry" />
+          <mxGeometry x="410" y="380" width="430" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
