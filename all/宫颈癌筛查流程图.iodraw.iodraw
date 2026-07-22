@@ -88,8 +88,8 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-1" value="科学问题2（实现机制）&lt;div&gt;连续性服务：已进入筛查体系的对象能否顺利完成筛查—诊断—治疗—随访全过程，实现健康收益？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="40" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-2" value="科学问题2（实现机制）&lt;div&gt;连续性服务：已进入筛查体系的对象能否顺利完成筛查—诊断—治疗—随访全过程，实现健康收益？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="50" width="270" height="60" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-2" value="科学问题2（优化机制）&lt;div&gt;人工智能辅助决策：如何实现资源精准配置与&lt;/div&gt;&lt;div&gt;连续性服务协同优化，促进健康收益最大化？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
