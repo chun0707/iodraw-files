@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZAQcNjQFTSWqV5mM_C_O" name="第 3 页">
-    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
           <mxGeometry x="80" y="280" width="360" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-15" value="&lt;b&gt;科学问题1：价值错配识别与健康收益损失测度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="360" width="270" height="30" as="geometry" />
+          <mxGeometry x="50" y="380" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-16" value="&lt;b&gt;1. 潜在健康收益评估&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="430" width="90" height="40" as="geometry" />
@@ -158,13 +158,19 @@
           <mxGeometry x="680" y="430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-26" value="级联完成率与流失率&lt;div&gt;各环节时延分析&lt;/div&gt;&lt;div&gt;Kaplan-Meier曲线&lt;/div&gt;&lt;div&gt;连续性服务指数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="500" width="130" height="80" as="geometry" />
+          <mxGeometry x="439" y="500" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-27" value="多状态模型&lt;div&gt;（转移概率/停留时间）&lt;/div&gt;&lt;div&gt;序列/轨迹聚类分析&lt;/div&gt;&lt;div&gt;断点定位与分层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="500" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-28" value="多水平混合效应模型&lt;div&gt;中介效应/结构方程模型&lt;/div&gt;&lt;div&gt;CFIR框架分析&lt;/div&gt;&lt;div&gt;定性访谈(Mixed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="480" width="130" height="80" as="geometry" />
+          <mxGeometry x="740" y="500" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-29" value="输出：关键断点清单与形成机制模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-30" value="&lt;b&gt;科学问题2：连续性服务形成机制与关键断点识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="380" width="321" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
