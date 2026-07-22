@@ -200,15 +200,15 @@
           <mxGeometry x="900" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-33" value="&lt;b&gt;2. 决策优化引擎&lt;/b&gt;&lt;div&gt;&lt;b&gt;(AI)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="1121" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-34" value="&lt;b&gt;3. 策略模拟与评估&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="439" width="120" height="40" as="geometry" />
+          <mxGeometry x="1260" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-35" value="高健康收益人群识别模型&lt;div&gt;失访风险预测模型&lt;/div&gt;&lt;div&gt;资源需求预测模型&lt;/div&gt;&lt;div&gt;（阴道镜/病理/治疗）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="910" y="500" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-36" value="强化学习/优化算法&lt;div&gt;资源分配策略生成&lt;/div&gt;&lt;div&gt;个体化干预建议&lt;/div&gt;&lt;div&gt;(导航、提醒、转诊等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-36" value="强化学习/优化算法&lt;div&gt;资源分配策略生成&lt;/div&gt;&lt;div&gt;个体化干预建议&lt;/div&gt;&lt;div&gt;(导航、提醒、转诊等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1070" y="500" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-37" value="数字孪生/离散事件模拟&lt;div&gt;不同策略情景比较&lt;/div&gt;&lt;div&gt;健康收益与成本效果评估&lt;/div&gt;&lt;div&gt;(CIN2+、癌症避免数、ICER等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
