@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZAQcNjQFTSWqV5mM_C_O" name="第 3 页">
-    <mxGraphModel dx="1787" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1788" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,17 +88,14 @@
         <mxCell id="Ntg74qNkl-Q05OQQNO3R-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="710" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="591" y="70" as="sourcePoint" />
-            <mxPoint x="641" y="70" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-1" target="FvH_3-1YUIvuT-5ucj9W-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-1" value="科学问题2（实现机制）&lt;div&gt;连续性服务：已进入筛查体系的对象能否顺利完成筛查—诊断—治疗—随访全过程，实现健康收益？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-2" value="科学问题3（优化机制）&lt;div&gt;人工智能辅助决策：如何实现资源精准配置与&lt;/div&gt;&lt;div&gt;连续性服务协同优化，促进健康收益最大化？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="270" height="60" as="geometry" />
+          <mxGeometry x="630" y="40" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-3" value="构建全过程真实世界数据集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="140" width="180" height="30" as="geometry" />
