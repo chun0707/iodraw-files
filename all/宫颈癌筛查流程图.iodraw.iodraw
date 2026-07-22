@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZAQcNjQFTSWqV5mM_C_O" name="第 3 页">
-    <mxGraphModel dx="573" dy="100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2315" dy="200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -229,8 +229,11 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-49" value="&lt;b&gt;6. 学术论文&amp;gt;3篇&lt;/b&gt;&lt;div&gt;7. 研究报告/政策建议&lt;/div&gt;&lt;div&gt;8. 数据产品与工具包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="1060" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-50" value="&lt;b&gt;最终目标：构建人工智能辅助的宫颈癌筛查全过程优化体系，实现资源精准配置、连续&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1140" width="480" height="30" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-50" value="&lt;b&gt;最终目标：构建人工智能辅助的宫颈癌筛查全过程优化体系，实现资源精准配置、连续性服务协同优化与健康收益最大化&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1160" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-51" value="科学问题1（配置机制）&lt;div&gt;价值错配：有限卫生资源是否优先配置于&lt;/div&gt;&lt;div&gt;能够产生最大健康收益的人群和服务环节？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="80" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
