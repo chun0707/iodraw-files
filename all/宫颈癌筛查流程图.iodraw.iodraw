@@ -136,8 +136,11 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-18" value="&lt;b&gt;3. 价值错配&lt;/b&gt;&lt;div&gt;&lt;b&gt;评价&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="430" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-19" value="&lt;b&gt;CIN2+风险预测模型(Cox/XGBoost等)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="90" height="80" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-19" value="CIN2+风险预测模型(Cox/XGBoost等)&lt;div&gt;干预收益估计&lt;/div&gt;&lt;div&gt;潜在健康收益评分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-20" value="CIN2+风险预测模型(Cox/XGBoost等)&lt;div&gt;干预收益估计&lt;/div&gt;&lt;div&gt;潜在健康收益评分&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
