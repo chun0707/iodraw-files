@@ -121,11 +121,11 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-11" value="&lt;b&gt;医疗机构数据&lt;/b&gt;&lt;div&gt;(服务能力、转诊、人力资源等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="220" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-12" value="&lt;b&gt;人口与社会经济数据&lt;/b&gt;&lt;div&gt;(年龄、城乡、民族、收入、医保、教育等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-12" value="&lt;b&gt;人口与社会经济数据&lt;/b&gt;&lt;div&gt;(年龄、城乡、民族、收入、&lt;/div&gt;&lt;div&gt;医保、教育等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="220" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-13" value="&lt;b&gt;地理空间数据&lt;/b&gt;&lt;div&gt;(地理位置、距离、交通可及性、医疗资源分布等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="230" width="180" height="40" as="geometry" />
+          <mxGeometry x="780" y="220" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-14" value="数据清洗、标准化、去标识化、联结(患者级、机构级、地区级)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="360" height="20" as="geometry" />
