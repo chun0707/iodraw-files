@@ -131,7 +131,7 @@
           <mxGeometry x="10" y="291" width="910" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-15" value="&lt;b&gt;科学问题1：价值错配识别与健康收益损失测度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="400" width="380" height="29" as="geometry" />
+          <mxGeometry x="40" y="401" width="380" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-16" target="FvH_3-1YUIvuT-5ucj9W-19">
           <mxGeometry relative="1" as="geometry" />
@@ -160,8 +160,8 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-21" value="价值错配指数&lt;div&gt;四象限分类&lt;/div&gt;&lt;div&gt;公平性分析&lt;/div&gt;&lt;div&gt;空间错配分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="300" y="490" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-22" value="输出：价值错配图谱与优先事项排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="563" width="380" height="27" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-22" value="输出：价值错配图谱与优先事项排序" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="561" width="380" height="27" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-23" value="&lt;b&gt;1. 连续性服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;现状评价&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="430" width="100" height="40" as="geometry" />
