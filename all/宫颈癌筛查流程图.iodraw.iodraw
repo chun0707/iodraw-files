@@ -164,7 +164,7 @@
           <mxGeometry x="439" y="460" width="131" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-24" value="&lt;b&gt;2. 关键断点&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="586" y="449" width="120" height="40" as="geometry" />
+          <mxGeometry x="586" y="460" width="120" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-25" value="&lt;b&gt;2. 形成机制&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;解析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="449" width="130" height="40" as="geometry" />
