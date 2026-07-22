@@ -173,10 +173,10 @@
           <mxGeometry x="439" y="500" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-27" value="多状态模型&lt;div&gt;（转移概率/停留时间）&lt;/div&gt;&lt;div&gt;序列/轨迹聚类分析&lt;/div&gt;&lt;div&gt;断点定位与分层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="440" y="590" width="130" height="80" as="geometry" />
+          <mxGeometry x="580" y="500" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-28" value="多水平混合效应模型&lt;div&gt;中介效应/结构方程模型&lt;/div&gt;&lt;div&gt;CFIR框架分析&lt;/div&gt;&lt;div&gt;定性访谈(Mixed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="130" height="80" as="geometry" />
+          <mxGeometry x="440" y="680" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-29" value="输出：关键断点清单与形成机制模型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="516" y="812" width="260" height="30" as="geometry" />
