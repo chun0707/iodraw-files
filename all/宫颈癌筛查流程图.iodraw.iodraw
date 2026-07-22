@@ -257,13 +257,13 @@
           <mxGeometry x="-123" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-57" value="&lt;b&gt;面向健康收益最大化的宫颈癌筛查全过程优化：价值错配识别&amp;nbsp; &amp;nbsp; &amp;nbsp; 连续性服务形成机制&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;人工智能辅助决策&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" width="890" height="20" as="geometry" />
+          <mxGeometry x="10" y="11" width="900" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-59" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="270" y="-190" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry width="910" height="90" as="geometry" />
+          <mxGeometry y="-110" width="910" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-3" target="FvH_3-1YUIvuT-5ucj9W-4">
           <mxGeometry relative="1" as="geometry">
