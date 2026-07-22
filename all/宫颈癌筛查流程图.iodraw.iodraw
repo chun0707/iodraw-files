@@ -259,8 +259,8 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-57" value="&lt;b&gt;面向健康收益最大化的宫颈癌筛查全过程优化：价值错配识别&amp;nbsp; &amp;nbsp; &amp;nbsp; 连续性服务形成机制&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;人工智能辅助决策&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="19" width="910" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-59" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="350" y="800" width="100" height="80" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-59" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;CIN2+风险预测模型(Cox/XGBoost等)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
+          <mxGeometry y="680" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-62" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry y="18" width="930" height="90" as="geometry" />
