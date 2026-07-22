@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZAQcNjQFTSWqV5mM_C_O" name="第 3 页">
-    <mxGraphModel dx="573" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="67" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-28" value="多水平混合效应模型&lt;div&gt;中介效应/结构方程模型&lt;/div&gt;&lt;div&gt;CFIR框架分析&lt;/div&gt;&lt;div&gt;定性访谈(Mixed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="500" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-29" value="输出：关键断点清单与形成机制模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-29" value="输出：关键断点清单与形成机制模型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="600" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-30" value="&lt;b&gt;科学问题2：连续性服务形成机制与关键断点识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -188,10 +188,13 @@
           <mxGeometry x="910" y="500" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-36" value="强化学习/优化算法&lt;div&gt;资源分配策略生成&lt;/div&gt;&lt;div&gt;个体化干预建议&lt;/div&gt;&lt;div&gt;(导航、提醒、转诊等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="590" width="140" height="80" as="geometry" />
+          <mxGeometry x="1070" y="500" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-37" value="数字孪生/离散事件模拟&lt;div&gt;不同策略情景比较&lt;/div&gt;&lt;div&gt;健康收益与成本效果评估&lt;/div&gt;&lt;div&gt;(CIN2+、癌症避免数、ICER等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="910" y="690" width="140" height="80" as="geometry" />
+          <mxGeometry x="1230" y="500" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-38" value="输出：AI辅助决策系统与最优策略方案" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="960" y="600" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
