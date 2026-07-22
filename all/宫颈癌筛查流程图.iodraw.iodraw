@@ -194,37 +194,37 @@
           <mxGeometry x="419" y="380" width="411" height="19" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-31" value="&lt;b&gt;科学问题3：人工智能辅助决策与优化策略研究&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900" y="421" width="420" height="18" as="geometry" />
+          <mxGeometry x="859" y="382" width="420" height="18" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-32" target="FvH_3-1YUIvuT-5ucj9W-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-32" value="&lt;b&gt;1. 预测模型构建&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;(AI)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="440" width="140" height="30" as="geometry" />
+          <mxGeometry x="859" y="401" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-33" target="FvH_3-1YUIvuT-5ucj9W-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-33" value="&lt;b&gt;2. 决策优化引擎&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;(AI)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="439" width="121" height="30" as="geometry" />
+          <mxGeometry x="1009" y="400" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvH_3-1YUIvuT-5ucj9W-34" target="FvH_3-1YUIvuT-5ucj9W-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-34" value="&lt;b&gt;3. 策略模拟与评估&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="439" width="140" height="29" as="geometry" />
+          <mxGeometry x="1139" y="400" width="140" height="29" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-35" value="高健康收益人群识别模型&lt;div&gt;失访风险预测模型&lt;/div&gt;&lt;div&gt;资源需求预测模型&lt;/div&gt;&lt;div&gt;（阴道镜/病理/治疗）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="900" y="491" width="140" height="79" as="geometry" />
+          <mxGeometry x="859" y="452" width="140" height="79" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-36" value="强化学习/优化算法&lt;div&gt;资源分配策略生成&lt;/div&gt;&lt;div&gt;个体化干预建议&lt;/div&gt;&lt;div&gt;(导航、提醒、转诊等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="489" width="121" height="80" as="geometry" />
+          <mxGeometry x="1009" y="450" width="121" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-37" value="数字孪生/离散事件模拟&lt;div&gt;不同策略情景比较&lt;/div&gt;&lt;div&gt;健康收益与成本效果评估&lt;/div&gt;&lt;div&gt;(CIN2+、癌症避免数、ICER等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="491" width="140" height="79" as="geometry" />
+          <mxGeometry x="1139" y="452" width="140" height="79" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-38" value="输出：AI辅助决策系统与最优策略方案" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="900" y="580" width="420" height="20" as="geometry" />
+          <mxGeometry x="870" y="580" width="420" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-39" value="阶段1(0-6月)&lt;div&gt;数据整合与项目启动&lt;/div&gt;&lt;div&gt;数据治理、指标体系、风险模型构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="680" width="200" height="60" as="geometry" />
