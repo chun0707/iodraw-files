@@ -101,7 +101,7 @@
           <mxGeometry x="410" y="140" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-7" value="构建AI辅助决策模型与优化策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="220" width="180" height="30" as="geometry" />
+          <mxGeometry x="610" y="140" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-8" value="策略模拟与健康收益评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="300" width="180" height="30" as="geometry" />
