@@ -148,8 +148,11 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-22" value="输出：价值错配图谱与优先事项排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-23" value="&lt;b&gt;3. 价值错配&lt;/b&gt;&lt;div&gt;&lt;b&gt;评价&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="450" width="90" height="40" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-23" value="&lt;b&gt;1. 连续性服务&lt;/b&gt;&lt;div&gt;&lt;b&gt;现状评价&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-24" value="&lt;b&gt;2. 关键断点&lt;/b&gt;&lt;div&gt;&lt;b&gt;识别&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
