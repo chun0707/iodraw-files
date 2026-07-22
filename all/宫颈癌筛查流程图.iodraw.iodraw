@@ -212,7 +212,10 @@
           <mxGeometry x="1754" y="680" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-44" value="&lt;b&gt;1. 完整的全过程数据库&lt;/b&gt;&lt;div&gt;(患者级、机构级、地区级)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="797" width="200" height="60" as="geometry" />
+          <mxGeometry x="760" y="797" width="200" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-45" value="&lt;b&gt;1. 完整的全过程数据库&lt;/b&gt;&lt;div&gt;(患者级、机构级、地区级)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="890" width="200" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
