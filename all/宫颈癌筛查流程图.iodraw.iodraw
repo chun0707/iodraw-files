@@ -115,6 +115,9 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-11" value="&lt;b&gt;医疗机构数据&lt;/b&gt;&lt;div&gt;(服务能力、转诊、人力资源等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="190" width="180" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-12" value="&lt;b&gt;人口与社会经济数据&lt;/b&gt;&lt;div&gt;(年龄、城乡、民族、收入、医保、教育等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
