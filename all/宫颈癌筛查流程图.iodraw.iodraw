@@ -127,8 +127,8 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-15" value="&lt;b&gt;科学问题1：价值错配识别与健康收益损失测度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="360" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-16" value="&lt;b&gt;科学问题1：价值错配识别与健康收益损失测度&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="430" width="270" height="30" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-16" value="&lt;b&gt;1. 潜在健康收益评估&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="430" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
