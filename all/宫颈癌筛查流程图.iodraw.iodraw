@@ -187,8 +187,8 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-28" value="多水平混合效应模型&lt;div&gt;中介效应/结构方程模型&lt;/div&gt;&lt;div&gt;CFIR框架分析&lt;/div&gt;&lt;div&gt;定性访谈(Mixed)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="720" y="450" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FvH_3-1YUIvuT-5ucj9W-29" value="输出：关键断点清单与形成机制模型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="260" height="30" as="geometry" />
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-29" value="输出：关键断点清单与形成机制模型" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-30" value="&lt;b&gt;科学问题2：连续性服务形成机制与关键断点识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="439" y="370" width="411" height="29" as="geometry" />
