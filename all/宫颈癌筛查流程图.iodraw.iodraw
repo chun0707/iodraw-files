@@ -217,6 +217,9 @@
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-45" value="&lt;b&gt;2. 价值错配图谱与健康收益损失评估报告&lt;/b&gt;&lt;div&gt;(人群、环节、机构、地区多维)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="850" width="220" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-46" value="&lt;b&gt;3. 连续性服务断点清单与形成机制模型&lt;/b&gt;&lt;div&gt;(量化模型+机制路径图)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="910" width="220" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
