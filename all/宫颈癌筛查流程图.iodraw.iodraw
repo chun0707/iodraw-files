@@ -227,7 +227,10 @@
           <mxGeometry x="760" y="1010" width="220" height="43" as="geometry" />
         </mxCell>
         <mxCell id="FvH_3-1YUIvuT-5ucj9W-49" value="&lt;b&gt;6. 学术论文&amp;gt;3篇&lt;/b&gt;&lt;div&gt;7. 研究报告/政策建议&lt;/div&gt;&lt;div&gt;8. 数据产品与工具包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1060" width="220" height="60" as="geometry" />
+          <mxGeometry x="760" y="1060" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FvH_3-1YUIvuT-5ucj9W-50" value="&lt;b&gt;最终目标：构建人工智能辅助的宫颈癌筛查全过程优化体系，实现资源精准配置、连续&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1140" width="480" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
