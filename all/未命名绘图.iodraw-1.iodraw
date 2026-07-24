@@ -95,7 +95,7 @@
           <mxGeometry x="134" y="46" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-55" value="&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#007fff&quot;&gt;&lt;b&gt;Baseline Need&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(Health Burden)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="280" width="520" height="30" as="geometry" />
+          <mxGeometry x="120" y="280" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
