@@ -151,7 +151,7 @@
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-76" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Highest Priority&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="660" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KtPBtFTUOg7NY1PUsIq0-77" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#004c99&quot;&gt;Policy Priority Classification&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（Integrating Burden, Gap and Health Gains）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KtPBtFTUOg7NY1PUsIq0-77" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#004c99&quot;&gt;Policy Priority Classification&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;（&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Integrating Burden, Gap and Health Gains&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="560" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
