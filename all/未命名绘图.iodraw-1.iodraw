@@ -124,7 +124,7 @@
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-65" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Estimate the number of maternal, neonatal and under-five deaths averted under alternative coverage scale-up&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;scenarios using LiST&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;opacity=40;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="540" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KtPBtFTUOg7NY1PUsIq0-66" value="Maternal&lt;div&gt;deaths&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KtPBtFTUOg7NY1PUsIq0-66" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Maternal&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;deaths averted&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="261.38" y="289" width="78.62" height="30" as="geometry" />
         </mxCell>
       </root>
