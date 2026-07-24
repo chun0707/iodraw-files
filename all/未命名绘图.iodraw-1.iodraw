@@ -38,7 +38,7 @@
           <mxGeometry x="311.38" y="141" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-15" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;Measure the level of RMNCH Mortality burden&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 10px;&quot;&gt;（deaths per 100,000 live births or per 1,000 live births）&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#D4E1F5;fontColor=#ffffff;strokeColor=none;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="125" y="190" width="255" height="30" as="geometry" />
+          <mxGeometry x="125" y="190" width="265" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="390" width="260" height="130" as="geometry" />
