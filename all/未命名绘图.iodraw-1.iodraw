@@ -70,8 +70,8 @@
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-43" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Bayesian&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;projection&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;to 2030&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="581.025" y="141.105" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KtPBtFTUOg7NY1PUsIq0-44" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Coverage gap&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="671.405" y="140.99499999999998" width="60" height="50" as="geometry" />
+        <mxCell id="KtPBtFTUOg7NY1PUsIq0-44" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Coverage gap&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;to SDG target&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(80% or 90%)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="140.99" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-45" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Estimate future service coverage and quantify the&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;gap to SDG coverage targets&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;opacity=60;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="499.995" y="200.005" width="250" height="30" as="geometry" />
