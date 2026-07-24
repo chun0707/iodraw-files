@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KtPBtFTUOg7NY1PUsIq0-1" value="STEP 1" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="39.07" y="78.57" width="121.87" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-2" value="Baseline Need&lt;div&gt;(Health Burden)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="40" width="230" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="KtPBtFTUOg7NY1PUsIq0-1" value="STEP 1" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="39.07" y="78.57" width="121.87" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
