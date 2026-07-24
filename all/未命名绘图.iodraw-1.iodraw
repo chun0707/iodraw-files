@@ -209,7 +209,7 @@
           <mxGeometry x="601.04" y="713" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-104" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;High burden&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;Large coverage gap&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;Large health gain&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="60" y="750" width="150" height="70" as="geometry" />
+          <mxGeometry x="60" y="743" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
