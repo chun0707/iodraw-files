@@ -133,9 +133,9 @@
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-68" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Under-five&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;deaths averted&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="631.03" y="295.02" width="70.24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KtPBtFTUOg7NY1PUsIq0-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="KtPBtFTUOg7NY1PUsIq0-16">
+        <mxCell id="KtPBtFTUOg7NY1PUsIq0-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0.367;entryY=1.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="KtPBtFTUOg7NY1PUsIq0-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="380" as="sourcePoint" />
+            <mxPoint x="318" y="350" as="sourcePoint" />
             <mxPoint x="330" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
