@@ -37,6 +37,9 @@
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-14" value="Under-five&lt;br&gt;&lt;div&gt;mortality&lt;/div&gt;&lt;div&gt;（U5MR）&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="160" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KtPBtFTUOg7NY1PUsIq0-15" value="Maternal&lt;div&gt;mortality&lt;/div&gt;&lt;div&gt;（MMR）&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
