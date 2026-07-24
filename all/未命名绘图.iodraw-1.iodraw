@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-2" value="Baseline Need&lt;div&gt;(Health Burden)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
-          <mxGeometry x="80" y="38.78" width="279.24" height="121" as="geometry" />
+          <mxGeometry x="80" y="38.78" width="279.24" height="51.22" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-1" value="STEP 1" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="39.78" y="79.28" width="120.46" height="40" as="geometry" />
