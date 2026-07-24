@@ -91,6 +91,9 @@
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-47" value="STEP 1" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="190" height="21.71" as="geometry" />
         </mxCell>
+        <mxCell id="KtPBtFTUOg7NY1PUsIq0-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="65" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
