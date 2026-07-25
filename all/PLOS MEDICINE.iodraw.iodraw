@@ -161,7 +161,7 @@
           <mxGeometry x="99" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-85" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;opacity=50;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="239" y="520" width="120" height="160" as="geometry" />
+          <mxGeometry x="236" y="520" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-86" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Targeted Improvement&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="244" y="528" width="110" height="22" as="geometry" />
@@ -173,7 +173,7 @@
           <mxGeometry x="171" y="980" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-92" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Moderate burden&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Moderate coverage gap&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Moderate health gain&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="223.38" y="599" width="148.62" height="40" as="geometry" />
+          <mxGeometry x="218.38" y="599" width="148.62" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-93" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Targeted strategies to&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;accelerate progress&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="239" y="649" width="121" height="41" as="geometry" />
