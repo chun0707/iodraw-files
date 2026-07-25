@@ -50,10 +50,10 @@
           <mxGeometry x="540.025" y="78.99499999999998" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006633;fillColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="400" y="39.99" width="300.03" height="190.01" as="geometry" />
+          <mxGeometry x="400" y="39.99" width="300.03" height="150.01" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-37" value="&lt;b&gt;STEP 2&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#008a00;strokeColor=none;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="327.88" y="112.6" width="185.07" height="40" as="geometry" />
+          <mxGeometry x="323.94" y="116.54" width="192.95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#97D077;fontColor=#ffffff;strokeColor=none;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="450.025" y="78.99499999999998" width="60" height="60" as="geometry" />
