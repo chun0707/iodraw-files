@@ -218,10 +218,10 @@
           <mxGeometry x="79" y="875" width="630.03" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Glo4176JfgEVIFgSR2ac-4" value="STEP 4" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;fillColor=#004C99;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="1.02" y="559.19" width="198.46" height="40.5" as="geometry" />
+          <mxGeometry x="26.43" y="574.28" width="198.46" height="10.31" as="geometry" />
         </mxCell>
         <mxCell id="Glo4176JfgEVIFgSR2ac-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="480" width="570" height="200" as="geometry" />
+          <mxGeometry x="80" y="480" width="620" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Glo4176JfgEVIFgSR2ac-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
