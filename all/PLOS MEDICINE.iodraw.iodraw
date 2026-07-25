@@ -217,9 +217,6 @@
         <mxCell id="KtPBtFTUOg7NY1PUsIq0-121" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="79" y="875" width="630.03" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Glo4176JfgEVIFgSR2ac-3" value="STEP4&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="439" width="40" height="161" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
