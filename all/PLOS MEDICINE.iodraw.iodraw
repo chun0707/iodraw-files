@@ -237,6 +237,12 @@
         <mxCell id="Glo4176JfgEVIFgSR2ac-8" value="Guide RMNCH investment decision to maximize health gains and achieve SDG targets by 2030" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="680" width="621" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Glo4176JfgEVIFgSR2ac-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
