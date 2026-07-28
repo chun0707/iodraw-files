@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="RMNCH Priority-setting Framework 的副本" id="U94qAsbTcRhvvSMmxcMM">
-    <mxGraphModel dx="652" dy="114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="651" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rdu0LeNBGtokNU98-zfU-0" />
         <mxCell id="rdu0LeNBGtokNU98-zfU-1" parent="rdu0LeNBGtokNU98-zfU-0" />
@@ -451,7 +451,7 @@
           <mxGeometry x="0.51" y="539.7" width="199.48" height="40.5" as="geometry" />
         </mxCell>
         <mxCell id="rdu0LeNBGtokNU98-zfU-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#004C99;" vertex="1" parent="rdu0LeNBGtokNU98-zfU-1">
-          <mxGeometry x="80" y="480" width="620" height="180" as="geometry" />
+          <mxGeometry x="80" y="460" width="620" height="200" as="geometry" />
         </mxCell>
         <mxCell id="rdu0LeNBGtokNU98-zfU-67" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#4D4D4D;strokeColor=none;" edge="1" parent="rdu0LeNBGtokNU98-zfU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
