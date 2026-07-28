@@ -313,7 +313,7 @@
           <mxGeometry x="541.025" y="141.105" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rdu0LeNBGtokNU98-zfU-23" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Coverage gap&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;to SDG target&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(80% or 90%)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rdu0LeNBGtokNU98-zfU-1">
-          <mxGeometry x="630" y="140.99" width="70" height="50" as="geometry" />
+          <mxGeometry x="629" y="140.99" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rdu0LeNBGtokNU98-zfU-24" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Estimate future service coverage and quantify the&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;gap to SDG coverage targets&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;opacity=60;strokeColor=none;" vertex="1" parent="rdu0LeNBGtokNU98-zfU-1">
           <mxGeometry x="448" y="193.01" width="245" height="30" as="geometry" />
