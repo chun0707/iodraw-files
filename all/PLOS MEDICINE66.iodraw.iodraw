@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="RMNCH Priority-setting Framework 的副本" id="U94qAsbTcRhvvSMmxcMM">
-    <mxGraphModel dx="652" dy="114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="651" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rdu0LeNBGtokNU98-zfU-0" />
         <mxCell id="rdu0LeNBGtokNU98-zfU-1" parent="rdu0LeNBGtokNU98-zfU-0" />
@@ -312,8 +312,8 @@
         <mxCell id="rdu0LeNBGtokNU98-zfU-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Bayesian&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;projection&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;to 2030&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rdu0LeNBGtokNU98-zfU-1">
           <mxGeometry x="541.025" y="141.105" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rdu0LeNBGtokNU98-zfU-23" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Coverage gap&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;to SDG target&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(80% or 90%)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rdu0LeNBGtokNU98-zfU-1">
-          <mxGeometry x="630" y="140.99" width="70" height="50" as="geometry" />
+        <mxCell id="rdu0LeNBGtokNU98-zfU-23" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Coverage gap&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;to RMNCH coverage benchmark&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(80% or 90%)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rdu0LeNBGtokNU98-zfU-1">
+          <mxGeometry x="620" y="140.99" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rdu0LeNBGtokNU98-zfU-24" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Estimate future service coverage and quantify the&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;gap to SDG coverage targets&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#97D077;opacity=60;strokeColor=none;" vertex="1" parent="rdu0LeNBGtokNU98-zfU-1">
           <mxGeometry x="448" y="193.01" width="245" height="30" as="geometry" />
