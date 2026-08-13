@@ -25,7 +25,7 @@
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;构建标准化、高质量的多源监测数据资源与风险特征库，为模型训练与风险感知提供数据基础" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-40" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-8" value="1. 多源数据资源构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-8" value="4. 智能预警系统集成与应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-40" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
