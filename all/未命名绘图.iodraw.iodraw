@@ -25,11 +25,11 @@
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-8" value="4. 态势感知与预警系统集成与应用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="-210" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-15" value="病原监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-15" value="病原学&lt;div&gt;检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-16" value="传染病&lt;div&gt;网络直报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="-120" width="70" height="40" as="geometry" />
+          <mxGeometry x="40" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-17" value="症候群&lt;div&gt;监测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="-120" width="80" height="40" as="geometry" />
