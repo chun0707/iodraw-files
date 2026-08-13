@@ -142,7 +142,10 @@
           <mxGeometry x="609.5" y="30" width="141" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="430" y="200" width="32" height="40" as="geometry" />
+          <mxGeometry x="430" y="200" width="32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-32" value="" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
