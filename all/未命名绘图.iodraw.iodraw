@@ -47,19 +47,19 @@
           <mxGeometry x="760" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-23" value="数据接入&lt;div&gt;与汇聚&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="71" y="-60" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-24" value="数据清洗&lt;div&gt;与标准化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="231" y="-60" width="80" height="40" as="geometry" />
+          <mxGeometry x="230" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-25" value="时空匹配&lt;div&gt;与关联&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="391" y="-60" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-26" value="质量控制&lt;div&gt;与校验&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561" y="-60" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-27" value="特征提取&lt;div&gt;与构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="728" y="-60" width="80" height="40" as="geometry" />
+          <mxGeometry x="727" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-28" value="标准化监测数据资源库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="160" width="80" height="40" as="geometry" />
