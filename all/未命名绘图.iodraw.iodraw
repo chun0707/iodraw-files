@@ -34,13 +34,13 @@
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-17" value="症候群&lt;div&gt;监测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-18" value="海关、交通&lt;div&gt;等数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-18" value="海关、交通&lt;div&gt;等数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-20" value="病媒&lt;div&gt;监测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-21" value="气象与环境&lt;div&gt;数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-21" value="气象与环境&lt;div&gt;数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-22" value="流行病学&lt;div&gt;调查数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
