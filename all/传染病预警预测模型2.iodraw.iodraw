@@ -141,6 +141,9 @@
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-27" value="风险特征库(时序、空间特征；多源融合关联特征)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="609.5" y="30" width="141" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.donut;dx=25;" vertex="1" parent="1">
+          <mxGeometry x="460" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
