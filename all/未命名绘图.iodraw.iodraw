@@ -47,7 +47,7 @@
           <mxGeometry x="760" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-23" value="数据接入&lt;div&gt;与汇聚&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-70" width="80" height="40" as="geometry" />
+          <mxGeometry x="70" y="-60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-24" value="数据清洗&lt;div&gt;与标准化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="-60" width="80" height="40" as="geometry" />
