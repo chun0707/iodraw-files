@@ -150,8 +150,8 @@
             <mxPoint x="610" y="65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="503" y="50" width="32" height="30" as="geometry" />
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;strokeColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="508" y="50" width="32" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
