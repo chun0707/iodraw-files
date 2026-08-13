@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-1" value="1. 多源数据资源构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-2" value="构建标准化、高质量的多源监测数据资源与风险特征库，为模型训练与风险感知提供数据基础" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="90" width="120" height="100" as="geometry" />
