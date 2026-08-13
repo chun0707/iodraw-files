@@ -130,7 +130,7 @@
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-9" value="&lt;font color=&quot;#1296db&quot;&gt;数据治理与标准化处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="380.11" y="-56" width="129.89" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf9n96RQ6Z3VzHrJt3PH-24">
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Cf9n96RQ6Z3VzHrJt3PH-24" target="Cf9n96RQ6Z3VzHrJt3PH-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="544.5" y="65" as="targetPoint" />
           </mxGeometry>
