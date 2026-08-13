@@ -181,7 +181,7 @@
           <mxGeometry x="170" y="240" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="360" width="160" height="100" as="geometry" />
+          <mxGeometry x="129" y="300" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-61" value="多模态数据融合&lt;div&gt;(病原、症候群、海关数据等)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="515" y="160" width="160" height="40" as="geometry" />
