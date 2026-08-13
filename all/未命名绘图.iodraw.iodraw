@@ -94,6 +94,9 @@
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="-180" width="820" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-42" value="数据清洗&lt;div&gt;与标准化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-240" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
