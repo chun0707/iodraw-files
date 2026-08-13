@@ -43,6 +43,9 @@
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-21" value="流行病学&lt;div&gt;调查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-22" value="病媒监测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-110" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
