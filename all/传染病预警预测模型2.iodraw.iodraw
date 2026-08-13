@@ -151,7 +151,7 @@
           <mxGeometry x="320" y="140" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-38" value="传播动力学模型&lt;div&gt;(SIR/SEIR等)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="170" width="160" height="30" as="geometry" />
+          <mxGeometry x="120" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf9n96RQ6Z3VzHrJt3PH-39">
           <mxGeometry relative="1" as="geometry">
