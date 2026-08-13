@@ -46,8 +46,10 @@
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-22" value="流行病学&lt;div&gt;调查数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="-120" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXsKD5PNqKF6iU6gMFEJ-23" target="Cf9n96RQ6Z3VzHrJt3PH-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXsKD5PNqKF6iU6gMFEJ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-23" value="数据接入&lt;div&gt;与汇聚&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="-31" width="80" height="40" as="geometry" />
@@ -113,9 +115,6 @@
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-9" value="&lt;font color=&quot;#1296db&quot;&gt;数据治理与标准化处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="380.11" y="-56" width="129.89" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="79" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
