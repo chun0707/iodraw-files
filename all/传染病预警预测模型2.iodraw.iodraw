@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-38" value="传播动力学模型&lt;div&gt;(SIR/SEIR等)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="200" height="40" as="geometry" />
+          <mxGeometry x="120" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf9n96RQ6Z3VzHrJt3PH-39">
           <mxGeometry relative="1" as="geometry">
@@ -178,7 +178,7 @@
           <mxGeometry x="320" y="220" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-46" value="......" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="280" width="60" height="10" as="geometry" />
+          <mxGeometry x="170" y="240" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="360" width="160" height="100" as="geometry" />
