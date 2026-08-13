@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-24" value="标准化监测数据资源库&lt;div&gt;(结构化数据)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="293" y="30" width="141" height="70" as="geometry" />
+          <mxGeometry x="129" y="40" width="141" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-27" value="风险特征库(时序、空间特征；多源融合关联特征)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="609.5" y="30" width="141" height="70" as="geometry" />
