@@ -11,10 +11,22 @@
           <mxGeometry x="40" y="-40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;构建标准化、高质量的多源监测数据资源与风险特征库，为模型训练与风险感知提供数据基础" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-30" width="120" height="160" as="geometry" />
+          <mxGeometry x="200" y="-40" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-4" value="1. 多源数据资源构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-30" width="120" height="50" as="geometry" />
+          <mxGeometry x="200" y="-40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;构建标准化、高质量的多源监测数据资源与风险特征库，为模型训练与风险感知提供数据基础" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-40" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-6" value="1. 多源数据资源构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-7" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;构建标准化、高质量的多源监测数据资源与风险特征库，为模型训练与风险感知提供数据基础" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-10" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-8" value="1. 多源数据资源构建" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-10" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
