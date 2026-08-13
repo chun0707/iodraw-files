@@ -148,7 +148,7 @@
           <mxGeometry x="125" y="120" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-37" value="&lt;font color=&quot;#7cba59&quot;&gt;数据驱动(数据学习)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontColor=#1296db;" vertex="1" parent="1">
-          <mxGeometry x="320" y="140" width="160" height="20" as="geometry" />
+          <mxGeometry x="325" y="130" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf9n96RQ6Z3VzHrJt3PH-38">
           <mxGeometry relative="1" as="geometry">
@@ -182,6 +182,39 @@
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf9n96RQ6Z3VzHrJt3PH-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-52" value="传播动力学模型&lt;div&gt;(SIR/SEIR等)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf9n96RQ6Z3VzHrJt3PH-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-54" value="S" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cf9n96RQ6Z3VzHrJt3PH-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-56" value="I" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-57" value="R" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="230" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-58" value="......" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
