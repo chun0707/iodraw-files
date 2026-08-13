@@ -215,7 +215,7 @@
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="160" width="310" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-81" value="多模态数据融合&lt;div&gt;(病原、症候群、海关数据等)&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-81" value="时空特征学习" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="485" y="280" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
