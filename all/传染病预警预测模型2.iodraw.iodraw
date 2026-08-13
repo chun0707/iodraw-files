@@ -140,7 +140,7 @@
           <mxGeometry x="293" y="30" width="141" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cf9n96RQ6Z3VzHrJt3PH-26" value="风险特征库&lt;div&gt;(时序特征、空间特征、传播特征、多源融合关联特征等)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="609.5" y="40" width="141" height="70" as="geometry" />
+          <mxGeometry x="614.75" y="120" width="130.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
