@@ -61,7 +61,7 @@
         <mxCell id="zXsKD5PNqKF6iU6gMFEJ-27" value="特征提取&lt;div&gt;与构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="-40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-28" value="数据接入&lt;div&gt;与汇聚&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zXsKD5PNqKF6iU6gMFEJ-28" value="标准化监测数据资源库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
