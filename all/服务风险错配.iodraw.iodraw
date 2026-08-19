@@ -282,7 +282,7 @@
           <mxGeometry x="289" y="760" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-132" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务不适宜错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="249" y="690" width="200" height="20" as="geometry" />
+          <mxGeometry x="249" y="690" width="381" height="20" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-133" value="&lt;font face=&quot;Times New Roman&quot;&gt;服务强度&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;过高&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="409" y="760" width="60" height="40" as="geometry" />
