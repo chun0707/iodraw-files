@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="mG395BXf_5g8oJWrfZC9">
-    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
             <mxPoint x="584.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="htmc2pyHSfoBg4zZYSOa-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
+        <mxCell id="htmc2pyHSfoBg4zZYSOa-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-166" y="560" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-103" value="&lt;font face=&quot;Times New Roman&quot;&gt;是否获得了&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;应&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;获得的服务&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
