@@ -261,7 +261,7 @@
           <mxGeometry x="40" y="550" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="680" width="390" height="140" as="geometry" />
+          <mxGeometry x="-170" y="680" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;高风险未获得&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-150" y="770" width="60" height="40" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry x="-80" y="770" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-129" value="&lt;font face=&quot;Times New Roman&quot;&gt;关键节点中断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="770" width="60" height="40" as="geometry" />
+          <mxGeometry x="126.5" y="760" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="239" y="680" width="401" height="140" as="geometry" />
