@@ -252,7 +252,7 @@
         <mxCell id="htmc2pyHSfoBg4zZYSOa-120" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-170" y="588" width="810" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="htmc2pyHSfoBg4zZYSOa-123" value="风险—服务是否匹配（贯穿全过程）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="htmc2pyHSfoBg4zZYSOa-123" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;风险—服务是否匹配（贯穿全过程）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="550" width="390" height="25" as="geometry" />
         </mxCell>
       </root>
