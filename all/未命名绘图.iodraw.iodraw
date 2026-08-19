@@ -98,7 +98,7 @@
         <mxCell id="FbU5_yevoyIvWeTbdzW4-42" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;2. 异常分流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="320" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FbU5_yevoyIvWeTbdzW4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;" edge="1" parent="1" source="FbU5_yevoyIvWeTbdzW4-45">
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;" edge="1" parent="1" source="FbU5_yevoyIvWeTbdzW4-45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="380" as="targetPoint" />
           </mxGeometry>
