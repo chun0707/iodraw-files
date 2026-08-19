@@ -25,7 +25,7 @@
             <mxPoint x="180" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbU5_yevoyIvWeTbdzW4-7" value="1. 初筛&lt;div&gt;(Screening)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;建议筛查方式&lt;/div&gt;&lt;div&gt;及筛查间隔&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-7" value="2. 异常分流&lt;div&gt;(Screening)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据结果判断&lt;/div&gt;&lt;div&gt;是否需要分流&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-10" value="3. 阴道镜检查&lt;div&gt;(Screening)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;建议筛查方式&lt;/div&gt;&lt;div&gt;及筛查间隔&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
