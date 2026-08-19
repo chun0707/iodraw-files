@@ -174,46 +174,46 @@
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#004C99;" edge="1" parent="1" source="htmc2pyHSfoBg4zZYSOa-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="220" as="targetPoint" />
+            <mxPoint x="130" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-69" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;1. 初筛&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;建议筛查方式&lt;/div&gt;&lt;div&gt;及筛查间隔&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="160" width="80" height="120" as="geometry" />
+          <mxGeometry x="20" y="640" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#004C99;" edge="1" parent="1" source="htmc2pyHSfoBg4zZYSOa-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="220" as="targetPoint" />
+            <mxPoint x="240" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-71" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;2. 异常分流&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据结果判断&lt;/div&gt;&lt;div&gt;是否需要分流&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="80" height="120" as="geometry" />
+          <mxGeometry x="130" y="640" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;" edge="1" parent="1" source="htmc2pyHSfoBg4zZYSOa-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="220" as="targetPoint" />
+            <mxPoint x="350" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-73" value="&lt;b&gt;3. 阴道镜检查&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据分流结果&lt;/div&gt;&lt;div&gt;判断是否需要阴道镜&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="80" height="120" as="geometry" />
+          <mxGeometry x="240" y="640" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="htmc2pyHSfoBg4zZYSOa-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="220" as="targetPoint" />
+            <mxPoint x="460" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-75" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;4. 病理诊断&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据分流结果&lt;/div&gt;&lt;div&gt;判断是否需要阴道镜&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="160" width="80" height="120" as="geometry" />
+          <mxGeometry x="350" y="640" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="htmc2pyHSfoBg4zZYSOa-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="220" as="targetPoint" />
+            <mxPoint x="570" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;5. 治疗&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据分流结果&lt;/div&gt;&lt;div&gt;判断是否需要阴道镜&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="80" height="120" as="geometry" />
+          <mxGeometry x="460" y="640" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;6. 随访&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据分流结果&lt;/div&gt;&lt;div&gt;判断是否需要阴道镜&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="510" y="160" width="80" height="120" as="geometry" />
+          <mxGeometry x="570" y="640" width="80" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
