@@ -58,7 +58,7 @@
         <mxCell id="FbU5_yevoyIvWeTbdzW4-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;6. 随访&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据分流结果&lt;/div&gt;&lt;div&gt;判断是否需要阴道镜&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="160" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="FbU5_yevoyIvWeTbdzW4-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;建议筛查方式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;建议筛查方式&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;及筛查间隔&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="560" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-21" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;2. 异常分流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
