@@ -65,7 +65,7 @@
         <mxCell id="FbU5_yevoyIvWeTbdzW4-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;阴道镜结果后判断是否需要病理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="388" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FbU5_yevoyIvWeTbdzW4-52" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4. 病理诊断&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-52" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4. 病理诊断&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;" parent="1" source="FbU5_yevoyIvWeTbdzW4-55" edge="1">
