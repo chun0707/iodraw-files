@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="560" width="170" height="70" as="geometry" />
+          <mxGeometry x="-170" y="560" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-103" value="&lt;font face=&quot;Times New Roman&quot;&gt;是否获得了&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;应&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;获得的服务&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-117" y="590" width="80" height="31" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="-161" y="576" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-106" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="50" y="559" width="140" height="70" as="geometry" />
+          <mxGeometry x="10" y="559" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-107" value="&lt;font face=&quot;Times New Roman&quot;&gt;是否在推荐&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;时间窗口内完成&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="589" width="100" height="31" as="geometry" />
