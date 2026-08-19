@@ -25,7 +25,7 @@
             <mxPoint x="180" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbU5_yevoyIvWeTbdzW4-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;2. 异常分流&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;DvKiM5HbrJifiwKyx6oO&quot;&gt;&lt;b&gt;(Triage)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据结果判断&lt;/div&gt;&lt;div&gt;是否需要分流&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;2. 异常分流&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(Triage)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;依据结果判断&lt;/div&gt;&lt;div&gt;是否需要分流&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="160" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;" edge="1" parent="1" source="FbU5_yevoyIvWeTbdzW4-10">
