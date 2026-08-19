@@ -20,6 +20,9 @@
         <mxCell id="FbU5_yevoyIvWeTbdzW4-4" value="1. 初筛&lt;div&gt;(Screening)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;建议筛查方式&lt;/div&gt;&lt;div&gt;及筛查间隔&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="160" width="80" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-7" value="1. 初筛&lt;div&gt;(Screening)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;建议筛查方式&lt;/div&gt;&lt;div&gt;及筛查间隔&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="80" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
