@@ -23,7 +23,7 @@
         <mxCell id="FbU5_yevoyIvWeTbdzW4-20" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;建议筛查方式&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;及筛查间隔&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-160" y="388" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FbU5_yevoyIvWeTbdzW4-31" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;1. 初筛&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-31" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1. 初筛&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-160" y="320" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;" parent="1" source="FbU5_yevoyIvWeTbdzW4-40" edge="1">
