@@ -200,7 +200,7 @@
           <mxGeometry x="-170" y="560" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-103" value="&lt;font face=&quot;Times New Roman&quot;&gt;是否获得了&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;应&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;获得的服务&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="590" width="110" height="31" as="geometry" />
+          <mxGeometry x="-120" y="590" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-104" value="&lt;font color=&quot;#66cc00&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;服务获得&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-120" y="569" width="80" height="20" as="geometry" />
