@@ -92,7 +92,7 @@
         <mxCell id="FbU5_yevoyIvWeTbdzW4-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-30" y="310" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="FbU5_yevoyIvWeTbdzW4-41" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;建议筛查方式&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;及筛查间隔&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;依据结果判断&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;是否需要分流&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="388" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-42" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;2. 异常分流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
