@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="mG395BXf_5g8oJWrfZC9">
-    <mxGraphModel dx="1400" dy="1306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,34 +256,34 @@
           <mxGeometry x="40" y="550" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-124" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="680" width="220" height="140" as="geometry" />
+          <mxGeometry x="-150" y="683" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;高风险未获得&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="770" width="60" height="40" as="geometry" />
+          <mxGeometry x="-140" y="773" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-126" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务不足型错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="690" width="200" height="20" as="geometry" />
+          <mxGeometry x="-140" y="693" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-128" value="&lt;font face=&quot;Times New Roman&quot;&gt;服务&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;延迟&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="770" width="60" height="40" as="geometry" />
+          <mxGeometry x="-70" y="773" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-129" value="&lt;font face=&quot;Times New Roman&quot;&gt;关键节点中断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry y="770" width="60" height="40" as="geometry" />
+          <mxGeometry y="773" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="100" y="679" width="220" height="140" as="geometry" />
+          <mxGeometry x="100" y="682" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-131" value="&lt;font face=&quot;Times New Roman&quot;&gt;低风险&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;过度筛查&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="769" width="60" height="40" as="geometry" />
+          <mxGeometry x="110" y="772" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-132" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务不适宜错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="689" width="200" height="20" as="geometry" />
+          <mxGeometry x="110" y="692" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-133" value="&lt;font face=&quot;Times New Roman&quot;&gt;服务强度&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;过高&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="769" width="60" height="40" as="geometry" />
+          <mxGeometry x="180" y="772" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-134" value="&lt;font face=&quot;Times New Roman&quot;&gt;服务路径不合理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="769" width="60" height="40" as="geometry" />
+          <mxGeometry x="250" y="772" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
