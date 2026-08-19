@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FbU5_yevoyIvWeTbdzW4-1" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;疾病风险与服务需求（Risk/Need）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;text-align: left; line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;基于年龄、HPV感染及分型、细胞学结果、既往筛查史等评估疾病风险,&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left; line-height: 150%;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;依据指南确定各环节应获得的服务类型、时机和强度&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="40" width="560" height="80" as="geometry" />
+          <mxGeometry x="-40" y="40" width="520" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
