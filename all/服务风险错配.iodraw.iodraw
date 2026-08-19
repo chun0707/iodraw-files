@@ -267,6 +267,9 @@
         <mxCell id="htmc2pyHSfoBg4zZYSOa-128" value="&lt;font face=&quot;Times New Roman&quot;&gt;服务&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;延迟&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-70" y="770" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="htmc2pyHSfoBg4zZYSOa-129" value="&lt;font face=&quot;Times New Roman&quot;&gt;关键节点中断&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="770" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
