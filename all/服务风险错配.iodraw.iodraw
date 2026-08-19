@@ -232,7 +232,7 @@
         <mxCell id="htmc2pyHSfoBg4zZYSOa-110" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="160" y="600" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="htmc2pyHSfoBg4zZYSOa-111" value="&lt;font face=&quot;Times New Roman&quot;&gt;是否在推荐&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;时间窗口内完成&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="htmc2pyHSfoBg4zZYSOa-111" value="&lt;font face=&quot;Times New Roman&quot;&gt;服务频率/&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;强度是否适宜&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="630" width="100" height="31" as="geometry" />
         </mxCell>
         <mxCell id="htmc2pyHSfoBg4zZYSOa-112" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务强度&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
