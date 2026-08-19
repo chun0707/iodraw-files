@@ -112,14 +112,20 @@
         <mxCell id="FbU5_yevoyIvWeTbdzW4-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;2. 异常分流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="320" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FbU5_yevoyIvWeTbdzW4-50" target="FbU5_yevoyIvWeTbdzW4-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="250" y="308" width="110" height="140" as="geometry" />
+          <mxGeometry x="250" y="310" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-51" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;建议筛查方式&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;及筛查间隔&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="386" width="90" height="40" as="geometry" />
+          <mxGeometry x="260" y="388" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-52" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;2. 异常分流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="318" width="90" height="20" as="geometry" />
+          <mxGeometry x="260" y="320" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FbU5_yevoyIvWeTbdzW4-53" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="350" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
