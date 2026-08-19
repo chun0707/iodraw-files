@@ -51,8 +51,10 @@
         <mxCell id="FbU5_yevoyIvWeTbdzW4-46" value="&lt;font face=&quot;Times New Roman&quot;&gt;分流后判断是否需要阴道镜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="388" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="htmc2pyHSfoBg4zZYSOa-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="htmc2pyHSfoBg4zZYSOa-33" target="FbU5_yevoyIvWeTbdzW4-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="htmc2pyHSfoBg4zZYSOa-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="htmc2pyHSfoBg4zZYSOa-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="388" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="FbU5_yevoyIvWeTbdzW4-47" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;3. 阴道镜检查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="320" width="90" height="20" as="geometry" />
