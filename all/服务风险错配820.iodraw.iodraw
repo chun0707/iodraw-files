@@ -1171,6 +1171,9 @@
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-10" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;风险机制路径图&lt;/li&gt;&lt;li&gt;预测变量体系构建&lt;/li&gt;&lt;li&gt;机构服务因素&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="120" y="1010" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="-370" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
