@@ -951,8 +951,8 @@
         <mxCell id="oaXO2nUacnLZ9whAA4-N-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;是否完成&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;推荐随访&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="332" y="739" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="oaXO2nUacnLZ9whAA4-N-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-70" y="690" width="120" height="60" as="geometry" />
+        <mxCell id="oaXO2nUacnLZ9whAA4-N-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="-50" y="690" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
