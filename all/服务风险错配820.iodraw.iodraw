@@ -1154,13 +1154,16 @@
           <mxGeometry x="430" y="901" width="140" height="19" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-160" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="920" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-15" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xwM1WNkPA2TJr2EG-JMn-5" value="&lt;ul&gt;&lt;li&gt;流失比例最高节点&lt;/li&gt;&lt;li&gt;延迟最明显节点&lt;/li&gt;&lt;li&gt;高风险中断节点&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-340" y="1000" width="140" height="60" as="geometry" />
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-5" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;流失比例最高节点&lt;/li&gt;&lt;li&gt;延迟最明显节点&lt;/li&gt;&lt;li&gt;高风险中断节点&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="-340" y="1000" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-6" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;流失比例最高节点&lt;/li&gt;&lt;li&gt;延迟最明显节点&lt;/li&gt;&lt;li&gt;高风险中断节点&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="-200" y="1010" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
