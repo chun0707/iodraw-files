@@ -582,12 +582,6 @@
         <mxCell id="nLs2-cahkRPeWE62AbSo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="-170" y="310" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="nLs2-cahkRPeWE62AbSo-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#dae8fc;strokeColor=#3399FF;endArrow=block;endFill=1;" parent="nLs2-cahkRPeWE62AbSo-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="235" y="310" as="targetPoint" />
-            <mxPoint x="235" y="270" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;建议筛查方式&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;及筛查间隔&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="-160" y="388" width="90" height="40" as="geometry" />
         </mxCell>
