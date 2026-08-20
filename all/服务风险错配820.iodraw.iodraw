@@ -594,10 +594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
-          <mxGeometry x="-30" y="310" width="110" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="nLs2-cahkRPeWE62AbSo-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;依据结果判断&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;是否需要分流&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
-          <mxGeometry x="-20" y="388" width="90" height="40" as="geometry" />
+          <mxGeometry x="-30" y="310" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-12" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2. 异常分流&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="-20" y="320" width="90" height="20" as="geometry" />
