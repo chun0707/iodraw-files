@@ -574,16 +574,8 @@
         <mxCell id="nLs2-cahkRPeWE62AbSo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="530" y="310" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nLs2-cahkRPeWE62AbSo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;" parent="nLs2-cahkRPeWE62AbSo-1" source="nLs2-cahkRPeWE62AbSo-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="-170" y="310" width="110" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="nLs2-cahkRPeWE62AbSo-7" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;建议筛查方式&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;及筛查间隔&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
-          <mxGeometry x="-160" y="388" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-8" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1. 初筛&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="-160" y="320" width="90" height="20" as="geometry" />
@@ -594,32 +586,17 @@
         <mxCell id="nLs2-cahkRPeWE62AbSo-12" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;2. 异常分流&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="-20" y="320" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nLs2-cahkRPeWE62AbSo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;" parent="nLs2-cahkRPeWE62AbSo-1" source="nLs2-cahkRPeWE62AbSo-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="110" y="310" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-16" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3. 阴道镜检查&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="120" y="320" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nLs2-cahkRPeWE62AbSo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;" parent="nLs2-cahkRPeWE62AbSo-1" source="nLs2-cahkRPeWE62AbSo-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="250" y="310" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-20" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4. 病理诊断&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="260" y="320" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="nLs2-cahkRPeWE62AbSo-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=3;" parent="nLs2-cahkRPeWE62AbSo-1" source="nLs2-cahkRPeWE62AbSo-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="380" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="390" y="310" width="110" height="80" as="geometry" />
