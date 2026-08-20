@@ -921,7 +921,7 @@
           <mxGeometry x="58" y="700" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="oaXO2nUacnLZ9whAA4-N-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;是否完成&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;异常分流&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="50" y="739" width="67" height="31" as="geometry" />
+          <mxGeometry x="47" y="739" width="60" height="31" as="geometry" />
         </mxCell>
         <mxCell id="oaXO2nUacnLZ9whAA4-N-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nLs2-cahkRPeWE62AbSo-1" source="oaXO2nUacnLZ9whAA4-N-16">
           <mxGeometry relative="1" as="geometry">
