@@ -567,7 +567,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="连续性服务" id="8NvWrsXzlzuqgge_WopW">
-    <mxGraphModel dx="1519" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nLs2-cahkRPeWE62AbSo-0" />
         <mxCell id="nLs2-cahkRPeWE62AbSo-1" parent="nLs2-cahkRPeWE62AbSo-0" />
@@ -854,7 +854,7 @@
         <mxCell id="oaXO2nUacnLZ9whAA4-N-0" value="&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;疾病风险&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;状态&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-240" y="357" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xwM1WNkPA2TJr2EG-JMn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="nLs2-cahkRPeWE62AbSo-1" target="nLs2-cahkRPeWE62AbSo-2">
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#D4E1F5;" edge="1" parent="nLs2-cahkRPeWE62AbSo-1" target="nLs2-cahkRPeWE62AbSo-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-211.8199999999999" y="310" as="sourcePoint" />
             <mxPoint x="672.2857666015625" y="350" as="targetPoint" />
@@ -1191,12 +1191,13 @@
             <mxPoint x="529.5" y="349.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xwM1WNkPA2TJr2EG-JMn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nLs2-cahkRPeWE62AbSo-1" source="xwM1WNkPA2TJr2EG-JMn-34">
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#7EA6E0;" edge="1" parent="nLs2-cahkRPeWE62AbSo-1" source="xwM1WNkPA2TJr2EG-JMn-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="430" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-211" y="500" />
-              <mxPoint x="640" y="500" />
+              <mxPoint x="610" y="500" />
+              <mxPoint x="610" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
