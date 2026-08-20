@@ -1109,8 +1109,11 @@
         <mxCell id="UKQp9cSO8--o0sNhCbc7-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-260" y="560" width="640" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="UKQp9cSO8--o0sNhCbc7-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="440" y="600" width="118" height="30" as="geometry" />
+        <mxCell id="UKQp9cSO8--o0sNhCbc7-102" value="连续性服务状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="440" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UKQp9cSO8--o0sNhCbc7-103" value="连续性服务状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="490" y="660" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
