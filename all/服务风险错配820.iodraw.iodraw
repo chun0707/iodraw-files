@@ -903,7 +903,7 @@
           <mxGeometry x="570" y="543.81" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p0l9QH08x7EdJDj0-nN2-21" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
-          <mxGeometry x="-231.33" y="10" width="61.33" height="110" as="geometry" />
+          <mxGeometry x="-260" y="260" width="61.33" height="110" as="geometry" />
         </mxCell>
         <mxCell id="oaXO2nUacnLZ9whAA4-N-0" value="&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;疾病风险&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 18px;&quot;&gt;&lt;font color=&quot;#004c99&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;状态&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-120" y="40" width="60" height="40" as="geometry" />
