@@ -567,7 +567,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="连续性服务" id="8NvWrsXzlzuqgge_WopW">
-    <mxGraphModel dx="1400" dy="170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1160" dy="170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nLs2-cahkRPeWE62AbSo-0" />
         <mxCell id="nLs2-cahkRPeWE62AbSo-1" parent="nLs2-cahkRPeWE62AbSo-0" />
@@ -1133,8 +1133,8 @@
         <mxCell id="OHcmNk4DSr6xLE2QQRYz-5" value="路径复杂&lt;div&gt;(路径偏离)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="490" y="759" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OHcmNk4DSr6xLE2QQRYz-6" value="路径复杂&lt;div&gt;(路径偏离)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="530" y="880" width="70" height="40" as="geometry" />
+        <mxCell id="OHcmNk4DSr6xLE2QQRYz-6" value="&lt;font color=&quot;#ff6666&quot;&gt;&lt;b&gt;中断&lt;/b&gt;&lt;/font&gt;&lt;div&gt;(服务中断)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="490" y="840" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
