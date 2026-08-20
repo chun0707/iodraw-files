@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17" pages="3">
   <diagram name="服务风险错配" id="mG395BXf_5g8oJWrfZC9">
-    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="1339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="服务—风险错配2" id="mOmKmK0gT2uLWb3cq_Ni">
-    <mxGraphModel dx="1399" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="61ROgQzcIBmcsbItj-DX-0" />
         <mxCell id="61ROgQzcIBmcsbItj-DX-1" parent="61ROgQzcIBmcsbItj-DX-0" />
@@ -1107,7 +1107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UKQp9cSO8--o0sNhCbc7-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-260" y="560" width="640" height="310" as="geometry" />
+          <mxGeometry x="-260" y="560" width="550" height="310" as="geometry" />
         </mxCell>
         <mxCell id="UKQp9cSO8--o0sNhCbc7-102" value="连续性服务状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="440" y="600" width="120" height="20" as="geometry" />
