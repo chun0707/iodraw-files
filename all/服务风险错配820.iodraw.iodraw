@@ -1159,8 +1159,8 @@
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-15" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xwM1WNkPA2TJr2EG-JMn-5" value="&lt;ul&gt;&lt;li&gt;流失比例最高&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-340" y="1000" width="140" height="80" as="geometry" />
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-5" value="&lt;ul&gt;&lt;li&gt;流失比例最高节点&lt;/li&gt;&lt;li&gt;延迟最明显节点&lt;/li&gt;&lt;li&gt;高风险中断节点&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="-340" y="1000" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
