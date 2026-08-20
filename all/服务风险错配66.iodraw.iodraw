@@ -894,7 +894,7 @@
           <mxGeometry x="150.68" y="544" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="p0l9QH08x7EdJDj0-nN2-18" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#004c99&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;中断&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="160.68" y="554" width="30" height="20" as="geometry" />
+          <mxGeometry x="288" y="543.81" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
