@@ -1107,7 +1107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UKQp9cSO8--o0sNhCbc7-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-260" y="610" width="640" height="280" as="geometry" />
+          <mxGeometry x="-70" y="580" width="450" height="310" as="geometry" />
         </mxCell>
         <mxCell id="UKQp9cSO8--o0sNhCbc7-102" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;b&gt;连续性服务状态&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="440" y="570" width="120" height="20" as="geometry" />
