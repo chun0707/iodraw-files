@@ -769,7 +769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
-          <mxGeometry x="-170" y="1009" width="810" height="70" as="geometry" />
+          <mxGeometry x="-90" y="1009" width="730" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nLs2-cahkRPeWE62AbSo-61" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;风险—服务是否匹配（贯穿全过程）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="nLs2-cahkRPeWE62AbSo-1" vertex="1">
           <mxGeometry x="40" y="989" width="390" height="20" as="geometry" />
@@ -903,8 +903,8 @@
         <mxCell id="oaXO2nUacnLZ9whAA4-N-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-250" y="300" width="900" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="oaXO2nUacnLZ9whAA4-N-6" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;连续性服务三维&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-30" y="640" width="90" height="20" as="geometry" />
+        <mxCell id="oaXO2nUacnLZ9whAA4-N-6" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;连续性服务三维评价轴&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="-30" y="640" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
