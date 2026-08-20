@@ -1156,7 +1156,7 @@
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nLs2-cahkRPeWE62AbSo-1" source="xwM1WNkPA2TJr2EG-JMn-23" target="xwM1WNkPA2TJr2EG-JMn-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xwM1WNkPA2TJr2EG-JMn-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#7EA6E0;opacity=20;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7EA6E0;opacity=90;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-249.82" y="880" width="621" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-24" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;输出结果&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
