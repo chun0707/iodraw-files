@@ -567,7 +567,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="连续性服务" id="8NvWrsXzlzuqgge_WopW">
-    <mxGraphModel dx="1400" dy="117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nLs2-cahkRPeWE62AbSo-0" />
         <mxCell id="nLs2-cahkRPeWE62AbSo-1" parent="nLs2-cahkRPeWE62AbSo-0" />
@@ -1107,7 +1107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UKQp9cSO8--o0sNhCbc7-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-260" y="560" width="640" height="310" as="geometry" />
+          <mxGeometry x="-220" y="630" width="640" height="310" as="geometry" />
         </mxCell>
         <mxCell id="UKQp9cSO8--o0sNhCbc7-102" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;b&gt;连续性服务状态&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="440" y="570" width="120" height="20" as="geometry" />
@@ -1166,7 +1166,7 @@
           <mxGeometry x="120" y="1010" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;动态风险特征&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-99.32" y="905" width="109.63" height="20" as="geometry" />
+          <mxGeometry x="-97.32" y="905" width="109.63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-259.32" y="901" width="140" height="80" as="geometry" />
@@ -1175,7 +1175,7 @@
           <mxGeometry x="-249.32" y="905" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-110.32" y="901" width="131" height="80" as="geometry" />
+          <mxGeometry x="-108.32" y="901" width="131" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;核心影响因素&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="272" y="905" width="91" height="20" as="geometry" />
