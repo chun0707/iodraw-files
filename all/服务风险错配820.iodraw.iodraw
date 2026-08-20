@@ -954,8 +954,8 @@
         <mxCell id="oaXO2nUacnLZ9whAA4-N-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-120" y="690" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oaXO2nUacnLZ9whAA4-N-37" value="节点连续性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="-120" y="800" width="80" height="20" as="geometry" />
+        <mxCell id="oaXO2nUacnLZ9whAA4-N-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;节点连续性&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="-100" y="700" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
