@@ -1109,7 +1109,7 @@
           <mxGeometry x="479" y="760" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;连续性服务中断风险&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="479" y="840" width="131" height="20" as="geometry" />
+          <mxGeometry x="480" y="840" width="129" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-5" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;流失比例最高节点&lt;/li&gt;&lt;li&gt;延迟最明显节点&lt;/li&gt;&lt;li&gt;高风险中断节点&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-250.32" y="904" width="140" height="70" as="geometry" />
@@ -1118,7 +1118,7 @@
           <mxGeometry x="-48.31999999999999" y="904" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-9" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;个体风险因素&lt;/li&gt;&lt;li&gt;服务路径因素&lt;/li&gt;&lt;li&gt;机构服务因素&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="182" y="905" width="140" height="70" as="geometry" />
+          <mxGeometry x="183" y="905" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-10" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;风险机制路径图&lt;/li&gt;&lt;li&gt;预测变量体系构建&lt;/li&gt;&lt;li&gt;机构服务因素&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="428" y="894" width="140" height="70" as="geometry" />
@@ -1142,10 +1142,10 @@
           <mxGeometry x="-40" y="894" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;核心影响因素&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="209" y="899" width="91" height="20" as="geometry" />
+          <mxGeometry x="210" y="899" width="91" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=30;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="189" y="894" width="130" height="80" as="geometry" />
+          <mxGeometry x="190" y="894" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-21" value="&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;形成机制解析与风险预测建模&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="400" y="888" width="209" height="20" as="geometry" />
@@ -1153,11 +1153,10 @@
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="400" y="885" width="209" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xwM1WNkPA2TJr2EG-JMn-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#66B2FF;strokeWidth=3;" edge="1" parent="nLs2-cahkRPeWE62AbSo-1" source="xwM1WNkPA2TJr2EG-JMn-23" target="xwM1WNkPA2TJr2EG-JMn-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="xwM1WNkPA2TJr2EG-JMn-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7EA6E0;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
-          <mxGeometry x="340" y="869" width="20" height="111" as="geometry" />
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#66B2FF;strokeWidth=3;" edge="1" parent="nLs2-cahkRPeWE62AbSo-1" target="xwM1WNkPA2TJr2EG-JMn-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363" y="931.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xwM1WNkPA2TJr2EG-JMn-24" value="&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;输出结果&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-236" y="858" width="520" height="18" as="geometry" />
@@ -1214,6 +1213,9 @@
             <mxPoint x="460" y="349" as="sourcePoint" />
             <mxPoint x="480" y="349" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xwM1WNkPA2TJr2EG-JMn-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#7EA6E0;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+          <mxGeometry x="301" y="1050" width="20" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
