@@ -957,7 +957,7 @@
         <mxCell id="oaXO2nUacnLZ9whAA4-N-37" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;节点连续性&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-140" y="700" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oaXO2nUacnLZ9whAA4-N-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;节点连续性&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
+        <mxCell id="oaXO2nUacnLZ9whAA4-N-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;是否进入&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="nLs2-cahkRPeWE62AbSo-1">
           <mxGeometry x="-160" y="820" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
