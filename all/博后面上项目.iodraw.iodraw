@@ -435,12 +435,6 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-67" value="&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;卫生体系服务供给&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(SPO框架)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="330" y="29" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XMHnJMyTR5Z0R-01F5cL-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="419.5" y="199.25" as="sourcePoint" />
-            <mxPoint x="419.5" y="219.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="360" as="sourcePoint" />
@@ -481,6 +475,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="179" y="350" as="sourcePoint" />
             <mxPoint x="179" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMHnJMyTR5Z0R-01F5cL-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.5" y="199.25" as="sourcePoint" />
+            <mxPoint x="419.5" y="219.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
