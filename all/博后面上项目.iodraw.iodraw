@@ -427,7 +427,7 @@
           <mxGeometry x="-160" y="30" width="200" height="39" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-63" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;需求因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="101" y="392" width="160" height="20" as="geometry" />
+          <mxGeometry x="100" y="392" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-66" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 14px;&quot;&gt;结果&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="357" y="392" width="130" height="20" as="geometry" />
