@@ -596,12 +596,12 @@
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="-94.5" as="sourcePoint" />
-            <mxPoint x="180" y="-94.5" as="targetPoint" />
+            <mxPoint x="140" y="-94" as="sourcePoint" />
+            <mxPoint x="179" y="-94.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-41" y="-141" width="180" height="93" as="geometry" />
+          <mxGeometry x="-41" y="-141" width="171" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
