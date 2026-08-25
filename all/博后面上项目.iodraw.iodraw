@@ -257,9 +257,12 @@
             <mxPoint x="70" y="620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-170" y="549" />
-              <mxPoint x="-170" y="630" />
+              <mxPoint x="-170" y="620" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="LryjRIioZ3HfxdW1tb4U-18" target="LryjRIioZ3HfxdW1tb4U-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#808080;strokeWidth=1;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="-160" y="509.5" width="1149.5" height="79" as="geometry" />
@@ -541,6 +544,9 @@
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-19" value="&lt;b&gt;政策环境层(政策工具与制度环境)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="280" y="508" width="280" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-26" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=none;strokeColor=#808080;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
+          <mxGeometry x="1604.25" y="519" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
