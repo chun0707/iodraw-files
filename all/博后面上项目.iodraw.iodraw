@@ -238,10 +238,13 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-106" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;风险—服务错配结果层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="29" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Yp0_Ibf4mcd0dLkMcT6X-110">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="899" y="300" as="sourcePoint" />
             <mxPoint x="900" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="320" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
