@@ -143,7 +143,7 @@
           <mxGeometry x="-140" y="329.5" width="160" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-58" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="40" width="220" height="240" as="geometry" />
+          <mxGeometry x="-170" y="40" width="220" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-2" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;人口学特征(年龄、民族等)&lt;/li&gt;&lt;li&gt;病史情况和妇科检查结果&lt;/li&gt;&lt;li&gt;既往筛查及疫苗接种史&lt;/li&gt;&lt;li&gt;HPV感染状态&lt;/li&gt;&lt;li&gt;细胞学检查结果&lt;/li&gt;&lt;li&gt;阴道镜检查结果&lt;/li&gt;&lt;li&gt;组织病理检查结果&lt;/li&gt;&lt;li&gt;随访治疗情况等&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=default;strokeColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="-160" y="80" width="200" height="160" as="geometry" />
