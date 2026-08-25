@@ -40,7 +40,7 @@
           <mxGeometry x="80" y="200" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-15" value="&lt;ul&gt;&lt;li&gt;年龄、婚育状况&lt;/li&gt;&lt;li&gt;教育水平、职业&lt;/li&gt;&lt;li&gt;健康信念、认识水平&lt;/li&gt;&lt;li&gt;文化背景、社会支持&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="120" y="220" width="150" height="75" as="geometry" />
+          <mxGeometry x="95" y="220" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
