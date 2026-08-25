@@ -8,7 +8,7 @@
           <mxGeometry x="-160" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-2" value="&lt;ul&gt;&lt;li&gt;人口学特征(年龄、性别、民族)&lt;/li&gt;&lt;li&gt;HPV感染状态（型别、载量）&lt;/li&gt;&lt;li&gt;细胞学异常程度&lt;/li&gt;&lt;li&gt;既往筛查及诊疗史&lt;/li&gt;&lt;li&gt;症状与体征等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="90" width="220" height="90" as="geometry" />
+          <mxGeometry x="-187" y="90" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;个体服务转化层&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Andersen模型)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="160" height="40" as="geometry" />
