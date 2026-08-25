@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图" id="gTvj2WcOv0gWW2DytrQ_">
-    <mxGraphModel dx="2971" dy="2369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
@@ -262,73 +262,73 @@
           <mxGeometry x="-280" y="-360" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="800" y="777" width="200" height="140" as="geometry" />
+          <mxGeometry x="800" y="782" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="810" y="786" width="179" height="120" as="geometry" />
+          <mxGeometry x="810" y="791" width="179" height="120" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="800" y="467" width="200" height="270" as="geometry" />
+          <mxGeometry x="800" y="472" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="810" y="507" width="180" height="220" as="geometry" />
+          <mxGeometry x="810" y="512" width="180" height="220" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="560" y="787" width="200" height="130" as="geometry" />
+          <mxGeometry x="560" y="792" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="560" y="467" width="200" height="250" as="geometry" />
+          <mxGeometry x="560" y="472" width="200" height="250" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="570" y="796" width="180" height="110" as="geometry" />
+          <mxGeometry x="570" y="801" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="570" y="527" width="180" height="180" as="geometry" />
+          <mxGeometry x="570" y="532" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="319" y="816" width="201" height="101" as="geometry" />
+          <mxGeometry x="319" y="821" width="201" height="101" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="319" y="657" width="201" height="140" as="geometry" />
+          <mxGeometry x="319" y="662" width="201" height="140" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="319" y="466" width="201" height="171" as="geometry" />
+          <mxGeometry x="319" y="471" width="201" height="171" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-13" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="330" y="827" width="180" height="80" as="geometry" />
+          <mxGeometry x="330" y="832" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="330" y="665" width="180" height="120" as="geometry" />
+          <mxGeometry x="330" y="670" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="330" y="507" width="180" height="120" as="geometry" />
+          <mxGeometry x="330" y="512" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="79" y="816.75" width="201" height="101" as="geometry" />
+          <mxGeometry x="79" y="821.75" width="201" height="101" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0066CC;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="91" y="828" width="180" height="81" as="geometry" />
+          <mxGeometry x="91" y="833" width="180" height="81" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="79" y="656.5" width="201" height="140.5" as="geometry" />
+          <mxGeometry x="79" y="661.5" width="201" height="140.5" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0066CC;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="90" y="667" width="180" height="120" as="geometry" />
+          <mxGeometry x="90" y="672" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="79" y="465" width="201" height="172" as="geometry" />
+          <mxGeometry x="79" y="470" width="201" height="172" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="90" y="506" width="180" height="121" as="geometry" />
+          <mxGeometry x="90" y="511" width="180" height="121" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-170" y="756" width="220" height="161" as="geometry" />
+          <mxGeometry x="-170" y="761" width="220" height="161" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-160" y="768" width="200" height="140" as="geometry" />
+          <mxGeometry x="-160" y="773" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-24" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-160" y="517" width="200" height="170" as="geometry" />
+          <mxGeometry x="-160" y="522" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;b&gt;筛查登记与人群信息&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(人口学、既往史、筛查史)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-240" y="-350" width="160" height="40" as="geometry" />
@@ -337,58 +337,58 @@
           <mxGeometry y="-340" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-27" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;倾向特征&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="90" y="514" width="180" height="20" as="geometry" />
+          <mxGeometry x="90" y="519" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-28" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;年龄、民族、居住地&lt;/li&gt;&lt;li&gt;职业、文化水平&lt;/li&gt;&lt;li&gt;婚育状况、生殖状况&lt;/li&gt;&lt;li&gt;健康重视程度、就医态度&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="85" y="524" width="180" height="93" as="geometry" />
+          <mxGeometry x="85" y="529" width="180" height="93" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-29" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;使能资源&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="120" y="673" width="120" height="20" as="geometry" />
+          <mxGeometry x="120" y="678" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-30" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;家庭收入、经济状况&lt;/li&gt;&lt;li&gt;医疗保险类型&lt;/li&gt;&lt;li&gt;地理可及性(距离、交通)&lt;/li&gt;&lt;li&gt;社会资源支持等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="87" y="683" width="175" height="99" as="geometry" />
+          <mxGeometry x="87" y="688" width="175" height="99" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-31" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;感知健康状况&lt;/li&gt;&lt;li&gt;易知疾病严重性&lt;/li&gt;&lt;li&gt;症状及不适程度&lt;/li&gt;&lt;li&gt;异常结果认知等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="101" y="834" width="170" height="77" as="geometry" />
+          <mxGeometry x="101" y="839" width="170" height="77" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-32" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 14px;&quot;&gt;结构&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="350" y="509" width="140" height="20" as="geometry" />
+          <mxGeometry x="350" y="514" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-33" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查机构覆盖与可及性&lt;/li&gt;&lt;li&gt;阴道镜设备与病理能力&lt;/li&gt;&lt;li&gt;医务人员数量与水平&lt;/li&gt;&lt;li&gt;信息系统与数据平台&lt;/li&gt;&lt;li&gt;资金投入与保障等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="330" y="512" width="170" height="110" as="geometry" />
+          <mxGeometry x="330" y="517" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-34" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;异常结果反馈及时性&lt;/li&gt;&lt;li&gt;转诊流程与衔接机制&lt;/li&gt;&lt;li&gt;预约与排队管理机制&lt;/li&gt;&lt;li&gt;诊疗服务规范性&lt;/li&gt;&lt;li&gt;随访与信息闭环管理等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="331" y="670.75" width="170" height="110.25" as="geometry" />
+          <mxGeometry x="331" y="675.75" width="170" height="110.25" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-35" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 14px;&quot;&gt;过程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="359" y="666" width="130" height="20" as="geometry" />
+          <mxGeometry x="359" y="671" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-36" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;诊断服务完成率&lt;/li&gt;&lt;li&gt;随访管理完成率&lt;/li&gt;&lt;li&gt;服务质量等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="344" y="833" width="140" height="72" as="geometry" />
+          <mxGeometry x="344" y="838" width="140" height="72" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-37" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查服务获得&lt;/li&gt;&lt;li&gt;异常分流服务获得&lt;/li&gt;&lt;li&gt;阴道镜检查获得&lt;/li&gt;&lt;li&gt;病理诊断获得&lt;/li&gt;&lt;li&gt;治疗服务获得&lt;/li&gt;&lt;li&gt;随访管理获得&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="587" y="561" width="140" height="130" as="geometry" />
+          <mxGeometry x="587" y="566" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-38" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;实际服务获得&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff6666&quot;&gt;&lt;b&gt;(服务利用情况)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="570" y="529" width="180" height="48" as="geometry" />
+          <mxGeometry x="570" y="534" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-39" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 14px;&quot;&gt;连续性服务完成&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;(服务链完整性)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="570" y="802" width="180" height="40" as="geometry" />
+          <mxGeometry x="570" y="807" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-40" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;服务链完整&lt;/li&gt;&lt;li&gt;服务链延迟&lt;/li&gt;&lt;li&gt;服务链中断&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="593" y="828" width="110" height="88" as="geometry" />
+          <mxGeometry x="593" y="833" width="110" height="88" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;错配类型&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="811" y="505" width="179" height="30" as="geometry" />
+          <mxGeometry x="811" y="510" width="179" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-42" value="&lt;p style=&quot;line-height: 90%;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;line-height: 90%;&quot;&gt;&lt;li&gt;&lt;b&gt;需要未满足型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(高风险—服务不足)&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 90%;&quot;&gt;&lt;li&gt;&lt;b&gt;服务过度型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(低风险—服务过度)&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 90%;&quot;&gt;&lt;li&gt;&lt;b&gt;服务延迟型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (及时性不足)&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 90%;&quot;&gt;&lt;li&gt;&lt;b&gt;服务中断型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (路径中断)&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="822" y="524" width="158" height="200" as="geometry" />
+          <mxGeometry x="822" y="529" width="158" height="200" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-43" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;CIN2+及时发现率&lt;/li&gt;&lt;li&gt;癌前病变治疗率&lt;/li&gt;&lt;li&gt;癌症发生避免数&lt;/li&gt;&lt;li&gt;癌症死亡避免数&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="820" y="804.5" width="140" height="96.5" as="geometry" />
+          <mxGeometry x="820" y="809.5" width="140" height="96.5" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;健康收益实现&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="810" y="787" width="180" height="30" as="geometry" />
+          <mxGeometry x="810" y="792" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-45" value="卫生政策与指南&lt;div&gt;(筛查政策、诊疗规范)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="180" y="760" width="160" height="40" as="geometry" />
@@ -418,87 +418,87 @@
           <mxGeometry x="-160" y="950" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-54" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;低风险：常规筛查/随访&lt;/li&gt;&lt;li&gt;中风险：初筛异常或可疑&lt;/li&gt;&lt;li&gt;高风险：阴道镜检查&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;病理活检&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;治疗及随访&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-154" y="793" width="180" height="120" as="geometry" />
+          <mxGeometry x="-154" y="798" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-55" value="&lt;font color=&quot;#00994d&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;规范服务需求&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#00994d&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;(基于指南的服务强度)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-140" y="767" width="160" height="42" as="geometry" />
+          <mxGeometry x="-140" y="772" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-170" y="466" width="220" height="251" as="geometry" />
+          <mxGeometry x="-170" y="471" width="220" height="251" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-57" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;人口学特征(年龄、民族等)&lt;/li&gt;&lt;li&gt;病史情况和妇科检查结果&lt;/li&gt;&lt;li&gt;既往筛查及疫苗接种史&lt;/li&gt;&lt;li&gt;HPV感染状态&lt;/li&gt;&lt;li&gt;细胞学检查结果&lt;/li&gt;&lt;li&gt;阴道镜检查结果&lt;/li&gt;&lt;li&gt;组织病理检查结果&lt;/li&gt;&lt;li&gt;随访治疗情况等&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=default;strokeColor=#97D077;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-160" y="507" width="200" height="200" as="geometry" />
+          <mxGeometry x="-160" y="512" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-58" value="&lt;font color=&quot;#00994d&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;个体疾病风险因素&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-160" y="507" width="200" height="30" as="geometry" />
+          <mxGeometry x="-160" y="512" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-124" y="873" width="10" height="10" as="geometry" />
+          <mxGeometry x="-124" y="878" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-124" y="893" width="10" height="10" as="geometry" />
+          <mxGeometry x="-124" y="898" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-61" value="&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;个体服务层&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(Andersen模型)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="90" y="465" width="190" height="40" as="geometry" />
+          <mxGeometry x="90" y="470" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;疾病风险与服务需求层&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-160" y="467" width="200" height="39" as="geometry" />
+          <mxGeometry x="-160" y="472" width="200" height="39" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-63" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;需求因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="101" y="829" width="160" height="20" as="geometry" />
+          <mxGeometry x="101" y="834" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="179" y="637" as="sourcePoint" />
-            <mxPoint x="179" y="657" as="targetPoint" />
+            <mxPoint x="179" y="642" as="sourcePoint" />
+            <mxPoint x="179" y="662" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="797" as="sourcePoint" />
-            <mxPoint x="180" y="817" as="targetPoint" />
+            <mxPoint x="180" y="802" as="sourcePoint" />
+            <mxPoint x="180" y="822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-66" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 14px;&quot;&gt;结果&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="357" y="829" width="130" height="20" as="geometry" />
+          <mxGeometry x="357" y="834" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-67" value="&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;卫生体系服务供给&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(SPO框架)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="330" y="466" width="170" height="40" as="geometry" />
+          <mxGeometry x="330" y="471" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="419.5" y="636.25" as="sourcePoint" />
-            <mxPoint x="419.5" y="656.25" as="targetPoint" />
+            <mxPoint x="419.5" y="641.25" as="sourcePoint" />
+            <mxPoint x="419.5" y="661.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="797" as="sourcePoint" />
-            <mxPoint x="420" y="817" as="targetPoint" />
+            <mxPoint x="420" y="802" as="sourcePoint" />
+            <mxPoint x="420" y="822" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-70" value="&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;服务实现与连续性层&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(服务利用过程)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="560" y="472" width="200" height="40" as="geometry" />
+          <mxGeometry x="560" y="477" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" target="enP2agFuTgK77bLe584v-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="659.5" y="717.25" as="sourcePoint" />
-            <mxPoint x="659.5" y="746.75" as="targetPoint" />
+            <mxPoint x="659.5" y="722.25" as="sourcePoint" />
+            <mxPoint x="659.5" y="751.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-72" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;风险—服务错配结果层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="800" y="466" width="200" height="40" as="geometry" />
+          <mxGeometry x="800" y="471" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900.5" y="737" as="sourcePoint" />
-            <mxPoint x="900.5" y="777" as="targetPoint" />
+            <mxPoint x="900.5" y="742" as="sourcePoint" />
+            <mxPoint x="900.5" y="782" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-74" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="717" as="sourcePoint" />
-            <mxPoint x="-60" y="757" as="targetPoint" />
+            <mxPoint x="-60" y="722" as="sourcePoint" />
+            <mxPoint x="-60" y="762" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#0066cc&quot;&gt;&lt;b&gt;诊疗服务数据&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(阴道镜、病理、治疗)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
@@ -520,7 +520,7 @@
           <mxGeometry x="-240" y="-80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-7" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;政策与制度数据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(指南、政策、等)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-510" y="-160" width="160" height="40" as="geometry" />
+          <mxGeometry x="-238" y="110" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-279" y="-350" width="40" height="40" as="geometry" />
