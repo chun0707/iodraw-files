@@ -621,14 +621,13 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-76" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(4) 风险—服务匹配分析&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="400" y="-156" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-77" target="2XQ-aQmXoGda7gQh7Cl_-79">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="-88" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-77" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;需求—实际服务差异计算&lt;/li&gt;&lt;li&gt;错配类别识别&lt;/li&gt;&lt;li&gt;错配程度分级&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="400" y="-130" width="180" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-79" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="630" y="-118" width="80" height="60" as="geometry" />
+          <mxGeometry x="400" y="-130" width="170" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
