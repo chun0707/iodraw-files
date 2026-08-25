@@ -51,7 +51,7 @@
           <mxGeometry x="95" y="220" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-18" value="&lt;ul&gt;&lt;li&gt;感知健康状况&lt;/li&gt;&lt;li&gt;易知疾病严重性&lt;/li&gt;&lt;li&gt;症状及不透程度&lt;/li&gt;&lt;li&gt;异常结果认知等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="96" y="340" width="175" height="80" as="geometry" />
+          <mxGeometry x="80" y="620" width="175" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;结构&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="200" height="20" as="geometry" />
@@ -108,19 +108,19 @@
           <mxGeometry x="745" y="280" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-43" value="卫生政策与指南&lt;div&gt;(筛查政策、诊疗规范)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="480" width="160" height="40" as="geometry" />
+          <mxGeometry x="180" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-44" value="资金保障机制&lt;div&gt;(经费投入、支付方式)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="160" height="40" as="geometry" />
+          <mxGeometry x="380" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-45" value="管理制度与绩效考核&lt;div&gt;(质量控制、考核激励)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="480" width="160" height="40" as="geometry" />
+          <mxGeometry x="580" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-46" value="信息化与数据治理&lt;div&gt;(数据共享、隐私保护)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="480" width="160" height="40" as="geometry" />
+          <mxGeometry x="780" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-47" value="社会文化与舆论环境&lt;div&gt;(认知、文化、媒体)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="480" width="160" height="40" as="geometry" />
+          <mxGeometry x="980" y="760" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yp0_Ibf4mcd0dLkMcT6X-48" target="Yp0_Ibf4mcd0dLkMcT6X-49">
           <mxGeometry relative="1" as="geometry" />
