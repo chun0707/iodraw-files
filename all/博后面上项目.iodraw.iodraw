@@ -575,10 +575,10 @@
           <mxGeometry x="-270" y="-161" width="180" height="121" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-57" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(1) 疾病风险评估&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-270" y="-151" width="180" height="20" as="geometry" />
+          <mxGeometry x="-270" y="-156" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-58" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;年龄、民族、居住地&lt;/li&gt;&lt;li&gt;职业、文化水平&lt;/li&gt;&lt;li&gt;婚育状况、生殖状况&lt;/li&gt;&lt;li&gt;健康重视程度、就医态度&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-270" y="-120" width="180" height="93" as="geometry" />
+          <mxGeometry x="-270" y="-147" width="180" height="93" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-59" value="&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;个体服务层&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(Andersen模型)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-270" y="-200" width="190" height="40" as="geometry" />
