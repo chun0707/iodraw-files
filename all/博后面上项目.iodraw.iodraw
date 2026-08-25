@@ -433,16 +433,16 @@
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="267" y="620" as="sourcePoint" />
-            <mxPoint x="401" y="620" as="targetPoint" />
+            <mxPoint x="425" y="620" as="sourcePoint" />
+            <mxPoint x="559" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="381" y="620" />
-              <mxPoint x="381" y="620" />
+              <mxPoint x="539" y="620" />
+              <mxPoint x="539" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-51" value="&lt;b&gt;服务错配形成的原因&lt;/b&gt;&lt;div&gt;(个体因素、体系因素、制度因素的作用路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="26" y="600" width="240" height="40" as="geometry" />
+          <mxGeometry x="174" y="600" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-52" value="&lt;b&gt;服务错配的影响&lt;/b&gt;&lt;div&gt;(对健康结果及资源利用的影响)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="560" y="600" width="240" height="40" as="geometry" />
