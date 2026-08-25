@@ -594,8 +594,14 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-66" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 规范服务需求确定&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-40" y="-155" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;HPV分型风险分层&lt;/li&gt;&lt;li&gt;细胞学异常分级&lt;/li&gt;&lt;li&gt;组合风险模型构建&lt;/li&gt;&lt;li&gt;个体风险水平划分&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-67" target="2XQ-aQmXoGda7gQh7Cl_-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-41" y="-141" width="180" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-68" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="269" y="-124.5" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
