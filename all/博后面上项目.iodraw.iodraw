@@ -390,19 +390,19 @@
           <mxGeometry x="810" y="350" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-45" value="卫生政策与指南&lt;div&gt;(筛查政策、诊疗规范)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="10" y="610" width="160" height="40" as="geometry" />
+          <mxGeometry x="-150" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-46" value="资金保障机制&lt;div&gt;(经费投入、支付方式)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="210" y="610" width="160" height="40" as="geometry" />
+          <mxGeometry x="50" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-47" value="管理制度与绩效考核&lt;div&gt;(质量控制、考核激励)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="410" y="610" width="160" height="40" as="geometry" />
+          <mxGeometry x="250" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-48" value="信息化与数据治理&lt;div&gt;(数据共享、隐私保护)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="610" y="610" width="160" height="40" as="geometry" />
+          <mxGeometry x="450" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-49" value="社会文化与舆论环境&lt;div&gt;(认知、文化、媒体)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="810" y="610" width="160" height="40" as="geometry" />
+          <mxGeometry x="650" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-51" target="XMHnJMyTR5Z0R-01F5cL-52">
           <mxGeometry relative="1" as="geometry" />
