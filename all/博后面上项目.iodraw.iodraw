@@ -495,8 +495,8 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-0" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;实验室检测数据&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(HPV、TCT、分型等)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="61" y="-200" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;实验室检测数据&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(HPV、TCT、分型等)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="330" y="-180" width="200" height="40" as="geometry" />
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;诊疗服务数据&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(阴道镜、病理、治疗)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="280" y="-200" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
