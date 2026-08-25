@@ -248,12 +248,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="K1IOQk1kWo_GxArDIiwx">
-    <mxGraphModel dx="2226" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-0" />
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-1" parent="XMHnJMyTR5Z0R-01F5cL-0" />
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="LryjRIioZ3HfxdW1tb4U-18" target="LryjRIioZ3HfxdW1tb4U-23">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="LryjRIioZ3HfxdW1tb4U-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-210" y="624.3000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#808080;strokeWidth=1;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="-160.5" y="509.5" width="1150" height="79" as="geometry" />
@@ -535,9 +537,6 @@
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-19" value="&lt;b&gt;政策环境层(政策工具与制度环境)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="280" y="508" width="280" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=none;strokeColor=#808080;rounded=0;dashed=1;strokeWidth=1;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="-855.5" y="519" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
