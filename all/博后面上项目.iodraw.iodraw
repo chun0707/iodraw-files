@@ -699,19 +699,19 @@
           <mxGeometry x="80" y="240" width="603" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="316" y="691" width="201" height="171" as="geometry" />
+          <mxGeometry x="37" y="310" width="201" height="171" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-124" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="327" y="732" width="180" height="120" as="geometry" />
+          <mxGeometry x="48" y="351" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-125" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 14px;&quot;&gt;结构&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="347" y="734" width="140" height="20" as="geometry" />
+          <mxGeometry x="68" y="353" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-126" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查机构覆盖与可及性&lt;/li&gt;&lt;li&gt;阴道镜设备与病理能力&lt;/li&gt;&lt;li&gt;医务人员数量与水平&lt;/li&gt;&lt;li&gt;信息系统与数据平台&lt;/li&gt;&lt;li&gt;资金投入与保障等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="327" y="737" width="170" height="110" as="geometry" />
+          <mxGeometry x="48" y="356" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-127" value="&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;卫生体系服务供给&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(SPO框架)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="327" y="691" width="170" height="40" as="geometry" />
+          <mxGeometry x="48" y="310" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
