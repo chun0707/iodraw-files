@@ -402,9 +402,6 @@
         <mxCell id="enP2agFuTgK77bLe584v-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;健康收益实现&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="810" y="792" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="enP2agFuTgK77bLe584v-45" value="卫生政策与指南&lt;div&gt;(筛查政策、诊疗规范)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="180" y="760" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-46" value="资金保障机制&lt;div&gt;(经费投入、支付方式)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="380" y="760" width="160" height="40" as="geometry" />
         </mxCell>
@@ -417,11 +414,10 @@
         <mxCell id="enP2agFuTgK77bLe584v-49" value="社会文化与舆论环境&lt;div&gt;(认知、文化、媒体)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="980" y="760" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="enP2agFuTgK77bLe584v-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="enP2agFuTgK77bLe584v-51" target="enP2agFuTgK77bLe584v-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="enP2agFuTgK77bLe584v-51" value="&lt;b&gt;服务错配形成的原因&lt;/b&gt;&lt;div&gt;(个体因素、体系因素、制度因素的作用路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-30" y="820" width="240" height="40" as="geometry" />
+        <mxCell id="enP2agFuTgK77bLe584v-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" target="enP2agFuTgK77bLe584v-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="840" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-52" value="&lt;b&gt;服务错配的影响&lt;/b&gt;&lt;div&gt;(对健康结果及资源利用的影响)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="350" y="820" width="240" height="40" as="geometry" />
