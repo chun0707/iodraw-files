@@ -392,7 +392,7 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;健康收益实现&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="810" y="350" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#808080;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-60" y="510" as="sourcePoint" />
             <mxPoint x="-60" y="480" as="targetPoint" />
