@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="K1IOQk1kWo_GxArDIiwx">
-    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-0" />
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-1" parent="XMHnJMyTR5Z0R-01F5cL-0" />
@@ -401,7 +401,7 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-48" value="信息化与数据治理&lt;div&gt;(数据共享、隐私保护)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="580" y="500" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XMHnJMyTR5Z0R-01F5cL-49" value="社会文化与舆论环境&lt;div&gt;(认知、文化、媒体)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
+        <mxCell id="XMHnJMyTR5Z0R-01F5cL-49" value="社会文化与舆论环境&lt;div&gt;(认知、文化、媒体)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="820.5" y="499" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-51" target="XMHnJMyTR5Z0R-01F5cL-52">
