@@ -124,8 +124,8 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-41" value="&lt;ul&gt;&lt;li&gt;CIN2+及时发现率&lt;/li&gt;&lt;li&gt;癌前病变治疗率&lt;/li&gt;&lt;li&gt;癌症发生避免&lt;/li&gt;&lt;li&gt;健康寿命与生活质量&lt;/li&gt;&lt;li&gt;资源利用效率等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="795" y="570" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;健康收益实现&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="795" y="399" width="200" height="30" as="geometry" />
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;健康收益实现&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="399" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-43" value="卫生政策与指南&lt;div&gt;(筛查政策、诊疗规范)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="760" width="160" height="40" as="geometry" />
