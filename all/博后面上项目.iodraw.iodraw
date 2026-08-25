@@ -140,7 +140,7 @@
           <mxGeometry x="-80" y="720" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-55" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;低风险：常规筛查/随访&lt;/li&gt;&lt;li&gt;中风险：初筛异常或可疑&lt;/li&gt;&lt;li&gt;高风险：阴道镜检查&amp;nbsp;&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 病理活检&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 治疗及随访&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=default;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="-161" y="380" width="200" height="110" as="geometry" />
+          <mxGeometry x="-150" y="380" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-56" value="&lt;b&gt;&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 14px;&quot;&gt;规范服务需求&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 14px;&quot;&gt;(基于指南的服务强度)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="319.5" width="160" height="42.5" as="geometry" />
