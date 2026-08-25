@@ -83,7 +83,7 @@
           <mxGeometry x="331" y="233.75" width="170" height="110.25" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-24" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 14px;&quot;&gt;过程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="359" y="230" width="130" height="20" as="geometry" />
+          <mxGeometry x="359" y="229" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-27" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;诊断服务完成率&lt;/li&gt;&lt;li&gt;随访管理完成率&lt;/li&gt;&lt;li&gt;服务质量等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="344" y="396" width="140" height="72" as="geometry" />
@@ -202,6 +202,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="419.5" y="199.25" as="sourcePoint" />
             <mxPoint x="419.5" y="219.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="370" as="sourcePoint" />
+            <mxPoint x="190" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
