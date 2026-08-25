@@ -582,7 +582,7 @@
           <mxGeometry x="-280" y="-260" width="1300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据整合与治理：数据清洗、标准化、脱敏处理、关联整合，构建宫颈癌筛查全过程真实世界研究数据库&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="130" y="-440" width="1300" height="30" as="geometry" />
+          <mxGeometry x="-280" y="-400" width="1300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
