@@ -322,7 +322,7 @@
           <mxGeometry x="-160" y="80" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;筛查登记与人群信息&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(人口学、既往史、筛查史)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-160" y="-200" width="160" height="40" as="geometry" />
+          <mxGeometry x="-200" y="-200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;服务实现与连续性层&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(服务利用过程)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="370" y="-130" width="200" height="40" as="geometry" />
@@ -500,6 +500,9 @@
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;诊疗服务数据&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(阴道镜、病理、治疗)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="480" y="-200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;筛查登记与人群信息&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(人口学、既往史、筛查史)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-130" y="-90" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
