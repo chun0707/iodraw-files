@@ -76,10 +76,10 @@
           <mxGeometry x="320" y="360" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-28" value="&lt;ul&gt;&lt;li&gt;筛查机构覆盖与可及性&lt;/li&gt;&lt;li&gt;阴道镜设备与病理能力&lt;/li&gt;&lt;li&gt;医务人员数量与水平&lt;/li&gt;&lt;li&gt;信息系统与数据平台&lt;/li&gt;&lt;li&gt;资金投入与保障等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="550" y="290" width="170" height="87.5" as="geometry" />
+          <mxGeometry x="550" y="210" width="170" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;实际服务获得&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(服务利用情况)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="100" width="200" height="20" as="geometry" />
+          <mxGeometry x="560" y="100" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
