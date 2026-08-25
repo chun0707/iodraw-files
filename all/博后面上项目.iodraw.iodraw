@@ -146,7 +146,7 @@
           <mxGeometry x="-160" y="70" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-9" value="&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;个体疾病风险因素&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="69" width="200" height="30" as="geometry" />
+          <mxGeometry x="-160" y="64" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
