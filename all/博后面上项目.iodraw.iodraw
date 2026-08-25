@@ -288,8 +288,10 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF6666;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="570" y="90" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-12" target="XMHnJMyTR5Z0R-01F5cL-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="255" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="319" y="29" width="201" height="451" as="geometry" />
