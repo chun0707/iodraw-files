@@ -442,9 +442,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-51" value="&lt;b&gt;服务错配形成的原因&lt;/b&gt;&lt;div&gt;(个体因素、体系因素、制度因素的作用路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="174" y="600" width="240" height="40" as="geometry" />
+          <mxGeometry x="160" y="600" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XMHnJMyTR5Z0R-01F5cL-52" value="&lt;b&gt;服务错配的影响&lt;/b&gt;&lt;div&gt;(对健康结果及资源利用的影响)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
+        <mxCell id="XMHnJMyTR5Z0R-01F5cL-52" value="&lt;b&gt;服务错配的影响&lt;/b&gt;&lt;div&gt;(对服务利用及健康结局相关的影响)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="560" y="600" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-53" value="注：实线箭头表示直接作用路径；虚线箭头表示政策环境的调节作用；&lt;div&gt;底部反馈箭头表示错配结果对前端因素的反馈影响。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
