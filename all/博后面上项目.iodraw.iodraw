@@ -714,13 +714,13 @@
           <mxGeometry x="-324" y="320" width="328" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-310" y="410" width="180" height="120" as="geometry" />
+          <mxGeometry x="-120" y="400" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WzxjP2dxZcKkgMhK6RJ2-1" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(1)优化目标设定&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-290" y="412" width="140" height="20" as="geometry" />
+        <mxCell id="WzxjP2dxZcKkgMhK6RJ2-1" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)决策问题构建&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-100" y="402" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-2" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;健康收益最大化&lt;/li&gt;&lt;li&gt;公平性提升&lt;/li&gt;&lt;li&gt;资源利用效率提升&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-300" y="432" width="157" height="88" as="geometry" />
+          <mxGeometry x="-110" y="422" width="157" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
