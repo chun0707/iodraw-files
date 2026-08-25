@@ -569,19 +569,19 @@
           <mxGeometry x="-300" y="-400" width="1340" height="160" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-50" y="-180" width="201" height="172" as="geometry" />
+          <mxGeometry x="-281" y="-200" width="201" height="172" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-39" y="-139" width="180" height="121" as="geometry" />
+          <mxGeometry x="-270" y="-159" width="180" height="121" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-57" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;倾向特征&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-39" y="-131" width="180" height="20" as="geometry" />
+          <mxGeometry x="-270" y="-151" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-58" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;年龄、民族、居住地&lt;/li&gt;&lt;li&gt;职业、文化水平&lt;/li&gt;&lt;li&gt;婚育状况、生殖状况&lt;/li&gt;&lt;li&gt;健康重视程度、就医态度&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-44" y="-121" width="180" height="93" as="geometry" />
+          <mxGeometry x="-275" y="-141" width="180" height="93" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-59" value="&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;个体服务层&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(Andersen模型)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-39" y="-180" width="190" height="40" as="geometry" />
+          <mxGeometry x="-270" y="-200" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
