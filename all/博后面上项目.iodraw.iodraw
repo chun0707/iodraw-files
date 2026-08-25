@@ -116,7 +116,7 @@
           <mxGeometry x="593" y="391" width="110" height="88" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;错配类型&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="106.5" width="180" height="33.5" as="geometry" />
+          <mxGeometry x="810" y="110" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-33" value="&lt;ul style=&quot;line-height: 80%;&quot;&gt;&lt;li&gt;&lt;b&gt;需要未满足型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(高风险—服务不足)&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 80%;&quot;&gt;&lt;li&gt;&lt;b&gt;服务过度型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(低风险—服务过度)&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 80%;&quot;&gt;&lt;li&gt;&lt;b&gt;服务延迟型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (及时性不足)&lt;/span&gt;&lt;br&gt;&lt;ul style=&quot;line-height: 80%;&quot;&gt;&lt;li&gt;&lt;b&gt;服务中断型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (路径中断)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="822" y="130" width="158" height="200" as="geometry" />
@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-106" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;风险—服务错配结果层&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;(M)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="805" y="61.5" width="190" height="41" as="geometry" />
+          <mxGeometry x="800" y="39" width="200" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
