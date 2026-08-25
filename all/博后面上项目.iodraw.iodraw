@@ -441,11 +441,6 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-51" value="&lt;b&gt;服务错配形成的原因&lt;/b&gt;&lt;div&gt;(个体因素、体系因素、制度因素的作用路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="110" y="609" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-52">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-52" value="&lt;b&gt;服务错配的影响&lt;/b&gt;&lt;div&gt;(对服务利用及健康结局相关的影响)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="560" y="609" width="240" height="40" as="geometry" />
         </mxCell>
@@ -568,8 +563,8 @@
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="663.5" y="610" as="sourcePoint" />
-            <mxPoint x="663.5" y="580" as="targetPoint" />
+            <mxPoint x="679.5" y="609" as="sourcePoint" />
+            <mxPoint x="679.5" y="579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
