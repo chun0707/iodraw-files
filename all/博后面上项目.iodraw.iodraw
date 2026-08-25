@@ -591,7 +591,7 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-40" y="-160" width="180" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-66" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(1) 疾病风险评估&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-66" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 规范服务需求确定&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-40" y="-155" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;HPV分型风险分层&lt;/li&gt;&lt;li&gt;细胞学异常分级&lt;/li&gt;&lt;li&gt;组合风险模型构建&lt;/li&gt;&lt;li&gt;个体风险水平划分&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
