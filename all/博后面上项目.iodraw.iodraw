@@ -271,7 +271,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#808080;strokeWidth=1;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="-160" y="509.5" width="1149.5" height="79" as="geometry" />
+          <mxGeometry x="-160" y="509.5" width="1149.5" height="60.5" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="800" y="30" width="200" height="450" as="geometry" />
@@ -442,7 +442,7 @@
           <mxGeometry x="110" y="609" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-52" value="&lt;b&gt;服务错配的影响&lt;/b&gt;&lt;div&gt;(对服务利用及健康结局相关的影响)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="560" y="609" width="240" height="40" as="geometry" />
+          <mxGeometry x="560" y="610" width="240" height="39" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-53" value="注：实线箭头表示直接作用路径；虚线箭头表示政策环境的调节作用；&lt;div&gt;底部反馈箭头表示错配结果对前端因素的反馈影响。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="-160" y="950" width="400" height="40" as="geometry" />
