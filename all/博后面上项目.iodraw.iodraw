@@ -11,10 +11,10 @@
           <mxGeometry x="90" y="514" width="180" height="81" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="79" y="273.5" width="201" height="130" as="geometry" />
+          <mxGeometry x="79" y="219.5" width="201" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-73" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="90" y="284" width="180" height="110" as="geometry" />
+          <mxGeometry x="90" y="230" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="79" y="28" width="201" height="162" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="85" y="79" width="180" height="91" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-14" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;使能资源&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="287" width="120" height="20" as="geometry" />
+          <mxGeometry x="120" y="233" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-15" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;家庭收入、经济状况&lt;/li&gt;&lt;li&gt;医疗保险类型&lt;/li&gt;&lt;li&gt;地理可及性(距离、交通)&lt;/li&gt;&lt;li&gt;社会资源支持等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="87" y="293" width="175" height="91" as="geometry" />
+          <mxGeometry x="87" y="239" width="175" height="91" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-18" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;感知健康状况&lt;/li&gt;&lt;li&gt;易知疾病严重性&lt;/li&gt;&lt;li&gt;症状及不适程度&lt;/li&gt;&lt;li&gt;异常结果认知等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="100" y="520" width="170" height="77" as="geometry" />
@@ -175,6 +175,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="179" y="190" as="sourcePoint" />
             <mxPoint x="179" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="289" as="sourcePoint" />
+            <mxPoint x="-50" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
