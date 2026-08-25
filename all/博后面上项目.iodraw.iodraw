@@ -253,7 +253,7 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-0" />
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-1" parent="XMHnJMyTR5Z0R-01F5cL-0" />
         <mxCell id="LryjRIioZ3HfxdW1tb4U-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="-160" y="600" width="1160" height="39" as="geometry" />
+          <mxGeometry x="-160" y="560" width="1160" height="79" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="800" y="30" width="200" height="450" as="geometry" />
@@ -531,7 +531,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-19" value="&lt;b&gt;政策环境层(政策工具与制度环境)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="280" y="561" width="280" height="31" as="geometry" />
+          <mxGeometry x="280" y="558" width="280" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
