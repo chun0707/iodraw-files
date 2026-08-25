@@ -322,7 +322,7 @@
           <mxGeometry x="-160" y="80" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;卫生体系服务供给&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(SPO框架)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="20" y="-150" width="200" height="40" as="geometry" />
+          <mxGeometry x="-121" y="-200" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="enP2agFuTgK77bLe584v-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;服务实现与连续性层&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(服务利用过程)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="370" y="-130" width="200" height="40" as="geometry" />
