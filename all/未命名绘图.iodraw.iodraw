@@ -93,7 +93,7 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-33" value="&lt;ul&gt;&lt;li&gt;需要未满足型&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;服务过度型&lt;/li&gt;&lt;li&gt;(低风险—服务过度)&lt;/li&gt;&lt;li&gt;服务延迟型(及时性不足)&lt;/li&gt;&lt;li&gt;服务中断型(路径中断)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="780" y="120" width="170" height="117.5" as="geometry" />
         </mxCell>
-        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-35" value="&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;(高风险—服务不足)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-35" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;需要未满足型&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;(高风险—服务不足)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-36" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;(低风险—服务过度)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
