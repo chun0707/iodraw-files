@@ -432,12 +432,14 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-49" value="社会文化与舆论环境&lt;div&gt;(认知、文化、媒体)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="815.5" y="539" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-51" target="LryjRIioZ3HfxdW1tb4U-18">
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-51">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="620" as="targetPoint" />
             <Array as="points">
               <mxPoint x="330" y="620" />
-              <mxPoint x="330" y="609" />
-              <mxPoint x="420" y="609" />
+              <mxPoint x="330" y="630" />
+              <mxPoint x="420" y="630" />
+              <mxPoint x="420" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
