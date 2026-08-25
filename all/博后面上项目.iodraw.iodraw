@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图" id="gTvj2WcOv0gWW2DytrQ_">
-    <mxGraphModel dx="1364" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
@@ -651,7 +651,7 @@
           <mxGeometry x="-250" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-95" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-1" width="361" height="140" as="geometry" />
+          <mxGeometry x="-1" width="321" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-96" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;资源配置&lt;/li&gt;&lt;li&gt;人员能力&lt;/li&gt;&lt;li&gt;信息系统&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry y="57" width="100" height="72.5" as="geometry" />
@@ -666,7 +666,7 @@
           <mxGeometry x="92" y="57" width="100" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-102" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;服务可及性&lt;/li&gt;&lt;li&gt;服务质量&lt;/li&gt;&lt;li&gt;管理效率&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="210" y="57" width="110" height="72.5" as="geometry" />
+          <mxGeometry x="192" y="57" width="110" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-103" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;过程&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="110.5" y="37" width="63" height="20" as="geometry" />
