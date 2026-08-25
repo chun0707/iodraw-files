@@ -48,7 +48,7 @@
           <mxGeometry x="95" y="220" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-18" value="&lt;ul&gt;&lt;li&gt;家庭收入、经济状况&lt;/li&gt;&lt;li&gt;医疗保险类型&lt;/li&gt;&lt;li&gt;地理可及性(距离、交通)&lt;/li&gt;&lt;li&gt;时间可及性、信息获取&lt;/li&gt;&lt;li&gt;社会资源支持等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="95" y="340" width="175" height="90" as="geometry" />
+          <mxGeometry x="97" y="340" width="175" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
