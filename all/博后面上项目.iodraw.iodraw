@@ -644,8 +644,8 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-87" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-270" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-88" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;低风险：常规筛查/随访&lt;/li&gt;&lt;li&gt;中风险：初筛异常或可疑&lt;/li&gt;&lt;li&gt;高风险：阴道镜检查&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;病理活检&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;治疗及随访&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-264" y="25" width="180" height="120" as="geometry" />
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-88" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;倾向因素(人口学、社会经济水平)&lt;/li&gt;&lt;li&gt;中风险：初筛异常或可疑&lt;/li&gt;&lt;li&gt;高风险：阴道镜检&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-270" y="25" width="186" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-89" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(1)个体层面因素分析&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-250" y="-1" width="160" height="42" as="geometry" />
