@@ -137,17 +137,8 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-56" value="&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;规范服务需求&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(基于指南的服务强度)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="329.5" width="160" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yp0_Ibf4mcd0dLkMcT6X-58">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="100" y="155" />
-              <mxPoint x="100" y="350.75" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-58" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=40;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="30" width="220" height="250" as="geometry" />
+          <mxGeometry x="-170" y="30" width="220" height="450" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;人口学特征(年龄、民族等)&lt;/li&gt;&lt;li&gt;病史情况和妇科检查结果&lt;/li&gt;&lt;li&gt;既往筛查及疫苗接种史&lt;/li&gt;&lt;li&gt;HPV感染状态&lt;/li&gt;&lt;li&gt;细胞学检查结果&lt;/li&gt;&lt;li&gt;阴道镜检查结果&lt;/li&gt;&lt;li&gt;组织病理检查结果&lt;/li&gt;&lt;li&gt;随访治疗情况等&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=default;strokeColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="-160" y="70" width="200" height="200" as="geometry" />
