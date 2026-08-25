@@ -32,7 +32,7 @@
           <mxGeometry x="800" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-10" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;倾向因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="119" width="180" height="20" as="geometry" />
+          <mxGeometry x="90" y="121" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-11" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;年龄、婚育状况&lt;/li&gt;&lt;li&gt;教育水平、职业&lt;/li&gt;&lt;li&gt;健康信念、认识水平&lt;/li&gt;&lt;li&gt;文化背景、社会支持&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="90" y="128" width="180" height="100" as="geometry" />
