@@ -53,8 +53,8 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;结构&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-20" value="&lt;ul&gt;&lt;li&gt;年龄、婚育状况&lt;/li&gt;&lt;li&gt;教育水平、职业&lt;/li&gt;&lt;li&gt;健康信念、认识水平&lt;/li&gt;&lt;li&gt;文化背景、社会支持&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="300" y="112.5" width="220" height="75" as="geometry" />
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-20" value="&lt;ul&gt;&lt;li&gt;筛查机构覆盖与可及性&lt;/li&gt;&lt;li&gt;教育水平、职业&lt;/li&gt;&lt;li&gt;健康信念、认识水平&lt;/li&gt;&lt;li&gt;文化背景、社会支持&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
+          <mxGeometry x="300" y="112.5" width="220" height="97.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
