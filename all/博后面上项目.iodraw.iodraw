@@ -171,6 +171,12 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-74" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;需求因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="515" width="160" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="179" y="190" as="sourcePoint" />
+            <mxPoint x="179" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
