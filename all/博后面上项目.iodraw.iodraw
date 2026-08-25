@@ -107,10 +107,10 @@
           <mxGeometry x="570" y="92" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-30" value="&lt;b&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 14px;&quot;&gt;连续性服务完成&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff6666&quot;&gt;(服务链完整性)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="365" width="170" height="40" as="geometry" />
+          <mxGeometry x="570" y="365" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-31" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;服务链完整&lt;/li&gt;&lt;li&gt;服务链延迟&lt;/li&gt;&lt;li&gt;服务链中断&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="599" y="391" width="110" height="88" as="geometry" />
+          <mxGeometry x="593" y="391" width="110" height="88" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;错配类型&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="90" width="200" height="40" as="geometry" />
