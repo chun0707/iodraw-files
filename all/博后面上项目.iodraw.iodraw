@@ -530,11 +530,8 @@
             <mxPoint x="900.5" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="LryjRIioZ3HfxdW1tb4U-19" target="XMHnJMyTR5Z0R-01F5cL-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-19" value="政策环境层(政策工具与制度环境)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="280" y="529" width="280" height="31" as="geometry" />
+          <mxGeometry x="280" y="517" width="280" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
