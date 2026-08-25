@@ -229,6 +229,9 @@
             <mxPoint x="659.5" y="309.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-106" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;风险—服务错配结果层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="47" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
