@@ -77,7 +77,7 @@
           <mxGeometry x="360" y="252" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-27" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;诊断服务完成率&lt;/li&gt;&lt;li&gt;治疗服务可及性&lt;/li&gt;&lt;li&gt;随访管理完成率&lt;/li&gt;&lt;li&gt;服务质量等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="348" y="409" width="140" height="90" as="geometry" />
+          <mxGeometry x="345" y="409" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-28" value="&lt;ul&gt;&lt;li&gt;筛查服务获得&lt;/li&gt;&lt;li&gt;异常分流服务获得&lt;/li&gt;&lt;li&gt;阴道镜检查获得&lt;/li&gt;&lt;li&gt;病理诊断获得&lt;/li&gt;&lt;li&gt;治疗服务获得&lt;/li&gt;&lt;li&gt;随访管理获得&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="535" y="152.5" width="170" height="117.5" as="geometry" />
@@ -183,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-82" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;结果&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="404" width="130" height="20" as="geometry" />
+          <mxGeometry x="357" y="404" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-85" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;卫生体系服务供给&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(SPO框架)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="-80" width="180" height="40" as="geometry" />
