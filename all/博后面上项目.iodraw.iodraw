@@ -252,7 +252,7 @@
       <root>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-0" />
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-1" parent="XMHnJMyTR5Z0R-01F5cL-0" />
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="LryjRIioZ3HfxdW1tb4U-18">
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="LryjRIioZ3HfxdW1tb4U-18" target="XMHnJMyTR5Z0R-01F5cL-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="620" as="targetPoint" />
             <Array as="points">
