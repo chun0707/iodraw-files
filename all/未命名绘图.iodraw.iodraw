@@ -34,10 +34,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-11" value="&lt;ul&gt;&lt;li&gt;年龄、婚育状况&lt;/li&gt;&lt;li&gt;教育水平、职业&lt;/li&gt;&lt;li&gt;健康信念、认识水平&lt;/li&gt;&lt;li&gt;文化背景、社会支持&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="95" y="105" width="150" height="75" as="geometry" />
+          <mxGeometry x="95" y="103" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;促进因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yp0_Ibf4mcd0dLkMcT6X-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="182.5" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-15" value="&lt;ul&gt;&lt;li&gt;家庭收入、经济状况&lt;/li&gt;&lt;li&gt;医疗保险类型&lt;/li&gt;&lt;li&gt;地理可及性(距离、交通)&lt;/li&gt;&lt;li&gt;时间可及性、信息获取&lt;/li&gt;&lt;li&gt;社会资源支持等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="95" y="220" width="175" height="90" as="geometry" />
