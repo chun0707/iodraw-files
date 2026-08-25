@@ -635,7 +635,7 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-84" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(5) 描述性分析&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="620" y="-156" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-85" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;需求—实际服务差异计算&lt;/li&gt;&lt;li&gt;错配类别识别&lt;/li&gt;&lt;li&gt;错配程度分级&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-85" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;错配总体特征分析&lt;/li&gt;&lt;li&gt;人群/地区/机构差异分析&lt;/li&gt;&lt;li&gt;关键环节识别&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="620" y="-130" width="170" height="84" as="geometry" />
         </mxCell>
       </root>
