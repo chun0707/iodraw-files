@@ -136,6 +136,9 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-51" value="注：实线箭头表示直接作用路径；虚线箭头表示政策环境的调节作用；&lt;div&gt;底部反馈箭头表示错配结果对前端因素的反馈影响。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-80" y="720" width="400" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-55" value="&lt;ul&gt;&lt;li&gt;家庭收入、经济状况&lt;/li&gt;&lt;li&gt;医疗保险类型&lt;/li&gt;&lt;li&gt;地理可及性(距离、交通)&lt;/li&gt;&lt;li&gt;时间可及性、信息获取&lt;/li&gt;&lt;li&gt;社会资源支持等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="440" width="175" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
