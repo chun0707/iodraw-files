@@ -95,10 +95,10 @@
           <mxGeometry x="560" y="100" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;连续性服务完成&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(服务链完整性)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="585" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-31" value="&lt;ul&gt;&lt;li&gt;服务链完整&lt;/li&gt;&lt;li&gt;服务链延迟&lt;/li&gt;&lt;li&gt;服务链中断&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="110" height="68.75" as="geometry" />
+          <mxGeometry x="580" y="396" width="110" height="68.75" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;错配类型&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="90" width="200" height="40" as="geometry" />
