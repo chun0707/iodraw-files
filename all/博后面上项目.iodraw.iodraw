@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图" id="gTvj2WcOv0gWW2DytrQ_">
-    <mxGraphModel dx="1364" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
@@ -586,7 +586,7 @@
           <mxGeometry x="-270" y="-143" width="180" height="93" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-59" value="&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;个体服务层&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(Andersen模型)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-249" y="-220" width="629" height="40" as="geometry" />
+          <mxGeometry x="-270" y="-211" width="650" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-40" y="-160" width="180" height="121" as="geometry" />
