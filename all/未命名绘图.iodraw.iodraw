@@ -102,6 +102,9 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-37" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;(及时性不足)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="340" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-38" value="&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;(及时性不足)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
