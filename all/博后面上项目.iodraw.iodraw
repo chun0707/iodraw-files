@@ -433,13 +433,13 @@
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-51">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="620" as="sourcePoint" />
-            <mxPoint x="559" y="620" as="targetPoint" />
+            <mxPoint x="425" y="629" as="sourcePoint" />
+            <mxPoint x="559" y="629" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-51" value="&lt;b&gt;服务错配形成的原因&lt;/b&gt;&lt;div&gt;(个体因素、体系因素、制度因素的作用路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="110" y="600" width="240" height="40" as="geometry" />
+          <mxGeometry x="110" y="609" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-52">
           <mxGeometry relative="1" as="geometry">
@@ -447,7 +447,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-52" value="&lt;b&gt;服务错配的影响&lt;/b&gt;&lt;div&gt;(对服务利用及健康结局相关的影响)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="560" y="600" width="240" height="40" as="geometry" />
+          <mxGeometry x="560" y="609" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-53" value="注：实线箭头表示直接作用路径；虚线箭头表示政策环境的调节作用；&lt;div&gt;底部反馈箭头表示错配结果对前端因素的反馈影响。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="-160" y="950" width="400" height="40" as="geometry" />
