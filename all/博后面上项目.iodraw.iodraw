@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zi0vAALxCBP_IqbDhwt_">
-    <mxGraphModel dx="1159" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,8 +115,8 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;错配类型&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="90" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-33" value="&lt;ul&gt;&lt;li&gt;需要未满足型&lt;/li&gt;&lt;li&gt;(高风险—服务不足)&lt;/li&gt;&lt;li&gt;服务过度型&lt;/li&gt;&lt;li&gt;(低风险—服务过度)&lt;/li&gt;&lt;li&gt;服务延迟型&lt;/li&gt;&lt;li&gt;(及时性不足)&lt;/li&gt;&lt;li&gt;服务中断型&lt;/li&gt;&lt;li&gt;(路径中断)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="827" y="180" width="170" height="117.5" as="geometry" />
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-33" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;需要未满足型&lt;/li&gt;&lt;li&gt;(高风险—服务不足)&lt;/li&gt;&lt;li&gt;服务过度型&lt;/li&gt;&lt;li&gt;(低风险—服务过度)&lt;/li&gt;&lt;li&gt;服务延迟型&lt;/li&gt;&lt;li&gt;(及时性不足)&lt;/li&gt;&lt;li&gt;服务中断型&lt;/li&gt;&lt;li&gt;(路径中断)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
+          <mxGeometry x="827" y="180" width="170" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-41" value="&lt;ul&gt;&lt;li&gt;CIN2+及时发现率&lt;/li&gt;&lt;li&gt;癌前病变治疗率&lt;/li&gt;&lt;li&gt;癌症发生避免&lt;/li&gt;&lt;li&gt;健康寿命与生活质量&lt;/li&gt;&lt;li&gt;资源利用效率等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
           <mxGeometry x="780" y="386.5" width="170" height="90" as="geometry" />
