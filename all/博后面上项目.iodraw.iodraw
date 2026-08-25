@@ -654,10 +654,10 @@
           <mxGeometry x="-1" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-96" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;倾向特征(人口学、社会经济水平)&lt;/li&gt;&lt;li&gt;使能资源(医保、收入和可及性等)&lt;/li&gt;&lt;li&gt;需求因素(风险认知、症状等)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-1" y="21.5" width="220" height="78.5" as="geometry" />
+          <mxGeometry x="-1" y="21.5" width="201" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-97" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)机构与体系层面因素分析(SPO框架)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="19" width="160" height="40" as="geometry" />
+          <mxGeometry width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
