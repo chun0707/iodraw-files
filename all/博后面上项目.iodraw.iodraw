@@ -11,7 +11,7 @@
           <mxGeometry x="79" y="28" width="201" height="162" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="90" y="69" width="180" height="111" as="geometry" />
+          <mxGeometry x="90" y="69" width="180" height="101" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-170" y="309" width="220" height="160" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="90" y="71" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-11" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;年龄、民族、居住地&lt;/li&gt;&lt;li&gt;职业、文化水平&lt;/li&gt;&lt;li&gt;婚育状况、生殖状况&lt;/li&gt;&lt;li&gt;健康重视程度、就医态度&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="90" y="78" width="180" height="90" as="geometry" />
+          <mxGeometry x="85" y="78" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-14" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;促进因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="243" width="120" height="20" as="geometry" />
