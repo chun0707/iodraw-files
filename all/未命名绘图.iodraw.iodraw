@@ -23,7 +23,7 @@
           <mxGeometry x="600" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-9" value="个体疾病风险因素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="-120" y="90" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
