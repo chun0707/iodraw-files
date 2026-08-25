@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-106" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;风险—服务错配结果层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="32" width="200" height="41" as="geometry" />
+          <mxGeometry x="800" y="40" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
