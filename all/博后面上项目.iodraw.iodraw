@@ -8,7 +8,7 @@
           <mxGeometry x="-160" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-2" value="&lt;ul&gt;&lt;li&gt;人口学特征(年龄、民族、学历等)&lt;/li&gt;&lt;li&gt;病史情况和妇科检查结果&lt;/li&gt;&lt;li&gt;既往筛查及疫苗接种史&lt;/li&gt;&lt;li&gt;HPV感染状态&lt;/li&gt;&lt;li&gt;细胞学检查结果&lt;/li&gt;&lt;li&gt;阴道镜检查结果&lt;/li&gt;&lt;li&gt;组织病理检查结果&lt;/li&gt;&lt;li&gt;随访治疗情况等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="130" width="230" height="135" as="geometry" />
+          <mxGeometry x="-180" y="130" width="230" height="135" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;个体服务转化层&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Andersen模型)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;风险—服务错配结果层&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Mismatch)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yp0_Ibf4mcd0dLkMcT6X-9" target="Yp0_Ibf4mcd0dLkMcT6X-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;个体疾病风险因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-160" y="90" width="200" height="20" as="geometry" />
