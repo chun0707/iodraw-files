@@ -8,7 +8,7 @@
           <mxGeometry x="-160" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-2" value="&lt;ul style=&quot;line-height: 150%;&quot;&gt;&lt;li&gt;人口学特征(年龄、民族等)&lt;/li&gt;&lt;li&gt;病史情况和妇科检查结果&lt;/li&gt;&lt;li&gt;既往筛查及疫苗接种史&lt;/li&gt;&lt;li&gt;HPV感染状态&lt;/li&gt;&lt;li&gt;细胞学检查结果&lt;/li&gt;&lt;li&gt;阴道镜检查结果&lt;/li&gt;&lt;li&gt;组织病理检查结果&lt;/li&gt;&lt;li&gt;随访治疗情况等&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;strokeColor=#B9E0A5;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="120" width="205" height="160" as="geometry" />
+          <mxGeometry x="-160" y="120" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;个体服务转化层&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Andersen模型)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
