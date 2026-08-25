@@ -7,7 +7,7 @@
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-59" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-160" y="80" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;疾病风险与服务需求层&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Need)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;疾病风险与服务需求层&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;(Need)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-160" y="29" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Yp0_Ibf4mcd0dLkMcT6X-2">
