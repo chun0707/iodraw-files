@@ -441,8 +441,10 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-51" value="&lt;b&gt;服务错配形成的原因&lt;/b&gt;&lt;div&gt;(个体因素、体系因素、制度因素的作用路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="110" y="600" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-52" target="LryjRIioZ3HfxdW1tb4U-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1" source="XMHnJMyTR5Z0R-01F5cL-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-52" value="&lt;b&gt;服务错配的影响&lt;/b&gt;&lt;div&gt;(对服务利用及健康结局相关的影响)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="560" y="600" width="240" height="40" as="geometry" />
@@ -557,9 +559,6 @@
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-19" value="&lt;b&gt;政策环境层(政策工具与制度环境)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="280" y="508" width="280" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-31" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;fillColor=none;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="640" y="710" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
