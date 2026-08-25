@@ -166,7 +166,7 @@
           <mxGeometry x="-160" y="30" width="200" height="39" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-74" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;需求因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="102" y="460" width="150" height="20" as="geometry" />
+          <mxGeometry x="102" y="460" width="158" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
