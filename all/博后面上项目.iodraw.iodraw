@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="zi0vAALxCBP_IqbDhwt_">
-    <mxGraphModel dx="1159" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
           <mxGeometry x="-170" y="200" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-2" value="&lt;ul style=&quot;line-height: 140%;&quot;&gt;&lt;li&gt;人口学特征(年龄、民族等)&lt;/li&gt;&lt;li&gt;病史情况和妇科检查结果&lt;/li&gt;&lt;li&gt;既往筛查及疫苗接种史&lt;/li&gt;&lt;li&gt;HPV感染状态&lt;/li&gt;&lt;li&gt;细胞学检查结果&lt;/li&gt;&lt;li&gt;阴道镜检查结果&lt;/li&gt;&lt;li&gt;组织病理检查结果&lt;/li&gt;&lt;li&gt;随访治疗情况等&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=default;strokeColor=#97D077;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="90" width="200" height="160" as="geometry" />
+          <mxGeometry x="-160" y="90" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-9" value="&lt;font color=&quot;#97d077&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;个体疾病风险因素&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-160" y="89" width="200" height="30" as="geometry" />
