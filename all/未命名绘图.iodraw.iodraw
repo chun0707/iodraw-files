@@ -14,7 +14,7 @@
           <mxGeometry x="80" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;卫生体系服务供给&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(SPO框架)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="320" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;服务实现与连续性层&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(服务利用过程)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="40" width="160" height="40" as="geometry" />
