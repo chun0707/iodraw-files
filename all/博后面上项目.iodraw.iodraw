@@ -659,6 +659,9 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-97" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)机构与体系层面因素分析(SPO框架)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="7" width="270" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-98" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;倾向特征&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="27" y="30" width="180" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
