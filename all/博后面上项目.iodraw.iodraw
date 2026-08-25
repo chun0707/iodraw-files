@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="79" y="220" width="201" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="240" width="180" height="110" as="geometry" />
         </mxCell>
@@ -161,9 +164,6 @@
         </mxCell>
         <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-74" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;需求因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="434" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Yp0_Ibf4mcd0dLkMcT6X-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="79" y="220" width="201" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
