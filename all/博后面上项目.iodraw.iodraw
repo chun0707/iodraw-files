@@ -304,7 +304,7 @@
           <mxGeometry x="90" y="230" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry x="79" y="28" width="201" height="172" as="geometry" />
+          <mxGeometry x="79" y="28" width="201" height="192" as="geometry" />
         </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="90" y="69" width="180" height="121" as="geometry" />
@@ -429,12 +429,6 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-63" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;需求因素&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="101" y="392" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XMHnJMyTR5Z0R-01F5cL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="360" as="sourcePoint" />
-            <mxPoint x="180" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-66" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot; style=&quot;font-size: 14px;&quot;&gt;结果&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
           <mxGeometry x="357" y="392" width="130" height="20" as="geometry" />
         </mxCell>
@@ -481,6 +475,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="179" y="200" as="sourcePoint" />
             <mxPoint x="179" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XMHnJMyTR5Z0R-01F5cL-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XMHnJMyTR5Z0R-01F5cL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="360" as="sourcePoint" />
+            <mxPoint x="180" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
