@@ -602,20 +602,22 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-71" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(3) 实际服务获得评估&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="279" y="-155" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ag_QwMj9m7UgGhxaNrj7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-72" target="2XQ-aQmXoGda7gQh7Cl_-77">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="-91" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-72" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查后服务获得情况&lt;/li&gt;&lt;li&gt;诊断、治疗、随访情况&lt;/li&gt;&lt;li&gt;服务时间及时性评价&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="286" y="-132" width="169" height="82" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="560" y="-160" width="179" height="120" as="geometry" />
+          <mxGeometry x="581" y="-160" width="179" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-76" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(4) 风险—服务匹配分析&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="559" y="-155" width="180" height="20" as="geometry" />
+          <mxGeometry x="580" y="-155" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-77" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;需求—实际服务差异计算&lt;/li&gt;&lt;li&gt;错配类别识别&lt;/li&gt;&lt;li&gt;错配程度分级&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="570" y="-143" width="159" height="84" as="geometry" />
+          <mxGeometry x="591" y="-143" width="159" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="840" y="-160" width="180" height="120" as="geometry" />
