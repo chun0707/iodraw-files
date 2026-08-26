@@ -248,10 +248,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图" id="BXiYKpBzRUiIQyvqt-97">
-    <mxGraphModel dx="1971" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-290" y="299" width="201" height="201" as="geometry" />
+        </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=60;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-300" y="40" width="1340" height="220" as="geometry" />
         </mxCell>
@@ -856,9 +859,6 @@
             <mxPoint x="120" y="440" as="sourcePoint" />
             <mxPoint x="120" y="460" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-570" y="410" width="201" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
