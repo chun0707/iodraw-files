@@ -917,10 +917,10 @@
             <mxPoint x="560" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-92" y="585" as="sourcePoint" />
-            <mxPoint x="10" y="584" as="targetPoint" />
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="580" as="sourcePoint" />
+            <mxPoint x="230" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
