@@ -566,9 +566,6 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-420" y="-400" width="100" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="ag_QwMj9m7UgGhxaNrj7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-56" target="2XQ-aQmXoGda7gQh7Cl_-67">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-270" y="-161" width="180" height="121" as="geometry" />
         </mxCell>
@@ -582,7 +579,7 @@
           <mxGeometry x="-265" y="-230" width="1070" height="29" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-10" y="-160" width="180" height="121" as="geometry" />
+          <mxGeometry x="-10" y="-160" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-66" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 规范服务需求确定&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-10" y="-155" width="180" height="20" as="geometry" />
