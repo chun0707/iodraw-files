@@ -567,10 +567,10 @@
           <mxGeometry x="-420" y="-400" width="100" height="121" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-280" y="-161" width="180" height="121" as="geometry" />
+          <mxGeometry x="-280" y="-160" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-57" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(1) 疾病风险评估&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-280" y="-153" width="180" height="20" as="geometry" />
+          <mxGeometry x="-280" y="-150" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-58" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;HPV分型风险分层&lt;/li&gt;&lt;li&gt;细胞学异常分级&lt;/li&gt;&lt;li&gt;组合风险模型构建&lt;/li&gt;&lt;li&gt;个体风险水平划分&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-260" y="-143" width="150" height="93" as="geometry" />
