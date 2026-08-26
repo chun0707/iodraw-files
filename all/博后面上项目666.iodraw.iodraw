@@ -872,8 +872,8 @@
         <mxCell id="7aB-cnf8nd2ipJj8g54f-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-590" y="-115" width="120" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-570" y="-220" width="100" height="60" as="geometry" />
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-570" y="-220" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
