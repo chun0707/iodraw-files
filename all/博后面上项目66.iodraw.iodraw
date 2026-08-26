@@ -611,8 +611,9 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-72" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查后服务获得情况&lt;/li&gt;&lt;li&gt;诊断、治疗、随访情况&lt;/li&gt;&lt;li&gt;服务时间及时性评价&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="286" y="-132" width="169" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="ag_QwMj9m7UgGhxaNrj7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-75" target="2XQ-aQmXoGda7gQh7Cl_-85">
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-75">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="-100" as="targetPoint" />
             <Array as="points">
               <mxPoint x="820" y="-100" />
               <mxPoint x="820" y="-100" />
