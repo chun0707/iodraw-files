@@ -336,7 +336,7 @@
         <mxCell id="61ROgQzcIBmcsbItj-DX-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
           <mxGeometry x="110" y="310" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="61ROgQzcIBmcsbItj-DX-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;分流后判断是否需要阴道镜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
+        <mxCell id="61ROgQzcIBmcsbItj-DX-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;评估检查情况&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;确定活检部位&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
           <mxGeometry x="120" y="388" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="61ROgQzcIBmcsbItj-DX-16" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3. 阴道镜检查&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
