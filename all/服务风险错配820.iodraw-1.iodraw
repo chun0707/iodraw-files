@@ -289,6 +289,9 @@
       <root>
         <mxCell id="61ROgQzcIBmcsbItj-DX-0" />
         <mxCell id="61ROgQzcIBmcsbItj-DX-1" parent="61ROgQzcIBmcsbItj-DX-0" />
+        <mxCell id="keV3H6oJi7C6XIpAsby--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="61ROgQzcIBmcsbItj-DX-1">
+          <mxGeometry x="-180" y="290" width="830" height="165" as="geometry" />
+        </mxCell>
         <mxCell id="61ROgQzcIBmcsbItj-DX-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
           <mxGeometry x="530" y="310" width="110" height="140" as="geometry" />
         </mxCell>
@@ -565,9 +568,6 @@
         </mxCell>
         <mxCell id="keV3H6oJi7C6XIpAsby--0" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#004c99&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;宫颈癌筛查全过程服务环节(理论需求服务路径)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="61ROgQzcIBmcsbItj-DX-1">
           <mxGeometry x="-160" y="290" width="790" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="keV3H6oJi7C6XIpAsby--3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="61ROgQzcIBmcsbItj-DX-1">
-          <mxGeometry x="-180" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
