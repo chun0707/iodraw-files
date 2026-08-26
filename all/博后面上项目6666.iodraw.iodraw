@@ -737,7 +737,12 @@
           <mxGeometry x="-301" y="289" width="1341" height="210" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=60;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-300" y="40" width="1340" height="220" as="geometry" />
+          <mxGeometry x="-300" y="20" width="1340" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_8FIFfHHu5moaWIOZFA_-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=60;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="-300" y="-221" width="1340" height="210" as="geometry" />
@@ -917,55 +922,55 @@
           <mxGeometry x="844" y="-165" width="170" height="84" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-280" y="80" width="220" height="120" as="geometry" />
+          <mxGeometry x="-280" y="60" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-55" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;倾向特征(人口学、社会经济水平)&lt;/li&gt;&lt;li&gt;使能资源(医保、收入和可及性等)&lt;/li&gt;&lt;li&gt;需求因素(风险认知、症状等)&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-292" y="108.5" width="220" height="78.5" as="geometry" />
+          <mxGeometry x="-292" y="88.5" width="220" height="78.5" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-56" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(1)个体层面因素分析&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-260" y="80" width="160" height="40" as="geometry" />
+          <mxGeometry x="-260" y="60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="40" y="80" width="319" height="120" as="geometry" />
+          <mxGeometry x="40" y="60" width="319" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-58" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;资源配置&lt;/li&gt;&lt;li&gt;人员能力&lt;/li&gt;&lt;li&gt;信息系统&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="39" y="127" width="100" height="72.5" as="geometry" />
+          <mxGeometry x="39" y="107" width="100" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-59" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)机构与体系层面因素分析(SPO框架)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="75" y="80" width="270" height="30" as="geometry" />
+          <mxGeometry x="75" y="60" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-60" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;结构&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="66" y="112" width="63" height="20" as="geometry" />
+          <mxGeometry x="66" y="92" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-61" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;转诊流程&lt;/li&gt;&lt;li&gt;服务衔接&lt;/li&gt;&lt;li&gt;随访管理&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="131" y="124" width="100" height="72.5" as="geometry" />
+          <mxGeometry x="131" y="104" width="100" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-62" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;服务可及性&lt;/li&gt;&lt;li&gt;服务质量&lt;/li&gt;&lt;li&gt;管理效率&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="233" y="124" width="110" height="72.5" as="geometry" />
+          <mxGeometry x="233" y="104" width="110" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-63" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;过程&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="149.5" y="115" width="63" height="20" as="geometry" />
+          <mxGeometry x="149.5" y="95" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-64" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;结果&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="272.5" y="118" width="63" height="20" as="geometry" />
+          <mxGeometry x="272.5" y="98" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-65" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="458" y="80" width="231" height="120" as="geometry" />
+          <mxGeometry x="458" y="60" width="231" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-66" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;政策工具(激励、约束、信息等)&lt;/li&gt;&lt;li&gt;经费保障与投入水平&lt;/li&gt;&lt;li&gt;管理制度与绩效考核&lt;/li&gt;&lt;li&gt;社会文化与认知环境&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="468.5" y="97" width="213" height="93" as="geometry" />
+          <mxGeometry x="468.5" y="77" width="213" height="93" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-67" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(3)政策与环境层面因素分析&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="466" y="80" width="222" height="40" as="geometry" />
+          <mxGeometry x="466" y="60" width="222" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="789" y="80" width="230" height="120" as="geometry" />
+          <mxGeometry x="789" y="60" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-69" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;多水平模型分析&lt;/li&gt;&lt;li&gt;路径分析/结构方程模型&lt;/li&gt;&lt;li&gt;中介效应与调节效应分析&lt;/li&gt;&lt;li&gt;敏感性分析与稳健性检验&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="812.5" y="100" width="196.5" height="93" as="geometry" />
+          <mxGeometry x="812.5" y="80" width="196.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-70" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(4) 机制模型构建与验证&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="790" y="80" width="230" height="40" as="geometry" />
+          <mxGeometry x="790" y="60" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="-280.5" y="320" width="180" height="120" as="geometry" />
@@ -1094,21 +1099,21 @@
           <mxGeometry x="92" y="-51" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-110" value="&lt;b style=&quot;color: rgb(0, 153, 77); font-size: 14px;&quot;&gt;2. 宫颈癌筛查全过程风险—服务错配形成机制探索&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-270" y="49" width="1290" height="29" as="geometry" />
+          <mxGeometry x="-270" y="29" width="1290" height="29" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-111" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;产出：风险——服务错配形成机制模型、关键影响因素及作用路径&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="92" y="220" width="560" height="30" as="geometry" />
+          <mxGeometry x="92" y="200" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-112" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="200" as="sourcePoint" />
-            <mxPoint x="120" y="220" as="targetPoint" />
+            <mxPoint x="120" y="180" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="619" y="200" as="sourcePoint" />
-            <mxPoint x="619" y="220" as="targetPoint" />
+            <mxPoint x="619" y="180" as="sourcePoint" />
+            <mxPoint x="619" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-114" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;产出：风险——服务错配优化策略、资源配置方案、政策建议&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
@@ -1142,10 +1147,10 @@
           <mxGeometry x="-400" y="-144" width="80" height="71" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-121" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-436.87" y="110.63" width="153.75" height="80" as="geometry" />
+          <mxGeometry x="-436.87" y="90.63" width="153.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-122" value="&lt;div style=&quot;line-height: 19.2px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 153, 77); font-size: 14px;&quot;&gt;阶段二：&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 153, 77); font-size: 14px;&quot;&gt;机制探索&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 153, 77); font-size: 14px;&quot;&gt;(研究内容2)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-400" y="120" width="80" height="71" as="geometry" />
+          <mxGeometry x="-400" y="100" width="80" height="71" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-123" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="-433.43" y="354.19" width="146.87" height="80" as="geometry" />
@@ -1160,15 +1165,15 @@
           <mxGeometry x="-390" y="566" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-127" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-49" y="104" width="80" height="80" as="geometry" />
+          <mxGeometry x="-49" y="84" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-128" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="368.5" y="97" width="80" height="80" as="geometry" />
+          <mxGeometry x="368.5" y="77" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-129" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="143" as="sourcePoint" />
-            <mxPoint x="789" y="143" as="targetPoint" />
+            <mxPoint x="690" y="123" as="sourcePoint" />
+            <mxPoint x="789" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-130" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" target="hLanTZSCV7-hm6pJfAgh-75">
