@@ -873,10 +873,10 @@
           <mxGeometry x="-400" y="-113" width="80" height="71" as="geometry" />
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-9" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=70;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-433.75" y="102.75" width="147.5" height="80" as="geometry" />
+          <mxGeometry x="-433.75" y="115.75" width="147.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-10" value="阶段一：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;现在识别&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容1)&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-400" y="116" width="80" height="71" as="geometry" />
+          <mxGeometry x="-400" y="129" width="80" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
