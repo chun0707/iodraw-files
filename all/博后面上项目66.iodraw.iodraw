@@ -253,7 +253,7 @@
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-55" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-320" y="-210" width="1360" height="250" as="geometry" />
+          <mxGeometry x="-320" y="-210" width="1360" height="230" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -576,7 +576,7 @@
           <mxGeometry x="-270" y="-143" width="160" height="93" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-59" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0066cc&quot;&gt;1. 宫颈癌筛查全过程风险—服务错配识别(Where)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-240" y="-200" width="1084" height="29" as="geometry" />
+          <mxGeometry x="-240" y="-200" width="1180" height="29" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-1" y="-160" width="180" height="120" as="geometry" />
