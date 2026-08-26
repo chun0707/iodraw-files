@@ -651,28 +651,28 @@
           <mxGeometry x="-260" y="80" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-95" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="5" y="78" width="321" height="140" as="geometry" />
+          <mxGeometry x="38" y="78" width="321" height="140" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-96" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;资源配置&lt;/li&gt;&lt;li&gt;人员能力&lt;/li&gt;&lt;li&gt;信息系统&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="6" y="135" width="100" height="72.5" as="geometry" />
+          <mxGeometry x="39" y="127" width="100" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-97" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)机构与体系层面因素分析(SPO框架)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="13" y="78" width="270" height="40" as="geometry" />
+          <mxGeometry x="46" y="78" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-98" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;结构&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="33" y="112" width="63" height="20" as="geometry" />
+          <mxGeometry x="66" y="112" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-101" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;转诊流程&lt;/li&gt;&lt;li&gt;服务衔接&lt;/li&gt;&lt;li&gt;随访管理&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="98" y="135" width="100" height="72.5" as="geometry" />
+          <mxGeometry x="131" y="135" width="100" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-102" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;服务可及性&lt;/li&gt;&lt;li&gt;服务质量&lt;/li&gt;&lt;li&gt;管理效率&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="198" y="135" width="110" height="72.5" as="geometry" />
+          <mxGeometry x="231" y="135" width="110" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-103" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;过程&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="116.5" y="115" width="63" height="20" as="geometry" />
+          <mxGeometry x="149.5" y="115" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-104" value="&lt;font color=&quot;#0066cc&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;结果&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="239.5" y="118" width="63" height="20" as="geometry" />
+          <mxGeometry x="272.5" y="118" width="63" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-105" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="458" y="80" width="231" height="122" as="geometry" />
