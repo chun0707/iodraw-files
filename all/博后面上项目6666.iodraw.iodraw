@@ -1068,7 +1068,7 @@
           <mxGeometry x="559.5" y="530" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-102" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;高水平论文&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;学术报告&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="560" y="549.75" width="170" height="50.5" as="geometry" />
+          <mxGeometry x="561" y="549.75" width="170" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-103" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="840" y="529" width="179" height="91" as="geometry" />
@@ -1200,6 +1200,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="738.5" y="574.5" as="sourcePoint" />
             <mxPoint x="839.5" y="574.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_8FIFfHHu5moaWIOZFA_-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="574.5" as="sourcePoint" />
+            <mxPoint x="280" y="574.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
