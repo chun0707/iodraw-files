@@ -699,7 +699,7 @@
           <mxGeometry x="812.5" y="100" width="196.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-120" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(4) 机制模型构建与验证&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="800" y="80" width="220" height="40" as="geometry" />
+          <mxGeometry x="790" y="80" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-124" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-280.5" y="320" width="180" height="120" as="geometry" />
@@ -886,6 +886,12 @@
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-24" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="368.5" y="97" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="150" as="sourcePoint" />
+            <mxPoint x="770" y="100" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
