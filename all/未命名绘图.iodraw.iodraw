@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="8Zatk31VbdB2ZhSTs-Tf">
-    <mxGraphModel dx="643" dy="134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
         <mxCell id="gkNRZry_X-r_u2ofGANe-49" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据整合与治理：数据清洗、标准化、脱敏处理、关联整合，构建宫颈癌筛查全过程真实世界研究数据库&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="80" y="330" width="1300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gkNRZry_X-r_u2ofGANe-50" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;1. 宫颈癌筛查全过程风险—服务错配识别(Where)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="gkNRZry_X-r_u2ofGANe-50" value="&lt;b&gt;&lt;font color=&quot;#007fff&quot; style=&quot;font-size: 14px;&quot;&gt;1. 宫颈癌筛查全过程风险—服务错配识别(Where)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="1300" height="30" as="geometry" />
         </mxCell>
       </root>
