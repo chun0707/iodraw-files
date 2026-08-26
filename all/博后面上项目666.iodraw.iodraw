@@ -872,8 +872,8 @@
         <mxCell id="7aB-cnf8nd2ipJj8g54f-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-595" y="-195" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-550" y="-171" width="60" height="30" as="geometry" />
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-8" value="阶段一：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;现在识别&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容1)&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-560" y="-171" width="80" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
