@@ -551,6 +551,15 @@
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;理论成果&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-281" y="530" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="WzxjP2dxZcKkgMhK6RJ2-17" target="ag_QwMj9m7UgGhxaNrj7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="574" />
+              <mxPoint x="230" y="570" />
+              <mxPoint x="370" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry y="528" width="179" height="92" as="geometry" />
         </mxCell>
@@ -570,7 +579,7 @@
           <mxGeometry x="280" y="530" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-5" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;优化策略与决策工具包&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;服务路径优化方案&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="310" y="549" width="158.5" height="51" as="geometry" />
+          <mxGeometry x="310" y="549" width="130" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="559.5" y="529" width="179" height="91" as="geometry" />
