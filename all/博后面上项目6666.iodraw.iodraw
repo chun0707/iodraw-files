@@ -981,10 +981,10 @@
           <mxGeometry x="-280.5" y="320" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-72" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(1)优化目标设定&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-260.5" y="322" width="140" height="20" as="geometry" />
+          <mxGeometry x="-260.5" y="330" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-73" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;健康收益最大化&lt;/li&gt;&lt;li&gt;公平性提升&lt;/li&gt;&lt;li&gt;资源利用效率提升&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-270.5" y="348" width="157" height="88" as="geometry" />
+          <mxGeometry x="-270.5" y="343" width="157" height="88" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-74" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 128, 0); font-size: 14px;&quot;&gt;3. 宫颈癌筛查风险—服务匹配优化决策研究&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="-280" y="289" width="1300" height="30" as="geometry" />
