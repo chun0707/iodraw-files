@@ -290,10 +290,10 @@
         <mxCell id="61ROgQzcIBmcsbItj-DX-0" />
         <mxCell id="61ROgQzcIBmcsbItj-DX-1" parent="61ROgQzcIBmcsbItj-DX-0" />
         <mxCell id="61ROgQzcIBmcsbItj-DX-63" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=40;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
-          <mxGeometry x="-180" y="689" width="410" height="130" as="geometry" />
+          <mxGeometry x="-180" y="670" width="410" height="149" as="geometry" />
         </mxCell>
         <mxCell id="61ROgQzcIBmcsbItj-DX-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
-          <mxGeometry x="-180" y="570" width="830" height="70" as="geometry" />
+          <mxGeometry x="-180" y="550" width="830" height="90" as="geometry" />
         </mxCell>
         <mxCell id="keV3H6oJi7C6XIpAsby--3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="61ROgQzcIBmcsbItj-DX-1">
           <mxGeometry x="-180" y="290" width="830" height="165" as="geometry" />
@@ -507,7 +507,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="61ROgQzcIBmcsbItj-DX-62" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;风险—服务是否匹配（贯穿全过程，在每个服务节点进行匹配评价）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
-          <mxGeometry x="40" y="558" width="390" height="20" as="geometry" />
+          <mxGeometry x="41" y="555" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="61ROgQzcIBmcsbItj-DX-64" value="&lt;font face=&quot;Times New Roman&quot;&gt;高风险未获得&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
           <mxGeometry x="-132" y="779" width="60" height="40" as="geometry" />
