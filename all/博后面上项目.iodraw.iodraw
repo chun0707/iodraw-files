@@ -770,6 +770,9 @@
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;方法成果&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-120" y="565" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-0" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;CIN2+及时发现率&lt;/li&gt;&lt;li&gt;癌前病变治疗率&lt;/li&gt;&lt;li&gt;癌症发生避免数&lt;/li&gt;&lt;li&gt;癌症死亡避免数&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-100" y="592.5" width="140" height="96.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
