@@ -874,9 +874,6 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-42" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="-6" y="-164" width="186" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_8FIFfHHu5moaWIOZFA_-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-43" target="hLanTZSCV7-hm6pJfAgh-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="280" y="-191" width="179" height="120" as="geometry" />
         </mxCell>
@@ -885,8 +882,8 @@
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="459" y="-122" as="sourcePoint" />
-            <mxPoint x="559" y="-122" as="targetPoint" />
+            <mxPoint x="459" y="-130" as="sourcePoint" />
+            <mxPoint x="559" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-46" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查后服务获得情况&lt;/li&gt;&lt;li&gt;诊断、治疗、随访情况&lt;/li&gt;&lt;li&gt;服务时间及时性评价&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
@@ -1097,7 +1094,7 @@
           <mxGeometry x="92" y="-51" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-110" value="&lt;b style=&quot;color: rgb(0, 153, 77); font-size: 14px;&quot;&gt;2. 宫颈癌筛查全过程风险—服务错配形成机制探索&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="-270" y="49" width="977.5" height="29" as="geometry" />
+          <mxGeometry x="-270" y="49" width="1290" height="29" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-111" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;产出：风险——服务错配形成机制模型、关键影响因素及作用路径&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="92" y="220" width="560" height="30" as="geometry" />
