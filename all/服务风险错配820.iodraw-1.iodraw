@@ -569,7 +569,7 @@
         <mxCell id="keV3H6oJi7C6XIpAsby--0" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#004c99&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;宫颈癌筛查全过程服务环节(理论需求服务路径)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="61ROgQzcIBmcsbItj-DX-1">
           <mxGeometry x="-160" y="290" width="790" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="keV3H6oJi7C6XIpAsby--4" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;风险—服务错配类型识别&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="61ROgQzcIBmcsbItj-DX-1">
+        <mxCell id="keV3H6oJi7C6XIpAsby--4" value="&lt;font color=&quot;#ff6666&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;风险—服务错配类型识别&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="61ROgQzcIBmcsbItj-DX-1">
           <mxGeometry x="41" y="669" width="390" height="20" as="geometry" />
         </mxCell>
       </root>
