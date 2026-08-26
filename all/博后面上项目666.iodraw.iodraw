@@ -606,7 +606,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry y="-141" width="179" height="91" as="geometry" />
+          <mxGeometry y="-130" width="179" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="280" y="-160" width="179" height="120" as="geometry" />
@@ -895,6 +895,9 @@
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-21" value="&lt;div style=&quot;line-height: 19.2px;&quot;&gt;阶段二：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;机制探索&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容2)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-550" y="200" width="80" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-22" value="阶段一：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;现在识别&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容1)&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-570" y="-131" width="80" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
