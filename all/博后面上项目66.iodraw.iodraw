@@ -588,13 +588,13 @@
           <mxGeometry y="-141" width="170" height="91" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="280" y="-161" width="180" height="120" as="geometry" />
+          <mxGeometry x="270" y="-161" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-71" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(3) 实际服务获得评估&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="280" y="-156" width="180" height="20" as="geometry" />
+          <mxGeometry x="270" y="-156" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-72" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查后服务获得情况&lt;/li&gt;&lt;li&gt;诊断、治疗、随访情况&lt;/li&gt;&lt;li&gt;服务时间及时性评价&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="280" y="-133" width="170" height="82" as="geometry" />
+          <mxGeometry x="270" y="-133" width="170" height="82" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="600" y="-161" width="180" height="121" as="geometry" />
@@ -791,7 +791,7 @@
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-300" y="-380" width="1340" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ag_QwMj9m7UgGhxaNrj7-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" target="2XQ-aQmXoGda7gQh7Cl_-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-90" y="-100" as="sourcePoint" />
             <mxPoint x="-40" y="-150" as="targetPoint" />
