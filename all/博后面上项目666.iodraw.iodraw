@@ -774,22 +774,22 @@
           <mxGeometry x="158.5" y="565" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="340" y="521" width="179" height="120" as="geometry" />
+          <mxGeometry x="514.5" y="520" width="179" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;学术成果&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="340" y="522" width="180" height="30" as="geometry" />
+          <mxGeometry x="514.5" y="521" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-8" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;高水平论文&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;学术报告&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="358.5" y="566" width="140" height="51" as="geometry" />
+          <mxGeometry x="533" y="565" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="839" y="520" width="179" height="120" as="geometry" />
+          <mxGeometry x="840" y="520" width="179" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;政策与实践成果&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="839" y="521" width="180" height="30" as="geometry" />
+          <mxGeometry x="840" y="521" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-11" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;政策咨询报告&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;服务管理建议&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;成果推广应用&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="857.5" y="565" width="140" height="51" as="geometry" />
+          <mxGeometry x="858.5" y="565" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-12" value="阶段一：&lt;div style=&quot;line-height: 160%;&quot;&gt;现在识别&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;(研究内容1)&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-560" y="-400" width="80" height="80" as="geometry" />
