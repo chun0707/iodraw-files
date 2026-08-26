@@ -800,6 +800,9 @@
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-16" value="阶段三：&lt;div style=&quot;line-height: 160%;&quot;&gt;优化决策&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;(研究内容3)&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-440" y="319" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-17" value="研究产出&lt;br&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-493" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-300" y="-380" width="1340" height="140" as="geometry" />
         </mxCell>
