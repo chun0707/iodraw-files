@@ -582,7 +582,7 @@
           <mxGeometry x="559.5" y="530" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-8" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;高水平论文&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;学术报告&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="560" y="549.5" width="140" height="51" as="geometry" />
+          <mxGeometry x="520" y="549.5" width="210" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="840" y="529" width="179" height="91" as="geometry" />
