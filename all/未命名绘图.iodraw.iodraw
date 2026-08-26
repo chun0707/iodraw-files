@@ -94,7 +94,7 @@
         <mxCell id="gkNRZry_X-r_u2ofGANe-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#808080;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="219" width="1320" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="gkNRZry_X-r_u2ofGANe-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gkNRZry_X-r_u2ofGANe-48" value="数据来源与研究基础" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="180" width="1300" height="30" as="geometry" />
         </mxCell>
       </root>
