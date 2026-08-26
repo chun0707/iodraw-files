@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图" id="BXiYKpBzRUiIQyvqt-97">
-    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
@@ -884,10 +884,10 @@
         <mxCell id="7aB-cnf8nd2ipJj8g54f-14" value="&lt;div style=&quot;line-height: 19.2px;&quot;&gt;阶段三：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;优化决策&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容3)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-400" y="367" width="80" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20.24;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20.24;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-411.46" y="550.11" width="102.92" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-19" value="研究产出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-390" y="573" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
