@@ -584,6 +584,9 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-66" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 规范服务需求确定&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-1" y="-155" width="180" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-67" target="2XQ-aQmXoGda7gQh7Cl_-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="9" y="-141" width="170" height="91" as="geometry" />
         </mxCell>
@@ -791,9 +794,9 @@
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-300" y="-380" width="1340" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ag_QwMj9m7UgGhxaNrj7-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.051;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-58" target="2XQ-aQmXoGda7gQh7Cl_-65">
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-56" target="2XQ-aQmXoGda7gQh7Cl_-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-90" y="-100" as="sourcePoint" />
+            <mxPoint x="-80" y="-100" as="sourcePoint" />
             <mxPoint x="-40" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
