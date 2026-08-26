@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图" id="BXiYKpBzRUiIQyvqt-97">
-    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
@@ -865,6 +865,9 @@
             <mxPoint x="369" y="500" as="sourcePoint" />
             <mxPoint x="369" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-5" value="研究阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-440" y="-380" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
