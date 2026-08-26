@@ -582,13 +582,13 @@
           <mxGeometry x="-265" y="-230" width="1070" height="29" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-10" y="-166" width="180" height="121" as="geometry" />
+          <mxGeometry x="-10" y="-160" width="180" height="121" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-66" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 规范服务需求确定&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-10" y="-161" width="180" height="20" as="geometry" />
+          <mxGeometry x="-10" y="-155" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry y="-147" width="170" height="93" as="geometry" />
+          <mxGeometry y="-141" width="170" height="91" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="280" y="-161" width="180" height="120" as="geometry" />
