@@ -285,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="服务—风险错配2" id="mOmKmK0gT2uLWb3cq_Ni">
-    <mxGraphModel dx="1399" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="61ROgQzcIBmcsbItj-DX-0" />
         <mxCell id="61ROgQzcIBmcsbItj-DX-1" parent="61ROgQzcIBmcsbItj-DX-0" />
@@ -570,7 +570,7 @@
           <mxGeometry x="-160" y="290" width="790" height="20" as="geometry" />
         </mxCell>
         <mxCell id="keV3H6oJi7C6XIpAsby--4" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;风险—服务是否匹配（贯穿全过程，在每个服务节点进行匹配评价）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="61ROgQzcIBmcsbItj-DX-1">
-          <mxGeometry x="54" y="669" width="390" height="20" as="geometry" />
+          <mxGeometry x="41" y="669" width="390" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
