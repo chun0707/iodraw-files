@@ -252,6 +252,9 @@
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
+          <mxGeometry x="-350" y="360" width="1030" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=60;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-300" y="40" width="1340" height="220" as="geometry" />
         </mxCell>
@@ -691,9 +694,6 @@
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-120" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(4) 机制模型构建与验证&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="778" y="80" width="242" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-123" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-350" y="360" width="101" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-124" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-320" y="400" width="180" height="120" as="geometry" />
