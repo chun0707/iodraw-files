@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图" id="BXiYKpBzRUiIQyvqt-97">
-    <mxGraphModel dx="1159" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
@@ -863,7 +863,7 @@
             <mxPoint x="369" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-5" value="研究阶段" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-5" value="&lt;b&gt;研究阶段&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-400" y="-380" width="80" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=70;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
@@ -895,9 +895,6 @@
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-21" value="&lt;div style=&quot;line-height: 19.2px;&quot;&gt;阶段二：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;机制探索&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容2)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-550" y="200" width="80" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-22" value="阶段一：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;现在识别&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容1)&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-570" y="-131" width="80" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
