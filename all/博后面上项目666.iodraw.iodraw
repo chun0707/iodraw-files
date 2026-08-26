@@ -870,7 +870,7 @@
           <mxGeometry x="-400" y="-380" width="80" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-590" y="-115" width="100" height="60" as="geometry" />
+          <mxGeometry x="-590" y="-115" width="120" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
