@@ -845,8 +845,8 @@
             <mxPoint x="600" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ag_QwMj9m7UgGhxaNrj7-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;产出：风险——服务错配优化策略、资源配置方案、政策建议&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="226.5" y="585" width="560" height="30" as="geometry" />
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;产出：风险——服务错配优化策略、资源配置方案、政策建议&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-33.5" y="540" width="560" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
