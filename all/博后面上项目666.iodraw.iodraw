@@ -801,7 +801,7 @@
           <mxGeometry x="-590" y="319" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-17" value="研究产出&lt;br&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-440" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="-590" y="493" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-56" target="2XQ-aQmXoGda7gQh7Cl_-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -878,11 +878,17 @@
         <mxCell id="7aB-cnf8nd2ipJj8g54f-10" value="&lt;div style=&quot;line-height: 19.2px;&quot;&gt;阶段二：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;机制探索&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容2)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-400" y="120" width="80" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#d5e8d4;strokeColor=#82b366;opacity=70;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-433.43" y="354.19" width="146.87" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-14" value="&lt;div style=&quot;line-height: 19.2px;&quot;&gt;阶段三：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;优化决策&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容3)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-400" y="367" width="80" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-15" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-423.43" y="364.19" width="146.87" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-16" value="&lt;div style=&quot;line-height: 19.2px;&quot;&gt;阶段三：&lt;div style=&quot;line-height: 19.2px;&quot;&gt;优化决策&lt;/div&gt;&lt;div style=&quot;line-height: 19.2px;&quot;&gt;(研究内容3)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-390" y="448" width="80" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
