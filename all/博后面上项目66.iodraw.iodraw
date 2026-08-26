@@ -248,7 +248,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图" id="BXiYKpBzRUiIQyvqt-97">
-    <mxGraphModel dx="1971" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
@@ -596,7 +596,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-41" y="-141" width="171" height="93" as="geometry" />
+          <mxGeometry x="-41" y="-141" width="181" height="93" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-70" target="2XQ-aQmXoGda7gQh7Cl_-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
