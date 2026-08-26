@@ -752,6 +752,9 @@
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-11" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;优先人群识别&lt;/li&gt;&lt;li&gt;优先环节筛选&lt;/li&gt;&lt;li&gt;资源配置决策建议&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="840" y="342" width="167" height="88" as="geometry" />
         </mxCell>
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="WzxjP2dxZcKkgMhK6RJ2-14" target="WzxjP2dxZcKkgMhK6RJ2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-281" y="529" width="179" height="91" as="geometry" />
         </mxCell>
@@ -762,7 +765,7 @@
           <mxGeometry y="528" width="179" height="92" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;方法成果&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry y="529" width="180" height="30" as="geometry" />
+          <mxGeometry x="20" y="529" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-1" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;风险—服务错配形成机制模型优化决策理论框架&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-261" y="560" width="140" height="51" as="geometry" />
@@ -879,10 +882,10 @@
           <mxGeometry x="-400" y="367" width="80" height="71" as="geometry" />
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=20.24;rotation=90;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-405.73" y="536.38" width="91.46" height="80" as="geometry" />
+          <mxGeometry x="-405.73" y="537.38" width="91.46" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-19" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#9933ff&quot;&gt;研究产出&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-390" y="565" width="60" height="30" as="geometry" />
+          <mxGeometry x="-390" y="566" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-23" value="" style="shape=cross;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-49" y="104" width="80" height="80" as="geometry" />
