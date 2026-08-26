@@ -792,13 +792,13 @@
           <mxGeometry x="578" y="551" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="840" y="529" width="179" height="120" as="geometry" />
+          <mxGeometry x="840" y="529" width="179" height="91" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;政策与实践成果&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="840" y="530" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-11" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;政策咨询报告&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;服务管理建议&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;成果推广应用&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="858.5" y="574" width="140" height="51" as="geometry" />
+          <mxGeometry x="858.5" y="555" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="2XQ-aQmXoGda7gQh7Cl_-56" target="2XQ-aQmXoGda7gQh7Cl_-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -923,7 +923,7 @@
             <mxPoint x="230" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7aB-cnf8nd2ipJj8g54f-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.019;entryY=1.286;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" target="ag_QwMj9m7UgGhxaNrj7-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="580" as="sourcePoint" />
             <mxPoint x="510" y="530" as="targetPoint" />
