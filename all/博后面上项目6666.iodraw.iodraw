@@ -861,8 +861,9 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-40" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 规范服务需求确定&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="-1" y="-183" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-42">
+        <mxCell id="hLanTZSCV7-hm6pJfAgh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="-126" as="sourcePoint" />
             <mxPoint x="280" y="-126" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="-126" />
@@ -886,7 +887,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-46" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查后服务获得情况&lt;/li&gt;&lt;li&gt;诊断、治疗、随访情况&lt;/li&gt;&lt;li&gt;服务时间及时性评价&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
-          <mxGeometry x="282" y="-163" width="169" height="82" as="geometry" />
+          <mxGeometry x="281" y="-168" width="169" height="82" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-48">
           <mxGeometry relative="1" as="geometry">
