@@ -22,7 +22,7 @@
         </mxCell>
         <mxCell id="gkNRZry_X-r_u2ofGANe-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gkNRZry_X-r_u2ofGANe-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="840" y="320" as="targetPoint" />
+            <mxPoint x="840" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gkNRZry_X-r_u2ofGANe-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
