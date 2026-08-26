@@ -252,6 +252,9 @@
       <root>
         <mxCell id="enP2agFuTgK77bLe584v-0" />
         <mxCell id="enP2agFuTgK77bLe584v-1" parent="enP2agFuTgK77bLe584v-0" />
+        <mxCell id="WzxjP2dxZcKkgMhK6RJ2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
+          <mxGeometry x="-297.5" y="520" width="1337.5" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="7aB-cnf8nd2ipJj8g54f-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-301" y="289" width="1341" height="210" as="geometry" />
         </mxCell>
@@ -742,9 +745,6 @@
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-11" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;优先人群识别&lt;/li&gt;&lt;li&gt;优先环节筛选&lt;/li&gt;&lt;li&gt;资源配置决策建议&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="840" y="342" width="167" height="88" as="geometry" />
-        </mxCell>
-        <mxCell id="WzxjP2dxZcKkgMhK6RJ2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-297.5" y="520" width="110" height="121" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-281" y="529" width="179" height="120" as="geometry" />
