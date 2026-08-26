@@ -594,7 +594,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-67" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="9" y="-141" width="170" height="91" as="geometry" />
+          <mxGeometry y="-141" width="179" height="91" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="280" y="-160" width="179" height="120" as="geometry" />
@@ -639,7 +639,7 @@
           <mxGeometry x="844" y="-134" width="170" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-86" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-400" y="78" width="110" height="122" as="geometry" />
+          <mxGeometry x="-400" y="78" width="80" height="122" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-87" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-270" y="78" width="230" height="120" as="geometry" />
