@@ -863,16 +863,19 @@
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="-128" as="sourcePoint" />
-            <mxPoint x="280" y="-128" as="targetPoint" />
+            <mxPoint x="180" y="-127" as="sourcePoint" />
+            <mxPoint x="280" y="-127" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="-128" />
-              <mxPoint x="260" y="-128" />
+              <mxPoint x="260" y="-127" />
+              <mxPoint x="260" y="-127" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-42" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;基于指南确定服务路径&lt;/li&gt;&lt;li&gt;不同风险等级的需求强度&lt;/li&gt;&lt;li&gt;服务强度量化&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="-6" y="-164" width="186" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_8FIFfHHu5moaWIOZFA_-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-43" target="hLanTZSCV7-hm6pJfAgh-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" vertex="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry x="280" y="-191" width="179" height="120" as="geometry" />
