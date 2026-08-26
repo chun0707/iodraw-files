@@ -731,6 +731,9 @@
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-5" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;决策分析框架(DCP)&lt;/li&gt;&lt;li&gt;成本—效果/效用分析&lt;/li&gt;&lt;li&gt;模拟模型构建(Markov/微观模拟)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="286.5" y="342" width="157" height="88" as="geometry" />
         </mxCell>
+        <mxCell id="7aB-cnf8nd2ipJj8g54f-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="WzxjP2dxZcKkgMhK6RJ2-6" target="WzxjP2dxZcKkgMhK6RJ2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="560" y="320" width="180" height="120" as="geometry" />
         </mxCell>
