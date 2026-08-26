@@ -350,7 +350,7 @@
         <mxCell id="61ROgQzcIBmcsbItj-DX-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
           <mxGeometry x="250" y="310" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="61ROgQzcIBmcsbItj-DX-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;阴道镜结果后判断是否需要病理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
+        <mxCell id="61ROgQzcIBmcsbItj-DX-19" value="&lt;font face=&quot;Times New Roman&quot;&gt;组织病理检测&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;明确病变性质&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
           <mxGeometry x="260" y="388" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="61ROgQzcIBmcsbItj-DX-20" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;4. 病理诊断&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
@@ -364,7 +364,7 @@
         <mxCell id="61ROgQzcIBmcsbItj-DX-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
           <mxGeometry x="390" y="310" width="110" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="61ROgQzcIBmcsbItj-DX-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;病理结果后判断是否需要治疗&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
+        <mxCell id="61ROgQzcIBmcsbItj-DX-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;依据病理结果&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;制定并实施治疗&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
           <mxGeometry x="400" y="388" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="61ROgQzcIBmcsbItj-DX-24" value="&lt;font color=&quot;#004c99&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;5. 治疗&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="61ROgQzcIBmcsbItj-DX-1" vertex="1">
