@@ -693,57 +693,57 @@
           <mxGeometry x="778" y="80" width="242" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-124" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-320" y="400" width="180" height="120" as="geometry" />
+          <mxGeometry x="-319" y="400" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-125" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(1)优化目标设定&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-300" y="402" width="140" height="20" as="geometry" />
+          <mxGeometry x="-299" y="402" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-126" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;健康收益最大化&lt;/li&gt;&lt;li&gt;公平性提升&lt;/li&gt;&lt;li&gt;资源利用效率提升&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-310" y="422" width="157" height="88" as="geometry" />
+          <mxGeometry x="-309" y="422" width="157" height="88" as="geometry" />
         </mxCell>
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-127" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 128, 0); font-size: 14px;&quot;&gt;3. 宫颈癌筛查风险—服务匹配优化决策研究&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-128" y="270" width="328" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-120" y="400" width="180" height="120" as="geometry" />
+          <mxGeometry x="-119" y="400" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-1" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)决策问题构建&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-100" y="402" width="140" height="20" as="geometry" />
+          <mxGeometry x="-99" y="402" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-2" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;关键干预环节确定&lt;/li&gt;&lt;li&gt;候选干预策略设计&lt;/li&gt;&lt;li&gt;资源约束条件设定&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-110" y="422" width="157" height="88" as="geometry" />
+          <mxGeometry x="-109" y="422" width="157" height="88" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="80" y="400" width="180" height="120" as="geometry" />
+          <mxGeometry x="81" y="400" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-4" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(3)决策模型构建&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="100" y="402" width="140" height="20" as="geometry" />
+          <mxGeometry x="101" y="402" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-5" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;决策分析框架(DCP)&lt;/li&gt;&lt;li&gt;成本—效果/效用分析&lt;/li&gt;&lt;li&gt;模拟模型构建(Markov/微观模拟)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="90" y="422" width="157" height="88" as="geometry" />
+          <mxGeometry x="91" y="422" width="157" height="88" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1" source="WzxjP2dxZcKkgMhK6RJ2-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="540" as="targetPoint" />
+            <mxPoint x="371" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="280" y="400" width="180" height="120" as="geometry" />
+          <mxGeometry x="281" y="400" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-7" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(4)情景模拟与比较评价&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="300" y="402" width="150" height="20" as="geometry" />
+          <mxGeometry x="301" y="402" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-8" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;不同干预策略情景设定&lt;/li&gt;&lt;li&gt;健康效益、成本、ICER比较&lt;/li&gt;&lt;li&gt;公平性与可行性评估&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="280" y="422" width="167" height="88" as="geometry" />
+          <mxGeometry x="281" y="422" width="167" height="88" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-9" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="479" y="400" width="180" height="120" as="geometry" />
+          <mxGeometry x="480" y="400" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-10" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(4)情景模拟与比较评价&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="499" y="402" width="150" height="20" as="geometry" />
+          <mxGeometry x="500" y="402" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-11" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;优先人群识别&lt;/li&gt;&lt;li&gt;优先环节筛选&lt;/li&gt;&lt;li&gt;资源配置决策建议&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="479" y="422" width="167" height="88" as="geometry" />
+          <mxGeometry x="480" y="422" width="167" height="88" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-440" y="639" width="110" height="121" as="geometry" />
@@ -848,12 +848,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;产出：风险——服务错配优化策略、资源配置方案、政策建议&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="-113" y="540" width="560" height="30" as="geometry" />
+          <mxGeometry x="-112" y="540" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-80" y="520" as="sourcePoint" />
-            <mxPoint x="-80" y="540" as="targetPoint" />
+            <mxPoint x="-79" y="520" as="sourcePoint" />
+            <mxPoint x="-79" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
