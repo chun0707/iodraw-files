@@ -800,7 +800,7 @@
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-11" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;政策咨询报告&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;服务管理建议&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;成果推广应用&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="538.5" y="604" width="140" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="ag_QwMj9m7UgGhxaNrj7-12" value="阶段一：&lt;div&gt;现在识别&lt;/div&gt;&lt;div&gt;(研究内容1)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-12" value="阶段一：&lt;div style=&quot;line-height: 160%;&quot;&gt;现在识别&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;(研究内容1)&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-640" y="-400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
