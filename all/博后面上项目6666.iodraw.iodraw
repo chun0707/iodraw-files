@@ -573,7 +573,7 @@
           <mxGeometry x="280" y="530" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-5" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;优化策略与决策工具包&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;服务路径优化方案&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
-          <mxGeometry x="298.5" y="556" width="140" height="51" as="geometry" />
+          <mxGeometry x="280" y="549" width="188.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#CC99FF;fillColor=default;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="559.5" y="529" width="179" height="91" as="geometry" />
