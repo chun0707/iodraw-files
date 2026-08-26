@@ -704,8 +704,8 @@
         <mxCell id="2XQ-aQmXoGda7gQh7Cl_-126" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;健康收益最大化&lt;/li&gt;&lt;li&gt;公平性提升&lt;/li&gt;&lt;li&gt;资源利用效率提升&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-310" y="422" width="157" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-127" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3. 宫颈癌筛查风险—服务匹配优化决策研究(How)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
-          <mxGeometry x="-241.5" y="300" width="328" height="40" as="geometry" />
+        <mxCell id="2XQ-aQmXoGda7gQh7Cl_-127" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 128, 0); font-size: 14px;&quot;&gt;3. 宫颈癌筛查风险—服务匹配优化决策研究&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
+          <mxGeometry x="-241.5" y="300" width="328" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WzxjP2dxZcKkgMhK6RJ2-0" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="enP2agFuTgK77bLe584v-1" vertex="1">
           <mxGeometry x="-120" y="400" width="180" height="120" as="geometry" />
