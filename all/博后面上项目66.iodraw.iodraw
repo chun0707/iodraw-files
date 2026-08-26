@@ -806,6 +806,9 @@
         <mxCell id="ag_QwMj9m7UgGhxaNrj7-13" value="阶段二：&lt;div style=&quot;line-height: 160%;&quot;&gt;机制探索&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;(研究内容2)&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
           <mxGeometry x="-560" y="-240" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ag_QwMj9m7UgGhxaNrj7-14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="enP2agFuTgK77bLe584v-1">
+          <mxGeometry x="-620" y="-121" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
