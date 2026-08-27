@@ -1004,7 +1004,7 @@
           <mxGeometry x="840" y="288" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-87" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;优先人群、优先环节&lt;/li&gt;&lt;li&gt;关键机制、可调节因素&lt;/li&gt;&lt;li&gt;预期改善、资源需求&lt;/li&gt;&lt;li&gt;风险—服务匹配优化决策&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="870" y="360" width="189" height="108" as="geometry" />
+          <mxGeometry x="880" y="360" width="179" height="108" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#666666;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-89" target="hLanTZSCV7-hm6pJfAgh-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1185,8 +1185,8 @@
         </mxCell>
         <mxCell id="jkEi6brMZJzyAeW-ouhr-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="351" as="sourcePoint" />
-            <mxPoint x="570" y="351" as="targetPoint" />
+            <mxPoint x="739.5" y="340.5" as="sourcePoint" />
+            <mxPoint x="839.5" y="340.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
