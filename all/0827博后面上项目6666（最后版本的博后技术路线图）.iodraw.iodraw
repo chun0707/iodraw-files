@@ -986,7 +986,7 @@
           <mxGeometry x="330" y="288" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-80" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;提高服务获得&lt;/li&gt;&lt;li&gt;缩短服务间隔&lt;/li&gt;&lt;li&gt;减少非必要服务&lt;/li&gt;&lt;li&gt;提高路径连续性&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="330" y="302.19" width="157" height="93" as="geometry" />
+          <mxGeometry x="279" y="297.5" width="157" height="93" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-82" target="hLanTZSCV7-hm6pJfAgh-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1182,8 +1182,8 @@
         </mxCell>
         <mxCell id="YANOAGdQ3-OKSE45exUV-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180.5" y="346.69" as="sourcePoint" />
-            <mxPoint x="279.5" y="346.69" as="targetPoint" />
+            <mxPoint x="179.5" y="338.69" as="sourcePoint" />
+            <mxPoint x="278.5" y="338.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
