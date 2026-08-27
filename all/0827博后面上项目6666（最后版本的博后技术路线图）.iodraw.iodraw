@@ -951,7 +951,7 @@
           <mxGeometry x="50" y="81" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-61" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;转诊流程&lt;/li&gt;&lt;li&gt;服务衔接&lt;/li&gt;&lt;li&gt;随访管理&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="131" y="100" width="100" height="65.5" as="geometry" />
+          <mxGeometry x="131" y="100" width="109" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-62" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;服务可及性&lt;/li&gt;&lt;li&gt;服务质量&lt;/li&gt;&lt;li&gt;管理效率&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="233" y="93" width="110" height="72.5" as="geometry" />
