@@ -994,14 +994,6 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-83" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(4)构建资源约束模拟模型&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="561" y="292" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jkEi6brMZJzyAeW-ouhr-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-84" target="hLanTZSCV7-hm6pJfAgh-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="786" y="348" />
-              <mxPoint x="786" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-84" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;现行服务情景模式&lt;/li&gt;&lt;li&gt;连续性服务强化情景模式&lt;/li&gt;&lt;li&gt;风险—服务匹配情景优化情景模式&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="551.5" y="302.19" width="180" height="92" as="geometry" />
         </mxCell>
@@ -1189,6 +1181,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="179.5" y="338.69" as="sourcePoint" />
             <mxPoint x="278.5" y="338.69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkEi6brMZJzyAeW-ouhr-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="351" as="sourcePoint" />
+            <mxPoint x="570" y="351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
