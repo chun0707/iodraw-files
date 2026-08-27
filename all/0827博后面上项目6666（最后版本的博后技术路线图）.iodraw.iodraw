@@ -1485,7 +1485,7 @@
             <mxPoint x="900.5" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LryjRIioZ3HfxdW1tb4U-19" value="&lt;b&gt;政策环境层(政策工具与制度环境)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XMHnJMyTR5Z0R-01F5cL-1" vertex="1">
+        <mxCell id="LryjRIioZ3HfxdW1tb4U-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;政策环境层(政策工具与制度环境)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XMHnJMyTR5Z0R-01F5cL-1" vertex="1">
           <mxGeometry x="280" y="508" width="280" height="31" as="geometry" />
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-35" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#808080;" parent="XMHnJMyTR5Z0R-01F5cL-1" edge="1">
