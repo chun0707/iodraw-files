@@ -896,7 +896,7 @@
             <mxPoint x="559" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-46" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查后服务获得情况&lt;/li&gt;&lt;li&gt;诊断、治疗、随访情况&lt;/li&gt;&lt;li&gt;服务时间及时性评价&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
+        <mxCell id="hLanTZSCV7-hm6pJfAgh-46" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查后服务获得情况&lt;/li&gt;&lt;li&gt;诊断、治疗、随访情况&lt;/li&gt;&lt;li&gt;&lt;b&gt;服务延迟错配型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="277.5" y="-172.25" width="169" height="82.25" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-48" edge="1">
