@@ -888,9 +888,9 @@
           <mxGeometry x="102" y="736.81" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="57bNTbMPpx-uMseqJ24Q-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;低风险重复不必要检查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="86.5" y="779" width="72.5" height="40" as="geometry" />
+          <mxGeometry x="70" y="779" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nmyAp7MQK_vgdaUCAUIs-8" value="&lt;font color=&quot;#ff6666&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务过度型错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
+        <mxCell id="nmyAp7MQK_vgdaUCAUIs-8" value="&lt;font color=&quot;#ff6666&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务过度&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;型错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
           <mxGeometry x="69.33000000000001" y="687.81" width="112" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-9" value="不需要或风险低&lt;div&gt;但接受了过度服务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
