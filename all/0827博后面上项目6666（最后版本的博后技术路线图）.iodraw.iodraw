@@ -992,7 +992,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-82" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="560" y="284" width="180" height="120" as="geometry" />
+          <mxGeometry x="560" y="284" width="180" height="116" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-83" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(4)构建资源约束模拟模型&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="561" y="292" width="180" height="20" as="geometry" />
