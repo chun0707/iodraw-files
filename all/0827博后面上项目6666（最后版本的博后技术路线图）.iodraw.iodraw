@@ -995,7 +995,12 @@
           <mxGeometry x="561" y="292" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jkEi6brMZJzyAeW-ouhr-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-84" target="hLanTZSCV7-hm6pJfAgh-85">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="786" y="348" />
+              <mxPoint x="786" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-84" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;现行服务情景模式&lt;/li&gt;&lt;li&gt;连续性服务强化情景模式&lt;/li&gt;&lt;li&gt;风险—服务匹配情景优化情景模式&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="551.5" y="302.19" width="180" height="92" as="geometry" />
