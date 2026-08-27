@@ -976,9 +976,6 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-76" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)识别优先事项&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry y="288" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YANOAGdQ3-OKSE45exUV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-77" target="hLanTZSCV7-hm6pJfAgh-78">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-77" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;多准则决策分析综合评价&lt;/li&gt;&lt;li&gt;优先指数/优先等级&lt;/li&gt;&lt;li&gt;识别优先人群、节点、地区&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-15" y="297.87999999999994" width="190" height="93.41" as="geometry" />
         </mxCell>
@@ -1185,8 +1182,8 @@
         </mxCell>
         <mxCell id="YANOAGdQ3-OKSE45exUV-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hLanTZSCV7-hm6pJfAgh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180.5" y="354.69" as="sourcePoint" />
-            <mxPoint x="279.5" y="354.69" as="targetPoint" />
+            <mxPoint x="180.5" y="346.69" as="sourcePoint" />
+            <mxPoint x="279.5" y="346.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
