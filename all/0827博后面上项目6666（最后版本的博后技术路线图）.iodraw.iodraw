@@ -992,7 +992,7 @@
           <mxGeometry x="560" y="284" width="180" height="116" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-83" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(4)构建资源约束模拟模型&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="561" y="292" width="180" height="20" as="geometry" />
+          <mxGeometry x="561" y="293" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-84" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;现行服务情景模式&lt;/li&gt;&lt;li&gt;连续性服务强化情景模式&lt;/li&gt;&lt;li&gt;风险—服务匹配情景优化情景模式&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="551.5" y="304.19" width="180" height="92" as="geometry" />
@@ -1001,7 +1001,7 @@
           <mxGeometry x="840" y="281" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-86" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(5)优化决策&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="840" y="288" width="180" height="20" as="geometry" />
+          <mxGeometry x="840" y="289" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-87" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;优先人群、优先环节&lt;/li&gt;&lt;li&gt;关键机制、可调节因素&lt;/li&gt;&lt;li&gt;预期改善、资源需求&lt;/li&gt;&lt;li&gt;风险—服务匹配优化决策&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="835.5" y="297.88" width="179" height="108" as="geometry" />
