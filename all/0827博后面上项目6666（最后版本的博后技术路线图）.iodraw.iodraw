@@ -859,8 +859,8 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-36" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(1) 风险—需求动态评估&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-270" y="-183" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-37" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;HPV分型风险分层&lt;/li&gt;&lt;li&gt;细胞学异常分级&lt;/li&gt;&lt;li&gt;组合风险模型构建&lt;/li&gt;&lt;li&gt;个体风险水平划分&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="-270" y="-160" width="160" height="79" as="geometry" />
+        <mxCell id="hLanTZSCV7-hm6pJfAgh-37" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;异常事件为风险更新节点&lt;/li&gt;&lt;li&gt;动态判断个体疾病风险状态&lt;/li&gt;&lt;li&gt;现行筛查指南映射服务需求&lt;/li&gt;&lt;li&gt;推荐时间窗口、服务频率等&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
+          <mxGeometry x="-300" y="-172.25" width="190" height="96.5" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-38" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0066cc&quot;&gt;1. 宫颈癌筛查全过程风险—服务错配识别&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-240" y="-222" width="1220" height="29" as="geometry" />
@@ -868,7 +868,7 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-1" y="-191" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-40" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 多维匹配&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
+        <mxCell id="hLanTZSCV7-hm6pJfAgh-40" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 服务获得错配&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-1" y="-183" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hLanTZSCV7-hm6pJfAgh-1" edge="1">
