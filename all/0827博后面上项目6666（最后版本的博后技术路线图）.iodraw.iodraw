@@ -1023,7 +1023,7 @@
           <mxGeometry x="560" y="289" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-84" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;不同干预策略情景设定&lt;/li&gt;&lt;li&gt;健康效益、成本、ICER比较&lt;/li&gt;&lt;li&gt;公平性与可行性评估&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="570" y="315" width="160" height="70" as="geometry" />
+          <mxGeometry x="560" y="308" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-85" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="840" y="281" width="180" height="120" as="geometry" />
