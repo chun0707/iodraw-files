@@ -1023,12 +1023,12 @@
           <mxGeometry x="580" y="289" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-84" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;不同干预策略情景设定&lt;/li&gt;&lt;li&gt;健康效益、成本、ICER比较&lt;/li&gt;&lt;li&gt;公平性与可行性评估&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="550" y="303" width="200" height="88" as="geometry" />
+          <mxGeometry x="550" y="303" width="180" height="88" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-85" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="840" y="281" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-86" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(5)情景模拟与比较评价&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
+        <mxCell id="hLanTZSCV7-hm6pJfAgh-86" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(5)优化决策&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="856" y="288" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-87" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;优先人群识别&lt;/li&gt;&lt;li&gt;优先环节筛选&lt;/li&gt;&lt;li&gt;资源配置决策建议&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
