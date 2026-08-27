@@ -896,7 +896,7 @@
           <mxGeometry x="840" y="-191" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-52" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(5) 服务路径错配&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="839" y="-182" width="180" height="20" as="geometry" />
+          <mxGeometry x="840" y="-182" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-53" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;实际纵向服务轨迹&lt;/li&gt;&lt;li&gt;节点缺失、顺序偏离&lt;/li&gt;&lt;li&gt;非规范跳转、中断等&lt;/li&gt;&lt;li&gt;&lt;b&gt;路径偏离/中断&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="840" y="-172.5" width="160" height="93" as="geometry" />
@@ -961,7 +961,7 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-280.5" y="281" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-72" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(1) 构建多维优先评价体系&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
+        <mxCell id="hLanTZSCV7-hm6pJfAgh-72" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(1) 构建多维优先体系&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-280" y="290" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-73" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;健康需要、错配程度&lt;/li&gt;&lt;li&gt;改善潜力、资源需求&lt;/li&gt;&lt;li&gt;公平性、实施可行性&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
