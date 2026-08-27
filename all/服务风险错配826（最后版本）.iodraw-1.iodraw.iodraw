@@ -873,7 +873,7 @@
           <mxGeometry x="800" y="535.5" width="200" height="139" as="geometry" />
         </mxCell>
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF3333;opacity=40;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="39" y="680" width="191" height="139" as="geometry" />
+          <mxGeometry x="39" y="680" width="201" height="139" as="geometry" />
         </mxCell>
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=40;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
           <mxGeometry x="250" y="679" width="190" height="139" as="geometry" />
@@ -891,10 +891,10 @@
           <mxGeometry x="70" y="795" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-8" value="&lt;font color=&quot;#ff6666&quot; face=&quot;Times New Roman&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务过度&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;型错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="69.33000000000001" y="687.81" width="112" height="20" as="geometry" />
+          <mxGeometry x="69.33" y="687.81" width="150.67" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-9" value="不需要或风险低&lt;div style=&quot;line-height: 140%;&quot;&gt;但接受了过度服务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="64" y="709.81" width="116" height="30" as="geometry" />
+          <mxGeometry x="64" y="709.81" width="146" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
