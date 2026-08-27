@@ -896,8 +896,8 @@
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-8" value="&lt;font color=&quot;#ff6666&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务过度型错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
           <mxGeometry x="69.33000000000001" y="688.81" width="112" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nmyAp7MQK_vgdaUCAUIs-9" value="需要但未获得/&lt;div style=&quot;line-height: 130%;&quot;&gt;延迟/中断服务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="-105" y="718.81" width="116" height="30" as="geometry" />
+        <mxCell id="nmyAp7MQK_vgdaUCAUIs-9" value="不需要或风险低但接受了过度服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
+          <mxGeometry x="62" y="706.81" width="116" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
