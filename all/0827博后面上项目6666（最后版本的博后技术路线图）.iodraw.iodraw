@@ -1010,8 +1010,8 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-79" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(3)建立映射，形成优化策略&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="279" y="291" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-80" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;决策分析框架(DCP)&lt;/li&gt;&lt;li&gt;成本—效果/效用分析&lt;/li&gt;&lt;li&gt;模拟模型构建(Markov/微观模拟)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="286.5" y="314" width="157" height="76" as="geometry" />
+        <mxCell id="hLanTZSCV7-hm6pJfAgh-80" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;提高服务获得&lt;/li&gt;&lt;li&gt;缩短服务间隔&lt;/li&gt;&lt;li&gt;减少非必要服务&lt;/li&gt;&lt;li&gt;提高路径连续性&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
+          <mxGeometry x="280" y="307" width="157" height="93" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-82" target="hLanTZSCV7-hm6pJfAgh-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
