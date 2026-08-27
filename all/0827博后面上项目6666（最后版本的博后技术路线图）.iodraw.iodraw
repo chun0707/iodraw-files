@@ -1190,7 +1190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="风险—服务错配2" id="Tgd4PiuNjkbefkujjCwC">
-    <mxGraphModel dx="1400" dy="111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-0" />
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-1" parent="XMHnJMyTR5Z0R-01F5cL-0" />
@@ -1343,7 +1343,7 @@
         <mxCell id="XMHnJMyTR5Z0R-01F5cL-43" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;CIN2+及时发现率&lt;/li&gt;&lt;li&gt;癌前病变治疗率&lt;/li&gt;&lt;li&gt;癌症发生避免数&lt;/li&gt;&lt;li&gt;癌症死亡避免数&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="XMHnJMyTR5Z0R-01F5cL-1" vertex="1">
           <mxGeometry x="820" y="367.5" width="140" height="96.5" as="geometry" />
         </mxCell>
-        <mxCell id="XMHnJMyTR5Z0R-01F5cL-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;健康收益实现&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XMHnJMyTR5Z0R-01F5cL-1" vertex="1">
+        <mxCell id="XMHnJMyTR5Z0R-01F5cL-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#9933ff&quot;&gt;错配程度与服务后果&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="XMHnJMyTR5Z0R-01F5cL-1" vertex="1">
           <mxGeometry x="810" y="350" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LryjRIioZ3HfxdW1tb4U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#808080;" parent="XMHnJMyTR5Z0R-01F5cL-1" edge="1">
