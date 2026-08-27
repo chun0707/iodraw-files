@@ -887,7 +887,7 @@
           <mxGeometry x="560" y="-191" width="179" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-49" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(4) 服务强度错配&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="559" y="-185" width="180" height="20" as="geometry" />
+          <mxGeometry x="559" y="-182" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-50" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;实际强度/规范强度&lt;/li&gt;&lt;li&gt;超出或不足程度&lt;/li&gt;&lt;li&gt;&lt;b&gt;服务过度/不足错配&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="564" y="-169" width="159" height="76" as="geometry" />
@@ -896,7 +896,7 @@
           <mxGeometry x="840" y="-191" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-52" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(5) 服务路径错配&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="839" y="-186" width="180" height="20" as="geometry" />
+          <mxGeometry x="839" y="-182" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-53" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;实际纵向服务轨迹&lt;/li&gt;&lt;li&gt;节点缺失、顺序偏离&lt;/li&gt;&lt;li&gt;非规范跳转、中断等&lt;/li&gt;&lt;li&gt;&lt;b&gt;路径偏离/中断&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="840" y="-172.5" width="160" height="93" as="geometry" />
