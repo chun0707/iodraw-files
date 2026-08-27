@@ -1011,7 +1011,7 @@
           <mxGeometry x="290" y="291" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-80" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;决策分析框架(DCP)&lt;/li&gt;&lt;li&gt;成本—效果/效用分析&lt;/li&gt;&lt;li&gt;模拟模型构建(Markov/微观模拟)&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="294.5" y="314" width="157" height="72" as="geometry" />
+          <mxGeometry x="286.5" y="314" width="157" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-82" target="hLanTZSCV7-hm6pJfAgh-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1191,9 +1191,7 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="341" as="sourcePoint" />
             <mxPoint x="230" y="291" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="350" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-132" value="" style="endArrow=classic;html=1;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" edge="1">
