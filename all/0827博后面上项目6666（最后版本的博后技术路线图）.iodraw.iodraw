@@ -897,7 +897,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-46" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;筛查后服务获得情况&lt;/li&gt;&lt;li&gt;诊断、治疗、随访情况&lt;/li&gt;&lt;li&gt;服务时间及时性评价&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="281" y="-150" width="169" height="64" as="geometry" />
+          <mxGeometry x="277.5" y="-172.25" width="169" height="82.25" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-48" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -915,7 +915,7 @@
           <mxGeometry x="559" y="-186" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-50" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;需求—实际服务差异计算&lt;/li&gt;&lt;li&gt;错配类别识别&lt;/li&gt;&lt;li&gt;错配程度分级&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="570" y="-150" width="159" height="60" as="geometry" />
+          <mxGeometry x="570" y="-172.25" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-51" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#0066CC;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="840" y="-191" width="180" height="120" as="geometry" />
