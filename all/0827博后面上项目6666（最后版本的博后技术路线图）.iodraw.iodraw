@@ -871,16 +871,6 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-40" value="&lt;b&gt;&lt;font color=&quot;#0066cc&quot; style=&quot;font-size: 14px;&quot;&gt;(2) 服务获得错配&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-1" y="-183" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hLanTZSCV7-hm6pJfAgh-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="-127" as="sourcePoint" />
-            <mxPoint x="280" y="-127" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="-127" />
-              <mxPoint x="260" y="-127" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-42" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;应接受而未接受的比例&lt;/li&gt;&lt;li&gt;实际/需求服务比&lt;/li&gt;&lt;li&gt;&lt;b&gt;服务不足错配型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-10" y="-166" width="190" height="83" as="geometry" />
         </mxCell>
@@ -1081,12 +1071,6 @@
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-105" value="&lt;p style=&quot;line-height: 50%;&quot;&gt;政策咨询报告&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;服务管理建议&lt;/p&gt;&lt;p style=&quot;line-height: 50%;&quot;&gt;成果推广应用&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="859" y="517" width="140" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-106" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-35" target="hLanTZSCV7-hm6pJfAgh-39" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-80" y="-131" as="sourcePoint" />
-            <mxPoint x="-40" y="-181" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-107" value="" style="endArrow=classic;html=1;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
