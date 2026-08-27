@@ -897,7 +897,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-46" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;指南推荐时间窗口&lt;/li&gt;&lt;li&gt;超期率/延迟时间/时间比值&lt;/li&gt;&lt;li&gt;&lt;b&gt;服务延迟错配型&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="280" y="-163" width="170" height="82.25" as="geometry" />
+          <mxGeometry x="270" y="-166.25" width="190" height="82.25" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-48" edge="1">
           <mxGeometry relative="1" as="geometry">
