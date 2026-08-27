@@ -990,7 +990,7 @@
           <mxGeometry x="-260.5" y="291" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-73" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;健康收益最大化&lt;/li&gt;&lt;li&gt;公平性提升&lt;/li&gt;&lt;li&gt;资源利用效率提升&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="-270.5" y="304" width="157" height="88" as="geometry" />
+          <mxGeometry x="-270.5" y="320" width="157" height="72" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-74" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 128, 0); font-size: 14px;&quot;&gt;3. 宫颈癌筛查风险—服务匹配优化决策研究&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-280" y="250" width="1300" height="30" as="geometry" />
@@ -998,7 +998,7 @@
         <mxCell id="hLanTZSCV7-hm6pJfAgh-75" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-1" y="281" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="hLanTZSCV7-hm6pJfAgh-76" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)决策问题构建&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
+        <mxCell id="hLanTZSCV7-hm6pJfAgh-76" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)错配-机制—映射&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="19" y="292" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-77" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;关键干预环节确定&lt;/li&gt;&lt;li&gt;候选干预策略设计&lt;/li&gt;&lt;li&gt;资源约束条件设定&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
