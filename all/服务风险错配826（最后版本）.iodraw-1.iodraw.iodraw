@@ -816,7 +816,7 @@
           <mxGeometry x="-132" y="779" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="57bNTbMPpx-uMseqJ24Q-66" value="&lt;font color=&quot;#ff6666&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务不足型错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="-232" y="651" width="112" height="20" as="geometry" />
+          <mxGeometry x="-112" y="690" width="112" height="20" as="geometry" />
         </mxCell>
         <mxCell id="57bNTbMPpx-uMseqJ24Q-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;服务&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;延迟&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
           <mxGeometry x="-12" y="778" width="60" height="40" as="geometry" />
@@ -892,6 +892,9 @@
         </mxCell>
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=40;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
           <mxGeometry x="850" y="760" width="210" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="nmyAp7MQK_vgdaUCAUIs-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
+          <mxGeometry x="-330" y="722" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
