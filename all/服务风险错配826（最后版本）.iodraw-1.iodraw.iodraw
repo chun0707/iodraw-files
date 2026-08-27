@@ -882,10 +882,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=40;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="690" y="671" width="200" height="139" as="geometry" />
+          <mxGeometry x="800" y="535.5" width="200" height="139" as="geometry" />
         </mxCell>
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=40;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="210" y="740" width="210" height="139" as="geometry" />
+          <mxGeometry x="40" y="680" width="210" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
