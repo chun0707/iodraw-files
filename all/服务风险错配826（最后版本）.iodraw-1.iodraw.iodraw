@@ -585,7 +585,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="服务—风险错配2 的副本" id="J_bsNmmUNXee94KitW4A">
-    <mxGraphModel dx="1400" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="57bNTbMPpx-uMseqJ24Q-0" />
         <mxCell id="57bNTbMPpx-uMseqJ24Q-1" parent="57bNTbMPpx-uMseqJ24Q-0" />
@@ -892,6 +892,9 @@
         </mxCell>
         <mxCell id="57bNTbMPpx-uMseqJ24Q-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;低风险重复不必要检查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
           <mxGeometry x="107.5" y="778" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nmyAp7MQK_vgdaUCAUIs-8" value="&lt;font color=&quot;#ff6666&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务不足型错配&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
+          <mxGeometry x="36.68000000000001" y="691" width="112" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
