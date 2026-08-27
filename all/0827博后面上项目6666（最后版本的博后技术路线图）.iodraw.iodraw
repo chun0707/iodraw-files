@@ -986,7 +986,7 @@
           <mxGeometry x="282" y="289" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-80" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;提高服务获得&lt;/li&gt;&lt;li&gt;缩短服务间隔&lt;/li&gt;&lt;li&gt;减少非必要服务&lt;/li&gt;&lt;li&gt;提高路径连续性&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="279" y="297.5" width="157" height="93" as="geometry" />
+          <mxGeometry x="289" y="299.5" width="157" height="93" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;" parent="hLanTZSCV7-hm6pJfAgh-1" source="hLanTZSCV7-hm6pJfAgh-82" target="hLanTZSCV7-hm6pJfAgh-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -998,7 +998,7 @@
           <mxGeometry x="560" y="289" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-84" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;现行服务情景模式&lt;/li&gt;&lt;li&gt;连续性服务强化情景模式&lt;/li&gt;&lt;li&gt;风险—服务匹配情景优化情景模式&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="549" y="298.59" width="180" height="92" as="geometry" />
+          <mxGeometry x="501.5" y="309.19" width="180" height="92" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-85" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFD966;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="840" y="281" width="180" height="120" as="geometry" />
