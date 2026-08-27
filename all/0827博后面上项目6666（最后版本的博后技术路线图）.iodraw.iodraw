@@ -723,7 +723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="博后面上技术路线图 的副本" id="SyodkRo0otKTp-Dh5NJP">
-    <mxGraphModel dx="1400" dy="1277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-0" />
         <mxCell id="hLanTZSCV7-hm6pJfAgh-1" parent="hLanTZSCV7-hm6pJfAgh-0" />
@@ -939,7 +939,7 @@
           <mxGeometry x="40" y="49" width="319" height="120" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-58" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;资源配置&lt;/li&gt;&lt;li&gt;人员能力&lt;/li&gt;&lt;li&gt;信息系统&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="39" y="96" width="100" height="72.5" as="geometry" />
+          <mxGeometry x="27.5" y="93" width="100" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-59" value="&lt;font color=&quot;#00994d&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(2)机构与体系层面因素分析(SPO框架)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="75" y="49" width="270" height="30" as="geometry" />
@@ -951,7 +951,7 @@
           <mxGeometry x="50" y="81" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-61" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;转诊流程&lt;/li&gt;&lt;li&gt;服务衔接&lt;/li&gt;&lt;li&gt;随访管理&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="127.5" y="73" width="109" height="77" as="geometry" />
+          <mxGeometry x="127.5" y="96" width="109" height="77" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-62" value="&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;服务可及性&lt;/li&gt;&lt;li&gt;服务质量&lt;/li&gt;&lt;li&gt;管理效率&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;fillColor=none;strokeColor=none;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="233" y="93" width="110" height="72.5" as="geometry" />
