@@ -585,7 +585,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="服务—风险错配2 的副本" id="J_bsNmmUNXee94KitW4A">
-    <mxGraphModel dx="1400" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="57bNTbMPpx-uMseqJ24Q-0" />
         <mxCell id="57bNTbMPpx-uMseqJ24Q-1" parent="57bNTbMPpx-uMseqJ24Q-0" />
@@ -893,8 +893,8 @@
         <mxCell id="nmyAp7MQK_vgdaUCAUIs-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;opacity=40;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
           <mxGeometry x="850" y="760" width="210" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="nmyAp7MQK_vgdaUCAUIs-7" value="需要但未获得/延迟/中断服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
-          <mxGeometry x="-116" y="705.81" width="160" height="30" as="geometry" />
+        <mxCell id="nmyAp7MQK_vgdaUCAUIs-7" value="需要但未获得/&lt;div&gt;延迟/中断服务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="57bNTbMPpx-uMseqJ24Q-1">
+          <mxGeometry x="-116" y="707.81" width="116" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
