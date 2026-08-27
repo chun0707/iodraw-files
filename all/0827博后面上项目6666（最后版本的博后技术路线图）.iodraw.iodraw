@@ -899,7 +899,7 @@
           <mxGeometry x="840" y="-186" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-53" value="&lt;ul style=&quot;line-height: 160%;&quot;&gt;&lt;li&gt;实际纵向服务轨迹&lt;/li&gt;&lt;li&gt;节点缺失、顺序偏离&lt;/li&gt;&lt;li&gt;非规范跳转、中断等&lt;/li&gt;&lt;li&gt;路径偏离/中断&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;align=left;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
-          <mxGeometry x="849" y="-173" width="160" height="93" as="geometry" />
+          <mxGeometry x="849" y="-170" width="160" height="93" as="geometry" />
         </mxCell>
         <mxCell id="hLanTZSCV7-hm6pJfAgh-54" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#97D077;" parent="hLanTZSCV7-hm6pJfAgh-1" vertex="1">
           <mxGeometry x="-280" y="49" width="220" height="120" as="geometry" />
