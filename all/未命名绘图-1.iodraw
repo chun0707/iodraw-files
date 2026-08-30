@@ -11,7 +11,7 @@
           <mxGeometry x="80" y="-400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-2" value="第二层&lt;div style=&quot;line-height: 160%;&quot;&gt;过程框架：筛查级联&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;（Screening&amp;nbsp; Cascade）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="-280" width="160" height="120" as="geometry" />
+          <mxGeometry x="80" y="-280" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
