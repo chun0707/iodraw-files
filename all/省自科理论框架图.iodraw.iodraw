@@ -292,7 +292,7 @@
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-12" value="中断风险动态形成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="120" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4VAoVj-zMQb0TGdXNNu7-13" value="研究不同服务状态间的转移规律&lt;div&gt;及影响因素&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4VAoVj-zMQb0TGdXNNu7-13" value="研究不同服务状态间的转移规律" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="60" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6600CC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
