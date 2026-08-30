@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="119" y="-240" width="40" height="40" as="geometry" />
+          <mxGeometry x="20" y="-430" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-1" value="第一层&lt;div style=&quot;line-height: 160%;&quot;&gt;上位理论：价值医疗&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;（Value-Based healthcare）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="-160" width="160" height="80" as="geometry" />
+          <mxGeometry x="80" y="-400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-2" value="第一层&lt;div style=&quot;line-height: 160%;&quot;&gt;上位理论：价值医疗&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;（Value-Based healthcare）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="-40" width="160" height="80" as="geometry" />
