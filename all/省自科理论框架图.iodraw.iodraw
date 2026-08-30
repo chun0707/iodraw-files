@@ -362,7 +362,7 @@
           <mxGeometry x="550" y="-400" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-37" value="&lt;b&gt;&lt;font color=&quot;#0055ab&quot;&gt;健康收益&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#0055ab&quot;&gt;(健康结局改善)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="770" y="-400" width="160" height="40" as="geometry" />
+          <mxGeometry x="779" y="-400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
