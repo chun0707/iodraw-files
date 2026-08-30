@@ -192,8 +192,8 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-74" value="未进入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="-130" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-75" value="未进入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="-120" width="40" height="20" as="geometry" />
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-75" value="延迟" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="-130" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
