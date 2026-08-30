@@ -258,7 +258,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-88" value="连续性服务中断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="583" y="-62" width="97" height="30" as="geometry" />
+          <mxGeometry x="583" y="-64" width="97" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
