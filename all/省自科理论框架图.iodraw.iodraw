@@ -204,10 +204,14 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-80" value="未进入或延迟" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="-130" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-81" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ae1HLj7ckxhnWce0_rZt-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" as="sourcePoint" />
-            <mxPoint x="400" y="-50" as="targetPoint" />
+            <mxPoint x="450" y="-40" as="sourcePoint" />
+            <mxPoint x="500" y="-90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="-80" />
+              <mxPoint x="440" y="-80" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
