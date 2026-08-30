@@ -19,14 +19,14 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-3" value="识别价值转化过程的&lt;div style=&quot;line-height: 160%;&quot;&gt;分析框架&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="-210" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-7" value="筛查异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-7" value="1. 筛查异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="-280" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="-250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-9" value="筛查异常" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="290" y="-270" width="80" height="20" as="geometry" />
+          <mxGeometry x="400" y="-280" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
