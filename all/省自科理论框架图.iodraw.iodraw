@@ -353,7 +353,7 @@
           <mxGeometry x="824" y="-450" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-35" value="初筛与异常发现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="-390" width="70" height="30" as="geometry" />
+          <mxGeometry x="310" y="-390" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
