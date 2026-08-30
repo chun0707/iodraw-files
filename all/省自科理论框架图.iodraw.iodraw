@@ -265,8 +265,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-88" value="连续性服务中断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="588" y="-67" width="97" height="25" as="geometry" />
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-88" value="连续性服务中断（）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="-67" width="125" height="25" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-1" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;筛查级联（Screening Cascade）：连续性服务阶段及潜在中断点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="-315" width="680" height="20" as="geometry" />
