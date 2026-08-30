@@ -201,7 +201,7 @@
             <mxPoint x="621" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-77" value="路径偏离" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-77" value="&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;路径偏离&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="590" y="-130" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-78" value="延迟/偏离" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
