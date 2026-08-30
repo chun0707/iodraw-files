@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="573" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="333" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -370,7 +370,7 @@
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-36" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;后续连续服务&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;(分流—诊断—治疗—随访)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="533" y="-400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4VAoVj-zMQb0TGdXNNu7-37" value="&lt;b&gt;&lt;font color=&quot;#0055ab&quot;&gt;健康收益&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#0055ab&quot;&gt;(健康结局改善)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4VAoVj-zMQb0TGdXNNu7-37" value="&lt;b&gt;健康收益&lt;/b&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;(健康结局改善)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="772" y="-400" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
