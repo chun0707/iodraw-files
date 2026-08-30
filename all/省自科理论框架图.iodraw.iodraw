@@ -300,9 +300,12 @@
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#009900;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630.5" y="51" as="sourcePoint" />
-            <mxPoint x="630.5" y="71" as="targetPoint" />
+            <mxPoint x="620.5" y="100" as="sourcePoint" />
+            <mxPoint x="620.5" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4VAoVj-zMQb0TGdXNNu7-15" value="纵向服务轨迹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="130" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
