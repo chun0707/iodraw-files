@@ -16,7 +16,7 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ae1HLj7ckxhnWce0_rZt-57" target="Ae1HLj7ckxhnWce0_rZt-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-57" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="-280" width="80" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ae1HLj7ckxhnWce0_rZt-48" target="Ae1HLj7ckxhnWce0_rZt-44">
@@ -78,8 +78,8 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-14" value="4. 病理学诊断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="-279" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-15" value="5. 治疗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="760" y="-280" width="80" height="20" as="geometry" />
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-15" value="5. 治疗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="-279" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-16" value="6. 持续随访" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="880" y="-280" width="80" height="20" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="-259" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="-259" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
