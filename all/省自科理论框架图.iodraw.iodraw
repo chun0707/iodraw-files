@@ -286,7 +286,7 @@
             <mxPoint x="620.5" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4VAoVj-zMQb0TGdXNNu7-11" value="揭示中断风险随服务进程的动态演变&lt;div&gt;及形成机制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4VAoVj-zMQb0TGdXNNu7-11" value="揭示中断风险随服务进程的动态演变&lt;div&gt;及形成机制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="120" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-12" value="中断风险动态形成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -304,7 +304,7 @@
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-15" value="AI动态预测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="180" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4VAoVj-zMQb0TGdXNNu7-16" value="融合疾病风险与纵向服务信息&lt;div&gt;构建动态预测模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="4VAoVj-zMQb0TGdXNNu7-16" value="融合疾病风险与纵向服务信息&lt;div&gt;构建动态预测模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="620" y="180" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6600CC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
