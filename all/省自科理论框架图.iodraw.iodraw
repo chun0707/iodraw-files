@@ -195,6 +195,12 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-75" value="延迟" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="-130" width="40" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="621" y="-91" as="sourcePoint" />
+            <mxPoint x="621" y="-31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-77" value="路径偏离" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="-130" width="60" height="20" as="geometry" />
         </mxCell>
