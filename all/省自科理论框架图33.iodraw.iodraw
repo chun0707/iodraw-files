@@ -403,8 +403,8 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-3" value="识别价值转化过程的&lt;div style=&quot;line-height: 160%;&quot;&gt;分析框架&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=none;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="107" y="-162" width="149" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="29FzxiCAQQe2FnYaPQx6-13" value="第三层&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;科学问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="120" y="39" width="120" height="30" as="geometry" />
+        <mxCell id="29FzxiCAQQe2FnYaPQx6-13" value="第三层&lt;div&gt;本项目&lt;/div&gt;&lt;div&gt;科学问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="39" width="120" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
