@@ -271,11 +271,17 @@
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-1" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;筛查级联（Screening Cascade）：连续性服务阶段及潜在中断点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="-315" width="680" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="29FzxiCAQQe2FnYaPQx6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4VAoVj-zMQb0TGdXNNu7-7" target="4VAoVj-zMQb0TGdXNNu7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-7" value="纵向服务轨迹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="9" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-8" value="识别个体在连续服务过程中的&lt;div&gt;不同纵向轨迹及中断模式&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="9" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29FzxiCAQQe2FnYaPQx6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4VAoVj-zMQb0TGdXNNu7-9" target="4VAoVj-zMQb0TGdXNNu7-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-9" value="服务状态转移" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="69" width="260" height="40" as="geometry" />
@@ -288,6 +294,9 @@
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-11" value="揭示中断风险随服务进程的动态演变&lt;div&gt;及形成机制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="129" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29FzxiCAQQe2FnYaPQx6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4VAoVj-zMQb0TGdXNNu7-12" target="4VAoVj-zMQb0TGdXNNu7-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-12" value="中断风险动态形成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="129" width="260" height="40" as="geometry" />
