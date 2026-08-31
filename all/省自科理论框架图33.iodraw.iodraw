@@ -506,7 +506,7 @@
           <mxGeometry x="280" y="-281" width="80" height="72" as="geometry" />
         </mxCell>
         <mxCell id="ePutpht2jHHl2D1CMpy9-28" value="&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;第一层&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;上位理论：价值医疗&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;（Value-Based&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;Health Care）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#007FFF;opacity=70;" vertex="1" parent="ePutpht2jHHl2D1CMpy9-1">
-          <mxGeometry x="100" y="-541" width="160" height="192" as="geometry" />
+          <mxGeometry x="100" y="-541" width="160" height="191" as="geometry" />
         </mxCell>
         <mxCell id="ePutpht2jHHl2D1CMpy9-29" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;第二层&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;过程框架：筛查级联&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;（Screening&amp;nbsp; Cascade）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;opacity=70;" vertex="1" parent="ePutpht2jHHl2D1CMpy9-1">
           <mxGeometry x="101" y="-320" width="159" height="180" as="geometry" />
