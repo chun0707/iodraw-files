@@ -96,7 +96,7 @@
           <mxGeometry x="101" y="-320" width="159" height="189" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-3" value="识别价值转化过程的&lt;div style=&quot;line-height: 160%;&quot;&gt;分析框架&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=#d5e8d4;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="-131" width="159" height="40" as="geometry" />
+          <mxGeometry x="105" y="-190" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-7" value="&lt;b&gt;1. 筛查异常&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="-280" width="80" height="20" as="geometry" />
