@@ -310,6 +310,9 @@
             <mxPoint x="620.5" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="29FzxiCAQQe2FnYaPQx6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4VAoVj-zMQb0TGdXNNu7-15" target="4VAoVj-zMQb0TGdXNNu7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-15" value="AI动态预测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="189" width="260" height="40" as="geometry" />
         </mxCell>
@@ -405,6 +408,12 @@
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-60" value="推动宫颈癌筛查评价由“单节点服务完成评价”向“全过程连续性评价”，由“中断后识别”向“中断前风险预测”拓展" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="300" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29FzxiCAQQe2FnYaPQx6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="219" as="sourcePoint" />
+            <mxPoint x="669" y="219" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
