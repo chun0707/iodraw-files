@@ -90,10 +90,10 @@
           <mxGeometry x="100" y="-532" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-2" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;第二层&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;过程框架：筛查级联&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;（Screening&amp;nbsp; Cascade）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="-280" width="150" height="160" as="geometry" />
+          <mxGeometry x="120" y="-290" width="150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-3" value="识别价值转化过程的&lt;div style=&quot;line-height: 160%;&quot;&gt;分析框架&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fillColor=#d5e8d4;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="-120" width="150" height="50" as="geometry" />
+          <mxGeometry x="120" y="-120" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-7" value="&lt;b&gt;1. 筛查异常&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="-280" width="80" height="20" as="geometry" />
