@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="29FzxiCAQQe2FnYaPQx6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="120" width="700" height="220" as="geometry" />
+          <mxGeometry x="260" y="350" width="700" height="220" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="-532" width="700" height="190" as="geometry" />
@@ -292,9 +292,6 @@
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-11" value="揭示中断风险随服务进程的动态演变&lt;div&gt;及形成机制&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="660" y="129" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="29FzxiCAQQe2FnYaPQx6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4VAoVj-zMQb0TGdXNNu7-12" target="4VAoVj-zMQb0TGdXNNu7-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-12" value="中断风险动态形成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="129" width="260" height="40" as="geometry" />
         </mxCell>
@@ -306,9 +303,6 @@
             <mxPoint x="620.5" y="109" as="sourcePoint" />
             <mxPoint x="620.5" y="129" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="29FzxiCAQQe2FnYaPQx6-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4VAoVj-zMQb0TGdXNNu7-15" target="4VAoVj-zMQb0TGdXNNu7-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-15" value="AI动态预测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="189" width="260" height="40" as="geometry" />
@@ -405,12 +399,6 @@
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-60" value="推动宫颈癌筛查评价由“单节点服务完成评价”向“全过程连续性评价”，由“中断后识别”向“中断前风险预测”拓展" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="300" width="600" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="29FzxiCAQQe2FnYaPQx6-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580.5" y="268.5" as="sourcePoint" />
-            <mxPoint x="659.5" y="268.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
