@@ -8,7 +8,7 @@
           <mxGeometry x="270" width="700" height="340" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-48" value="" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;strokeColor=#007FFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="110" y="-532" width="860" height="190" as="geometry" />
+          <mxGeometry x="100" y="-532" width="870" height="190" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="779" y="-510" width="140" height="110" as="geometry" />
@@ -90,7 +90,7 @@
           <mxGeometry x="20" y="-430" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-1" value="&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;第一层&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;上位理论：价值医疗&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;（Value-Based Health Care）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=none;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="125" y="-532" width="160" height="190" as="geometry" />
+          <mxGeometry x="100" y="-532" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-2" value="第二层&lt;div style=&quot;line-height: 160%;&quot;&gt;过程框架：筛查级联&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;（Screening&amp;nbsp; Cascade）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="-280" width="140" height="70" as="geometry" />
