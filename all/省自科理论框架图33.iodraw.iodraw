@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="332" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -92,7 +92,7 @@
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="-430" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ae1HLj7ckxhnWce0_rZt-1" value="&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;第一层&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;上位理论：价值医疗&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;（Value-Based&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;Health Care）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#007FFF;strokeColor=none;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Ae1HLj7ckxhnWce0_rZt-1" value="&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;第一层&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;上位理论：价值医疗&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;（Value-Based&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#0055ab&quot;&gt;&lt;b&gt;Health Care）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#007FFF;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="-532" width="160" height="192" as="geometry" />
         </mxCell>
         <mxCell id="Ae1HLj7ckxhnWce0_rZt-2" value="&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;第二层&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;过程框架：筛查级联&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;&lt;b&gt;（Screening&amp;nbsp; Cascade）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=none;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
