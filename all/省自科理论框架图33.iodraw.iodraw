@@ -305,10 +305,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-15" value="AI动态预测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="189" width="260" height="40" as="geometry" />
+          <mxGeometry x="320" y="189" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-16" value="融合疾病风险与纵向服务信息&lt;div&gt;构建动态预测模型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="659" y="189" width="260" height="40" as="geometry" />
+          <mxGeometry x="620" y="189" width="299" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4VAoVj-zMQb0TGdXNNu7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6600CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
