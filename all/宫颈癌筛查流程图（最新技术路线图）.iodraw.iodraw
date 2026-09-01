@@ -354,7 +354,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-7" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;预测问题：人工智能驱动的动态风险预测&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;未来是否会中断？何时可能中断？风险有多大？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="640" y="40" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-8" value="中断界定与轨迹识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=60;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-8" value="中断界定与轨迹识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="10" y="110" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-9" value="中断动态风险形成机制探索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
@@ -555,7 +555,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-74" target="2nRH4RvJgJz3e5GPZnSe-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-74" value="中断动态演变规律刻画" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-74" value="中断动态演变规律刻画" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="185" y="110" width="165" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="2nRH4RvJgJz3e5GPZnSe-1" edge="1">
