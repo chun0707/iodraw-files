@@ -438,7 +438,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-37" value="多层混合效应模型、&lt;div&gt;时间依赖效应模型&lt;/div&gt;&lt;div&gt;路径分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="560" y="449" width="129" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-38" value="多层模型分析&lt;div&gt;交互作用检验&lt;/div&gt;&lt;div&gt;路径分析&lt;/div&gt;&lt;div&gt;作用路径建模&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-38" value="疾病风险、服务过程、机构环境的作用路径与交互效应分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="700" y="450" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-39" value="输出：关键断点、动态演变特征与风险形成机制" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
@@ -468,7 +468,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-47" value="&lt;b&gt;3. 模型验证与解释&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="1139" y="400" width="171" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-48" value="疾病风险特征&lt;div&gt;服务轨迹特征&lt;/div&gt;&lt;div&gt;服务环境特征&lt;/div&gt;&lt;div&gt;动态特征更新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-48" value="个体历史轨迹特征+动态特征+机构环境特征" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="859" y="452" width="140" height="68" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-49" value="统计基准模型&lt;div&gt;机器学习模型&lt;/div&gt;&lt;div&gt;深度时序模型&lt;/div&gt;&lt;div&gt;动态风险预测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
