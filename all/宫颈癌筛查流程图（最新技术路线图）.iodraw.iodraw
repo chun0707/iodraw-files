@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="技术路线图 的副本" id="Wwm6S0txPOrR3_ki8tVE">
-    <mxGraphModel dx="2670" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2910" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-0" />
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-1" parent="2nRH4RvJgJz3e5GPZnSe-0" />
@@ -372,7 +372,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-13" value="&lt;b&gt;宫颈癌初筛数据&lt;/b&gt;&lt;div&gt;(HPV检测/细胞学结果&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="10" y="179" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-14" value="&lt;b&gt;临床诊疗数据&lt;/b&gt;&lt;div&gt;(阴道镜、病理、治疗、随访&lt;span style=&quot;background-color: initial;&quot;&gt;等)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-14" value="&lt;b&gt;临床诊疗数据&lt;/b&gt;&lt;div&gt;(阴道镜、病理、治疗、随访&lt;span style=&quot;background-color: initial;&quot;&gt;等)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0000CC;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="200" y="179" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-15" value="&lt;b&gt;服务过程数据&lt;/b&gt;&lt;div&gt;(服务时间、等待时间、&lt;/div&gt;&lt;div&gt;转诊流程、就诊记录等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
