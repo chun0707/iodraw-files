@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="技术路线图 的副本" id="Wwm6S0txPOrR3_ki8tVE">
-    <mxGraphModel dx="2663" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2903" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-0" />
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-1" parent="2nRH4RvJgJz3e5GPZnSe-0" />
@@ -556,7 +556,7 @@
           <mxGeometry x="-310" y="359" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-70" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;人工智能驱动的宫颈癌筛查连续性服务中断风险动态预测研究&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#0000CC;fontColor=#333333;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="-90" y="-10" width="1020" height="28" as="geometry" />
+          <mxGeometry x="-90" y="-9" width="1020" height="28" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-8" target="2nRH4RvJgJz3e5GPZnSe-74" edge="1">
           <mxGeometry relative="1" as="geometry">
