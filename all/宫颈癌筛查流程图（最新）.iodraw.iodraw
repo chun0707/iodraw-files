@@ -448,7 +448,7 @@
           <mxGeometry x="320" y="270.5" width="320" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-41" value="&lt;b&gt;内容3：人工智能驱动的中断风险动态预测模型构建&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="650" y="271.5" width="300" height="18" as="geometry" />
+          <mxGeometry x="650" y="271.5" width="280" height="18" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-43" target="2nRH4RvJgJz3e5GPZnSe-48">
           <mxGeometry relative="1" as="geometry" />
@@ -566,15 +566,6 @@
         </mxCell>
         <mxCell id="cr8QomCa_JUfbT5luA6k-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="120" y="-210" width="930" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="wFZFq3wtJoXvqHdwM6Fb-2" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="340" y="360" width="90" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="wFZFq3wtJoXvqHdwM6Fb-3" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="440.5" y="360" width="90" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="wFZFq3wtJoXvqHdwM6Fb-4" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="540.5" y="360" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="wFZFq3wtJoXvqHdwM6Fb-5" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="669" y="360" width="90" height="29" as="geometry" />
