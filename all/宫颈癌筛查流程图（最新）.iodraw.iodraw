@@ -369,7 +369,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-14" value="&lt;b&gt;临床诊疗数据&lt;/b&gt;&lt;div&gt;(阴道镜、病理、治疗、随访&lt;span style=&quot;background-color: initial;&quot;&gt;等)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="200" y="240" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-15" value="&lt;b&gt;医疗机构数据&lt;/b&gt;&lt;div&gt;(服务能力、转诊、人力资源等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-15" value="&lt;b&gt;服务过程数据&lt;/b&gt;&lt;div&gt;(服务时间、等待时间、&lt;/div&gt;&lt;div&gt;转诊流程、就诊记录等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="390" y="240" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-16" value="&lt;b&gt;人口与社会经济数据&lt;/b&gt;&lt;div&gt;(年龄、城乡、民族、收入、&lt;/div&gt;&lt;div&gt;医保、教育等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
