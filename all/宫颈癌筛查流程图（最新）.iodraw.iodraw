@@ -474,7 +474,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-49" value="&lt;div&gt;XGBoost&lt;/div&gt;&lt;div&gt;深度时序模型GRU/Transformer&lt;/div&gt;&lt;div&gt;动态风险预测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="1009" y="450" width="91" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-50" value="区分度(AUC/PR-AUC)、校准度&lt;div&gt;时间外/机构验证&lt;/div&gt;&lt;div&gt;SHAP可解释性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-50" value="区分度、校准度&lt;div&gt;时间外/机构验证&lt;/div&gt;&lt;div&gt;SHAP可解释性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="1139" y="452" width="101" height="68" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-51" value="输出：动态中断风险预测模型与解释结果" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
