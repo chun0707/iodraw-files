@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="技术路线图 的副本" id="Wwm6S0txPOrR3_ki8tVE">
-    <mxGraphModel dx="2910" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2670" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-0" />
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-1" parent="2nRH4RvJgJz3e5GPZnSe-0" />
@@ -396,7 +396,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-18" value="&lt;b&gt;数据清洗与标准化、个体唯一标识关联、质量控制与整合(患者级、机构级、地区级)，构建纵向融合的个体服务轨迹&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="10.5" y="212" width="910" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-19" value="&lt;b&gt;&lt;font color=&quot;#006600&quot;&gt;内容1：连续性服务中断界定与轨迹特征识别&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-19" value="&lt;b&gt;&lt;font color=&quot;#006600&quot;&gt;内容1：连续性服务中断界定与轨迹特征识别&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="10" y="278.5" width="310" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006600;" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-21" target="2nRH4RvJgJz3e5GPZnSe-26" edge="1">
