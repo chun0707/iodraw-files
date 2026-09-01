@@ -31,7 +31,7 @@
             <mxPoint x="120" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgMKwQDCyllN-2bD-eWy-9" value="具有阴道镜检查指征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-9" value="具有阴道镜检查指征" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4EB;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-12">
