@@ -26,14 +26,16 @@
         <mxCell id="BgMKwQDCyllN-2bD-eWy-6" value="初筛异常/可疑&lt;div&gt;约5% (约4万人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgMKwQDCyllN-2bD-eWy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-9" target="BgMKwQDCyllN-2bD-eWy-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-9" value="具有阴道镜检查指征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgMKwQDCyllN-2bD-eWy-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="80" height="60" as="geometry" />
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-12" value="完成阴道镜检查&lt;div&gt;约75%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
