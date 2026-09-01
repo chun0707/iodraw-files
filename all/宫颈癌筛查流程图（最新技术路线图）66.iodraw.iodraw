@@ -537,6 +537,12 @@
         <mxCell id="vXatO81dUOHdBqH-otBZ-8" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;以真实世界纵向数据为基础，融合人工智能算法，揭示连续性服务中断演变规律并实现动态预测，支撑宫颈癌筛查全过程价值实现与精准管理&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0000CC;fontColor=#333333;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="-91" y="469" width="1020" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="vXatO81dUOHdBqH-otBZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="240" as="sourcePoint" />
+            <mxPoint x="475" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
