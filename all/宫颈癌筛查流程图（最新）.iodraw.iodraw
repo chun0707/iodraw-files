@@ -402,7 +402,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-25" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="209" y="300" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-26" value="个体疾病风险、&lt;div style=&quot;line-height: 150%;&quot;&gt;服务过程、&lt;span style=&quot;background-color: initial;&quot;&gt;机构及区域信息构成连续性服务链&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-26" value="个体疾病风险、&lt;div style=&quot;line-height: 150%;&quot;&gt;服务过程、&lt;span style=&quot;background-color: initial;&quot;&gt;机构及区域信息构成连续性服务链&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="10" y="349" width="90" height="81" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-27" value="节点缺失型&lt;div style=&quot;line-height: 150%;&quot;&gt;时间延迟型&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;路径偏离型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
