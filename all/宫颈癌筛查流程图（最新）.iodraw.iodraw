@@ -424,7 +424,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-33" value="&lt;b&gt;2. 影响因素分析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="560" y="400" width="129" height="29" as="geometry" />
+          <mxGeometry x="560" y="400" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-35" target="2nRH4RvJgJz3e5GPZnSe-38">
           <mxGeometry relative="1" as="geometry" />
@@ -571,7 +571,7 @@
           <mxGeometry x="420" y="360" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="wFZFq3wtJoXvqHdwM6Fb-3" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="580" y="370" width="90" height="29" as="geometry" />
+          <mxGeometry x="560.5" y="360" width="90" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
