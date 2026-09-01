@@ -388,7 +388,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-21" value="&lt;b&gt;1. 服务链定义&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="10" y="400" width="120" height="29" as="geometry" />
+          <mxGeometry x="10" y="400" width="100" height="29" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-23" target="2nRH4RvJgJz3e5GPZnSe-27">
           <mxGeometry relative="1" as="geometry" />
@@ -402,8 +402,8 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-25" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="270" y="400" width="120" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-26" value="构建宫颈癌筛查连续性；服务节点与路径" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="10" y="449" width="120" height="70" as="geometry" />
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-26" value="构建宫颈癌筛查连续性；服务节点与路径" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+          <mxGeometry x="10" y="449" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-27" value="节点缺失型&lt;div&gt;时间延迟型&lt;/div&gt;&lt;div&gt;路径偏离型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="140" y="449" width="120" height="70" as="geometry" />
@@ -474,7 +474,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-49" value="&lt;div&gt;XGBoost&lt;/div&gt;&lt;div&gt;深度时序模型GRU/Transformer&lt;/div&gt;&lt;div&gt;动态风险预测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="1009" y="450" width="121" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-50" value="区分度与校准度&lt;div&gt;时间外/地外验证&lt;/div&gt;&lt;div&gt;SHAP可解释性分析&lt;/div&gt;&lt;div&gt;亚组公平性评估&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-50" value="区分度(AUC/PR-AUC)、校准度&lt;div&gt;时间外/机构验证&lt;/div&gt;&lt;div&gt;SHAP可解释性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="1139" y="452" width="171" height="68" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-51" value="输出：动态中断风险预测模型与解释结果" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
