@@ -435,8 +435,8 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-36" value="多状态模型&lt;div&gt;状态转移概率&lt;/div&gt;&lt;div&gt;停留时间与风险窗口&lt;span style=&quot;background-color: initial;&quot;&gt;识别&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="420" y="450" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-37" value="多层混合效应模型、&lt;div&gt;时间依赖效应模型&lt;/div&gt;&lt;div&gt;路径分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="560" y="449" width="129" height="71" as="geometry" />
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-37" value="多层混合效应模型、&lt;span style=&quot;background-color: initial;&quot;&gt;时间依赖效应模型&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;路径分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+          <mxGeometry x="560" y="449" width="90" height="71" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-38" value="疾病风险、服务过程、机构环境的作用路径与交互效应分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="700" y="450" width="130" height="70" as="geometry" />
