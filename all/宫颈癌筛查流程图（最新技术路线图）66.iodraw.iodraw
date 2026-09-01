@@ -539,8 +539,8 @@
         </mxCell>
         <mxCell id="vXatO81dUOHdBqH-otBZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="240" as="sourcePoint" />
-            <mxPoint x="475" y="260" as="targetPoint" />
+            <mxPoint x="468" y="240" as="sourcePoint" />
+            <mxPoint x="468" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
