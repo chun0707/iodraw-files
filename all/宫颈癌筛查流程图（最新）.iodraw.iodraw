@@ -444,8 +444,8 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-39" value="输出：关键断点、动态演变特征与风险形成机制" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="340.5" y="530" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-40" value="&lt;b&gt;研究内容2：连续性服务中断风险动态演变及形成机制探索&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="400" y="320" width="411" height="19" as="geometry" />
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-40" value="&lt;b&gt;研究内容2：连续性服务中断风险动态演变及形成机制探索&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+          <mxGeometry x="320" y="270.5" width="411" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-41" value="&lt;b&gt;科学问题3：人工智能驱动的连续性服务中断风险动态预测模型构建&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="820" y="311" width="420" height="18" as="geometry" />
