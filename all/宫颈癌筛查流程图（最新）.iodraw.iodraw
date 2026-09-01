@@ -520,7 +520,7 @@
           <mxGeometry x="-90" y="40" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-65" value="总体思路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="-123" y="120" width="80" height="50" as="geometry" />
+          <mxGeometry x="-90" y="110" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-66" value="数据来源与&lt;div&gt;数据整合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="-123" y="190" width="80" height="50" as="geometry" />
