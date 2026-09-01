@@ -39,7 +39,7 @@
             <mxPoint x="120" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgMKwQDCyllN-2bD-eWy-12" value="完成阴道镜检查&lt;div&gt;约75%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-12" value="完成阴道镜检查&lt;div&gt;约75%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#006666;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-15">
