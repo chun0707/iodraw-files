@@ -394,7 +394,7 @@
           <mxGeometry x="10.5" y="212" width="910" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-19" value="&lt;b&gt;内容1：连续性服务中断界定与轨迹特征识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="10" y="270.5" width="290" height="19" as="geometry" />
+          <mxGeometry x="10" y="279.5" width="290" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006600;" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-21" target="2nRH4RvJgJz3e5GPZnSe-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -408,7 +408,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-23" value="&lt;b&gt;2. 中断判定&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="110" y="300" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-25" target="2nRH4RvJgJz3e5GPZnSe-28" edge="1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006600;" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-25" target="2nRH4RvJgJz3e5GPZnSe-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-25" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;fillColor=#d5e8d4;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
