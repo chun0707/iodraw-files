@@ -417,7 +417,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-31" target="2nRH4RvJgJz3e5GPZnSe-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-31" value="&lt;b&gt;1. 连续性服务&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;现状评价&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-31" value="&lt;b&gt;1. 动态演变分析&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="420" y="400" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-33" target="2nRH4RvJgJz3e5GPZnSe-37">
