@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="技术路线图 的副本" id="Wwm6S0txPOrR3_ki8tVE">
-    <mxGraphModel dx="2903" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2663" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-0" />
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-1" parent="2nRH4RvJgJz3e5GPZnSe-0" />
@@ -579,7 +579,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="-1200" y="399" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="vXatO81dUOHdBqH-otBZ-8" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;以真实世界纵向数据为基础，融合人工智能算法，揭示连续性服务中断演变规律并实现动态预测，支撑宫颈癌筛查全过程价值实现与精准管理&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#0000CC;fontColor=#333333;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="vXatO81dUOHdBqH-otBZ-8" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;以真实世界纵向数据为基础，融合人工智能算法，揭示连续性服务中断演变规律并实现动态预测，支撑宫颈癌筛查全过程价值实现与精准管理&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0000CC;fontColor=#333333;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="-91" y="470" width="1020" height="28" as="geometry" />
         </mxCell>
       </root>
