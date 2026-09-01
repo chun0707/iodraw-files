@@ -468,7 +468,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-47" value="&lt;b&gt;3. 策略模拟与评估&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="1139" y="400" width="171" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-48" value="高健康收益人群识别模型&lt;div&gt;失访风险预测模型&lt;/div&gt;&lt;div&gt;资源需求预测模型&lt;/div&gt;&lt;div&gt;（阴道镜/病理/治疗）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-48" value="疾病风险特征&lt;div&gt;服务轨迹特征&lt;/div&gt;&lt;div&gt;服务环境特征&lt;/div&gt;&lt;div&gt;动态特征更新&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="859" y="452" width="140" height="68" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-49" value="强化学习/优化算法&lt;div&gt;资源分配策略生成&lt;/div&gt;&lt;div&gt;个体化干预建议&lt;/div&gt;&lt;div&gt;(导航、提醒、转诊等)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
