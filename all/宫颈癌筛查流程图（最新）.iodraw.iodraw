@@ -579,6 +579,9 @@
         <mxCell id="wFZFq3wtJoXvqHdwM6Fb-8" value="多层混合效应模型、&lt;span style=&quot;background-color: initial;&quot;&gt;时间依赖效应模型&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;路径分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="310" y="348" width="90" height="81" as="geometry" />
         </mxCell>
+        <mxCell id="KOxQ_AHNi7SNJFAxvoj9-0" value="疾病风险、服务过程、机构环境的作用路径与交互效应分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+          <mxGeometry x="222.5" y="445" width="90" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
