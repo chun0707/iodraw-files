@@ -331,7 +331,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-0" />
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-1" parent="2nRH4RvJgJz3e5GPZnSe-0" />
         <mxCell id="vXatO81dUOHdBqH-otBZ-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;opacity=60;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="0.5" y="150" width="930" height="90" as="geometry" />
+          <mxGeometry x="0.5" y="150" width="929.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vXatO81dUOHdBqH-otBZ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;opacity=60;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="0.5" y="104" width="930" height="40" as="geometry" />
@@ -388,7 +388,7 @@
           <mxGeometry x="771" y="160" width="149" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-18" value="&lt;b&gt;数据清洗与标准化、个体唯一标识关联、质量控制与整合(患者级、机构级、地区级)，构建纵向融合的个体服务轨迹&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="10" y="211" width="910" height="20" as="geometry" />
+          <mxGeometry x="10" y="211" width="910" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-19" value="&lt;b&gt;内容1：连续性服务中断界定与轨迹特征识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="10" y="270.5" width="290" height="19" as="geometry" />
