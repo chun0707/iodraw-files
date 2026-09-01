@@ -478,7 +478,7 @@
           <mxGeometry x="869" y="451" width="91" height="68" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-51" value="输出：动态中断风险预测模型与解释结果" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="570" y="531" width="390" height="19" as="geometry" />
+          <mxGeometry x="680" y="531" width="280" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-52" value="阶段1(0-6月)&lt;div&gt;数据整合与项目启动&lt;/div&gt;&lt;div&gt;数据治理、指标体系、风险模型构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="850" y="680" width="200" height="60" as="geometry" />
