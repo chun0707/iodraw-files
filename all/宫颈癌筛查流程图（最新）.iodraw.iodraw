@@ -432,7 +432,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-35" value="&lt;b&gt;3. 形成机制&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;探索&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="700" y="400" width="130" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-36" value="多状态模型&lt;div&gt;状态转移概率&lt;/div&gt;&lt;div&gt;时间序列分析&lt;/div&gt;&lt;div&gt;关键节点识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-36" value="多状态模型&lt;div&gt;状态转移概率&lt;/div&gt;&lt;div&gt;停留时间与风险窗口&lt;/div&gt;&lt;div&gt;识别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="420" y="450" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-37" value="多状态模型&lt;div&gt;（转移概率/停留时间）&lt;/div&gt;&lt;div&gt;序列/轨迹聚类分析&lt;/div&gt;&lt;div&gt;断点定位与分层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
