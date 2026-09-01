@@ -454,28 +454,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-43" value="&lt;b&gt;1. 特征体系构建&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="859" y="400" width="90" height="30" as="geometry" />
+          <mxGeometry x="669" y="400" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-45" target="2nRH4RvJgJz3e5GPZnSe-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-45" value="&lt;b&gt;2. 模型构建&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="959" y="400" width="91" height="30" as="geometry" />
+          <mxGeometry x="769" y="400" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-47" target="2nRH4RvJgJz3e5GPZnSe-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-47" value="&lt;b&gt;3. 模型评估与解释&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="1059" y="400" width="91" height="29" as="geometry" />
+          <mxGeometry x="869" y="400" width="91" height="29" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-48" value="个体历史轨迹特征+动态特征+机构环境特征" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="859" y="451" width="90" height="68" as="geometry" />
+          <mxGeometry x="669" y="451" width="90" height="68" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-49" value="&lt;div&gt;XGBoost&lt;span style=&quot;background-color: initial;&quot;&gt;深度时序模型GRU/Transformer&lt;/span&gt;&lt;/div&gt;&lt;div&gt;动态风险预测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="959" y="450" width="91" height="70" as="geometry" />
+          <mxGeometry x="769" y="450" width="91" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-50" value="区分度、校准度&lt;div&gt;时间外/机构验证&lt;/div&gt;&lt;div&gt;SHAP可解释性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="1059" y="451" width="91" height="68" as="geometry" />
+          <mxGeometry x="869" y="451" width="91" height="68" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-51" value="输出：动态中断风险预测模型与解释结果" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="860" y="590" width="450" height="19" as="geometry" />
@@ -577,13 +577,13 @@
           <mxGeometry x="540.5" y="360" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="wFZFq3wtJoXvqHdwM6Fb-5" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="859" y="360" width="90" height="29" as="geometry" />
+          <mxGeometry x="669" y="360" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="wFZFq3wtJoXvqHdwM6Fb-6" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="959" y="360" width="90" height="29" as="geometry" />
+          <mxGeometry x="769" y="360" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="wFZFq3wtJoXvqHdwM6Fb-7" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="1059" y="360" width="90" height="29" as="geometry" />
+          <mxGeometry x="869" y="360" width="90" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
