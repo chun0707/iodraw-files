@@ -447,7 +447,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-35" value="&lt;b&gt;3. 机制&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;探索&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="520.5" y="300" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-36" value="多状态模型&lt;div style=&quot;line-height: 150%;&quot;&gt;状态转移概率&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;风险动态演变&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;特征及图谱&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-36" value="多状态模型&lt;div style=&quot;line-height: 150%;&quot;&gt;状态转移概率&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;风险动态演变&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;特征及图谱&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="320" y="350" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-37" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;个体—服务过程—机构多层模型构建连续性服务中断因素框架&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
