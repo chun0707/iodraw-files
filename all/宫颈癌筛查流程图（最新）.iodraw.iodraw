@@ -382,7 +382,7 @@
           <mxGeometry x="10" y="230" width="910" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-19" value="&lt;b&gt;内容1：连续性服务中断界定与轨迹特征识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="10" y="270.5" width="285" height="19" as="geometry" />
+          <mxGeometry x="10" y="270.5" width="290" height="19" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-21" target="2nRH4RvJgJz3e5GPZnSe-26">
           <mxGeometry relative="1" as="geometry" />
@@ -475,7 +475,7 @@
           <mxGeometry x="769.5" y="350" width="91" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-50" value="&lt;span style=&quot;color: rgb(31, 35, 41);&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;PR-AUC,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;时间外、机构外验证&lt;/span&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;TimesSHAP可&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;解释性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="869.5" y="351" width="91" height="79" as="geometry" />
+          <mxGeometry x="869.5" y="350" width="91" height="79" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-51" value="输出：动态中断风险预测模型与解释结果" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="680" y="531" width="270" height="19" as="geometry" />
