@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="技术路线图 的副本" id="Wwm6S0txPOrR3_ki8tVE">
-    <mxGraphModel dx="2910" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2670" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-0" />
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-1" parent="2nRH4RvJgJz3e5GPZnSe-0" />
@@ -432,7 +432,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-35" value="&lt;b&gt;3. 机制&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;探索&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="540.5" y="300" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-36" value="多状态模型&lt;div&gt;状态转移概率&lt;/div&gt;&lt;div&gt;风险动态演变&lt;/div&gt;&lt;div&gt;特征及图谱&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-36" value="多状态模型&lt;div style=&quot;line-height: 150%;&quot;&gt;状态转移概率&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;风险动态演变&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;特征及图谱&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="340" y="350" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-37" value="个体—服务过程—机构多层模型构建连续性服务中断因素框架" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
@@ -575,9 +575,6 @@
         </mxCell>
         <mxCell id="wFZFq3wtJoXvqHdwM6Fb-7" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="869" y="360" width="90" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="wFZFq3wtJoXvqHdwM6Fb-8" value="多层混合效应模型、&lt;span style=&quot;background-color: initial;&quot;&gt;时间依赖效应模型&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;路径分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="310" y="348" width="90" height="81" as="geometry" />
         </mxCell>
         <mxCell id="KOxQ_AHNi7SNJFAxvoj9-0" value="疾病风险、服务过程、机构环境的作用路径与交互效应分析" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="222.5" y="445" width="90" height="80" as="geometry" />
