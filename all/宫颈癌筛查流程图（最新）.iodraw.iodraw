@@ -388,28 +388,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-21" value="&lt;b&gt;1. 服务链定义&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="10" y="399" width="90" height="29" as="geometry" />
+          <mxGeometry x="10" y="300" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-23" target="2nRH4RvJgJz3e5GPZnSe-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-23" value="&lt;b&gt;2. 中断判定&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="110" y="399" width="90" height="29" as="geometry" />
+          <mxGeometry x="110" y="300" width="90" height="29" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-25" target="2nRH4RvJgJz3e5GPZnSe-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-25" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="209" y="399" width="90" height="29" as="geometry" />
+          <mxGeometry x="209" y="300" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-26" value="个体疾病风险、&lt;div&gt;服务过程、&lt;span style=&quot;background-color: initial;&quot;&gt;机构及区域信息构成的连续性服务链&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="10" y="448" width="90" height="70" as="geometry" />
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-26" value="个体疾病风险、&lt;div&gt;服务过程、&lt;span style=&quot;background-color: initial;&quot;&gt;机构及区域信息构成的连续性服务链&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+          <mxGeometry x="10" y="349" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-27" value="节点缺失型&lt;div&gt;时间延迟型&lt;/div&gt;&lt;div&gt;路径偏离型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="110" y="448" width="90" height="70" as="geometry" />
+          <mxGeometry x="110" y="349" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-28" value="事件序列构建&lt;div&gt;轨迹聚类分析&lt;/div&gt;&lt;div&gt;序列模式挖掘&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="209" y="448" width="90" height="70" as="geometry" />
+          <mxGeometry x="209" y="349" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-29" value="输出：连续性服务轨迹库与特征描述" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fontStyle=1" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="0.5" y="550" width="340" height="20" as="geometry" />
