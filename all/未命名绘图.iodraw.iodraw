@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="tOcaMDfmLgt1znorN2FR">
-    <mxGraphModel dx="325" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,54 +12,54 @@
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="180" as="targetPoint" />
+            <mxPoint x="120" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-3" value="2025年四川省宫颈癌筛查&lt;div&gt;约80万人&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="110" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="240" as="targetPoint" />
+            <mxPoint x="120" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-6" value="初筛异常/可疑&lt;div&gt;约5% (约4万人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="180" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="170" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="300" as="targetPoint" />
+            <mxPoint x="120" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-9" value="具有阴道镜检查指征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="230" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="360" as="targetPoint" />
+            <mxPoint x="120" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-12" value="完成阴道镜检查&lt;div&gt;约75%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="300" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="290" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="420" as="targetPoint" />
+            <mxPoint x="120" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-15" value="阴道镜异常且具有活检指征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="350" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="480" as="targetPoint" />
+            <mxPoint x="120" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-18" value="完成活检&lt;div&gt;约97%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="410" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-21" value="病理确诊宫颈癌前病变及宫颈癌占活检女性&lt;span style=&quot;background-color: initial;&quot;&gt;约20.67%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="160" height="40" as="geometry" />
+          <mxGeometry x="40" y="470" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
