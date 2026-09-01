@@ -459,7 +459,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-45" target="2nRH4RvJgJz3e5GPZnSe-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-45" value="&lt;b&gt;2. 模型构建与训练&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-45" value="&lt;b&gt;2. 模型构建&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="1009" y="400" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2nRH4RvJgJz3e5GPZnSe-1" source="2nRH4RvJgJz3e5GPZnSe-47" target="2nRH4RvJgJz3e5GPZnSe-50">
@@ -471,7 +471,7 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-48" value="个体历史轨迹特征+动态特征+机构环境特征" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="859" y="452" width="140" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-49" value="统计基准模型&lt;div&gt;机器学习模型&lt;/div&gt;&lt;div&gt;深度时序模型&lt;/div&gt;&lt;div&gt;动态风险预测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-49" value="&lt;div&gt;XGBoost&lt;/div&gt;&lt;div&gt;深度时序模型GRU/Transformer&lt;/div&gt;&lt;div&gt;动态风险预测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="1009" y="450" width="121" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-50" value="区分度与校准度&lt;div&gt;时间外/地外验证&lt;/div&gt;&lt;div&gt;SHAP可解释性分析&lt;/div&gt;&lt;div&gt;亚组公平性评估&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
