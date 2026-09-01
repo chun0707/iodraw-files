@@ -576,9 +576,6 @@
         <mxCell id="wFZFq3wtJoXvqHdwM6Fb-7" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
           <mxGeometry x="869" y="360" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="wFZFq3wtJoXvqHdwM6Fb-8" value="多层混合效应模型、&lt;span style=&quot;background-color: initial;&quot;&gt;时间依赖效应模型&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;路径分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="2nRH4RvJgJz3e5GPZnSe-1">
-          <mxGeometry x="310" y="348" width="90" height="81" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
