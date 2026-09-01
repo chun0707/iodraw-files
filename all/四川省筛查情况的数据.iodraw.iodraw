@@ -119,7 +119,7 @@
           <mxGeometry x="360" y="110" width="100" height="400" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-38" value="&lt;p style=&quot;line-height: 160%;&quot;&gt;上述数据来源于四川省宫颈癌筛查管理中心提供的统计资料，反映2025年项目运行概况。连续3年的真实世界数据为本研究开展纵向服务轨迹识别、状态转移分析及人工智能动态预测提供了良好的数据基础。&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="530" width="420" height="60" as="geometry" />
+          <mxGeometry x="40" y="520" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
