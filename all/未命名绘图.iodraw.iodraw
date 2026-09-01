@@ -55,7 +55,7 @@
             <mxPoint x="120" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BgMKwQDCyllN-2bD-eWy-18" value="完成活检&lt;div&gt;约97%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000099;opacity=50;" vertex="1" parent="1">
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-18" value="完成活检&lt;div&gt;约97%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#0000CC;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-21" value="病理确诊宫颈癌前病变及宫颈癌占活检女性&lt;span style=&quot;background-color: initial;&quot;&gt;约20.67%&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
