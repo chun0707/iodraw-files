@@ -501,12 +501,6 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-51" value="&lt;font color=&quot;#ff8000&quot;&gt;输出：动态中断风险预测模型与解释结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="640" y="439.5" width="270" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-52" value="阶段1(0-6月)&lt;div&gt;数据整合与项目启动&lt;/div&gt;&lt;div&gt;数据治理、指标体系、风险模型构建&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="850" y="680" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-53" value="阶段2(6-12月)&lt;div&gt;&lt;b&gt;价值错配分析与健康收益测度&lt;/b&gt;&lt;/div&gt;&lt;div&gt;完成科学问题1，形成图谱与论文&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="1070" y="680" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-54" value="阶段3(12-18月)&lt;div&gt;&lt;b&gt;连续性服务分析与机制研究&lt;/b&gt;&lt;/div&gt;&lt;div&gt;完成科学问题2，形成机制模型与论文&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="1290" y="680" width="210" height="60" as="geometry" />
         </mxCell>
@@ -515,24 +509,6 @@
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-56" value="阶段5(22-24月)&lt;div&gt;&lt;b&gt;策略模拟、综合评估与成果凝练&lt;/b&gt;&lt;/div&gt;&lt;div&gt;完成科学问题3，形成决策工具原型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="1754" y="680" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-57" value="&lt;b&gt;1. 完整的全过程数据库&lt;/b&gt;&lt;div&gt;(患者级、机构级、地区级)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="760" y="797" width="200" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-58" value="&lt;b&gt;2. 价值错配图谱与健康收益损失评估报告&lt;/b&gt;&lt;div&gt;(人群、环节、机构、地区多维)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="760" y="850" width="220" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-59" value="&lt;b&gt;3. 连续性服务断点清单与形成机制模型&lt;/b&gt;&lt;div&gt;(量化模型+机制路径图)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="760" y="910" width="220" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-60" value="&lt;b&gt;4. AI辅助决策系统原型&lt;/b&gt;&lt;div&gt;(风险识别、干预推荐、资源优化)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="760" y="960" width="220" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-61" value="&lt;b&gt;5. 策略模拟结果与政策建议&lt;/b&gt;&lt;div&gt;(优化策略包与实施路径)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="760" y="1010" width="220" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-62" value="&lt;b&gt;6. 学术论文&amp;gt;3篇&lt;/b&gt;&lt;div&gt;7. 研究报告/政策建议&lt;/div&gt;&lt;div&gt;8. 数据产品与工具包&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="760" y="1060" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-63" value="&lt;b&gt;最终目标：构建人工智能辅助的宫颈癌筛查全过程优化体系，实现资源精准配置、连续性服务协同优化与健康收益最大化&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="640" y="1160" width="640" height="30" as="geometry" />
@@ -548,12 +524,6 @@
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-67" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;研究内容与&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;技术路径&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0000CC;fontColor=#333333;strokeColor=none;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="-90" y="270.5" width="80" height="189.5" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-68" value="阶段划分与&lt;div&gt;时间安排&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="-310" y="420" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-69" value="预期成果" style="rounded=0;whiteSpace=wrap;html=1;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
-          <mxGeometry x="-310" y="359" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-70" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;人工智能驱动的宫颈癌筛查连续性服务中断风险动态预测研究&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0000CC;fontColor=#333333;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="-90" y="-9" width="1020" height="28" as="geometry" />
