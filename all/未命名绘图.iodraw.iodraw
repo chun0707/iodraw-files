@@ -50,14 +50,16 @@
         <mxCell id="BgMKwQDCyllN-2bD-eWy-15" value="阴道镜异常且具有活检指征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="360" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgMKwQDCyllN-2bD-eWy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-18" target="BgMKwQDCyllN-2bD-eWy-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BgMKwQDCyllN-2bD-eWy-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="BgMKwQDCyllN-2bD-eWy-18" value="完成活检&lt;div&gt;约97%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BgMKwQDCyllN-2bD-eWy-19" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="80" height="60" as="geometry" />
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-21" value="完成活检&lt;div&gt;约97%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
