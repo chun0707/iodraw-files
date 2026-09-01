@@ -10,8 +10,8 @@
         <mxCell id="BgMKwQDCyllN-2bD-eWy-2" value="以2025年项目运行情况为例" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="360" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BgMKwQDCyllN-2bD-eWy-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-3" value="2025年四川省" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
