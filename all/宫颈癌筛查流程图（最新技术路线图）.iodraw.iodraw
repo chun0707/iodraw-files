@@ -450,10 +450,10 @@
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-36" value="多状态模型&lt;div style=&quot;line-height: 150%;&quot;&gt;状态转移概率&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;风险动态演变&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;特征及图谱&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="320" y="350" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-37" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;个体—服务过程—机构多层模型构建连续性服务中断因素框架&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-37" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;个体—服务过程—机构多层模型构建连续性服务中断因素框架&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="420" y="349" width="90" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="2nRH4RvJgJz3e5GPZnSe-38" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;Donabedian“结构—过程—结果”理论，通过路径分析探索机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
+        <mxCell id="2nRH4RvJgJz3e5GPZnSe-38" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;Donabedian“结构—过程—结果”理论，通过路径分析探索机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
           <mxGeometry x="520.5" y="350" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2nRH4RvJgJz3e5GPZnSe-39" value="输出：关键断点、动态演变特征与风险形成机制" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=default;" parent="2nRH4RvJgJz3e5GPZnSe-1" vertex="1">
