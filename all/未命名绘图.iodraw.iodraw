@@ -26,6 +26,9 @@
         <mxCell id="BgMKwQDCyllN-2bD-eWy-6" value="初筛异常/可疑&lt;div&gt;约5% (约4万人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="180" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="BgMKwQDCyllN-2bD-eWy-9" value="初筛异常/可疑&lt;div&gt;约5% (约4万人)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
