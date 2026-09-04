@@ -1064,10 +1064,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tAA7Elt-CDxdLzMBjvY_-68" value="&lt;b&gt;连续性服务中断（阻滞筛查价值向健康收益转化）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tAA7Elt-CDxdLzMBjvY_-1">
-          <mxGeometry x="507" y="-67" width="300" height="25" as="geometry" />
+        <mxCell id="tAA7Elt-CDxdLzMBjvY_-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;连续性服务中断（阻滞筛查价值向健康收益转化）&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tAA7Elt-CDxdLzMBjvY_-1">
+          <mxGeometry x="507" y="-67" width="313" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="tAA7Elt-CDxdLzMBjvY_-69" value="&lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;筛查级联（Screening Cascade）：连续性服务阶段及潜在中断点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tAA7Elt-CDxdLzMBjvY_-1">
+        <mxCell id="tAA7Elt-CDxdLzMBjvY_-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009900&quot;&gt;筛查级联（Screening Cascade）：连续性服务阶段及潜在中断点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tAA7Elt-CDxdLzMBjvY_-1">
           <mxGeometry x="280" y="-315" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tAA7Elt-CDxdLzMBjvY_-70" value="&lt;b&gt;纵向服务轨迹&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="tAA7Elt-CDxdLzMBjvY_-1">
