@@ -1465,7 +1465,7 @@
         <mxCell id="q9Eh9qaAuwtReURm7t1p-71" value="对象识别：动态风险信号 → 高风险人群" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="620" y="9" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9Eh9qaAuwtReURm7t1p-72" value="&lt;b&gt;服务状态转移&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
+        <mxCell id="q9Eh9qaAuwtReURm7t1p-72" value="&lt;b&gt;风险形成机制解析&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="320" y="69" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Eh9qaAuwtReURm7t1p-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6600CC;" edge="1" parent="q9Eh9qaAuwtReURm7t1p-1">
@@ -1480,7 +1480,7 @@
         <mxCell id="q9Eh9qaAuwtReURm7t1p-75" value="&lt;b&gt;中断风险动态形成&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="320" y="129" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9Eh9qaAuwtReURm7t1p-76" value="研究不同服务状态间的转移规律" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
+        <mxCell id="q9Eh9qaAuwtReURm7t1p-76" value="&lt;span style=&quot;font-size:12.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;color:#1F2329;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;Donabedian&lt;/span&gt;&lt;span style=&quot;font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;color:#1F2329;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;“结构—过程—结果”理论&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="620" y="69" width="299" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Eh9qaAuwtReURm7t1p-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6600CC;" edge="1" parent="q9Eh9qaAuwtReURm7t1p-1">
