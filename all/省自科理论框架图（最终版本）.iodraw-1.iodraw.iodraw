@@ -1191,7 +1191,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="新逻辑理论框架" id="zffRxLGko7paczLkdBTi">
-    <mxGraphModel dx="572" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q9Eh9qaAuwtReURm7t1p-0" />
         <mxCell id="q9Eh9qaAuwtReURm7t1p-1" parent="q9Eh9qaAuwtReURm7t1p-0" />
@@ -1459,10 +1459,10 @@
         <mxCell id="q9Eh9qaAuwtReURm7t1p-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#009900&quot;&gt;筛查级联（Screening Cascade）：连续性服务阶段及潜在中断点&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="280" y="-315" width="680" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="q9Eh9qaAuwtReURm7t1p-70" value="&lt;b&gt;纵向服务轨迹&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
+        <mxCell id="q9Eh9qaAuwtReURm7t1p-70" value="&lt;b&gt;AI动态风险预测&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="320" y="9" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9Eh9qaAuwtReURm7t1p-71" value="识别个体在连续服务过程中的&lt;div&gt;不同纵向轨迹及中断模式&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
+        <mxCell id="q9Eh9qaAuwtReURm7t1p-71" value="对象识别：动态风险信号 → 高风险人群" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="620" y="9" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Eh9qaAuwtReURm7t1p-72" value="&lt;b&gt;服务状态转移&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
