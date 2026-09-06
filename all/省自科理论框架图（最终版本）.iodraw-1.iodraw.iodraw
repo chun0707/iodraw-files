@@ -1191,7 +1191,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="新逻辑理论框架" id="zffRxLGko7paczLkdBTi">
-    <mxGraphModel dx="572" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="1347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="q9Eh9qaAuwtReURm7t1p-0" />
         <mxCell id="q9Eh9qaAuwtReURm7t1p-1" parent="q9Eh9qaAuwtReURm7t1p-0" />
@@ -1462,7 +1462,7 @@
         <mxCell id="q9Eh9qaAuwtReURm7t1p-70" value="&lt;b&gt;AI动态风险预测&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="320" y="9" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9Eh9qaAuwtReURm7t1p-71" value="对象识别：动态风险信号挖掘 → 高风险人群" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
+        <mxCell id="q9Eh9qaAuwtReURm7t1p-71" value="对象识别：动态风险信号挖掘 → 高风险人群" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;align=center;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="620" y="9" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Eh9qaAuwtReURm7t1p-72" value="&lt;b&gt;风险形成机制解析&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
@@ -1480,7 +1480,7 @@
         <mxCell id="q9Eh9qaAuwtReURm7t1p-75" value="&lt;b&gt;风险分层管理应用&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=70;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="320" y="129" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="q9Eh9qaAuwtReURm7t1p-76" value="关键因素：疾病-个体-服务因素 → 风险贡献解析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
+        <mxCell id="q9Eh9qaAuwtReURm7t1p-76" value="关键因素：疾病-个体-服务因素 → 风险贡献解析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A680B8;align=center;" vertex="1" parent="q9Eh9qaAuwtReURm7t1p-1">
           <mxGeometry x="620" y="69" width="299" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q9Eh9qaAuwtReURm7t1p-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#6600CC;" edge="1" parent="q9Eh9qaAuwtReURm7t1p-1">
