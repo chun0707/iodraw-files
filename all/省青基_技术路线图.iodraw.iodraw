@@ -258,7 +258,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-13" value="&lt;font color=&quot;#ff8000&quot;&gt;&lt;b&gt;研究目标&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;构建人工智能驱动的风险预测与解析&lt;span style=&quot;background-color: initial;&quot;&gt;方法学体系，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;支撑连续性服务风险分层管理与决策应用&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="650" y="50" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-14" value="中断界定与轨迹识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-14" value="&lt;b&gt;真实世界数据&lt;/b&gt;&lt;div&gt;（构建纵向服务队列）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="20" y="120" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-15" value="中断动态风险形成机制探索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
