@@ -348,7 +348,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-43" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;可解释人工智能方法(SHAP等);多层次模型分析&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
           <mxGeometry x="430" y="370" width="90" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-44" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;Donabedian“结构—过程—结果”理论，通过路径分析探索机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
+        <mxCell id="odXuXjyWREal9GYA59tv-44" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;Donabedian“结构—过程—结果”理论，探索风险形成路径&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
           <mxGeometry x="530.5" y="371" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-45" value="&lt;font color=&quot;#000099&quot;&gt;输出2：连续性服务中断风险来源和关键因素&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
