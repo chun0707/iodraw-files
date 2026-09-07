@@ -226,7 +226,7 @@
           <mxGeometry x="632.75" y="300.75" width="306.5" height="189" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
-          <mxGeometry x="322.5" y="301" width="306.5" height="189" as="geometry" />
+          <mxGeometry x="322.5" y="290" width="306.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="10" y="290" width="310" height="200" as="geometry" />
@@ -355,7 +355,7 @@
           <mxGeometry x="330" y="466" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-46" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;内容2：连续性服务中断风险动态演变及形成机制探索&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
-          <mxGeometry x="330" y="308.5" width="290" height="19" as="geometry" />
+          <mxGeometry x="330" y="295.5" width="290" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-47" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;内容3：人工智能驱动的中断风险动态预测模型构建&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="640" y="308.5" width="290" height="18" as="geometry" />
