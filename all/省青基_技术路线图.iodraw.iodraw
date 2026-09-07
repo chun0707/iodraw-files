@@ -261,7 +261,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-14" value="&lt;b&gt;真实世界数据&lt;/b&gt;&lt;div&gt;（构建纵向服务队列）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="20" y="120" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-15" value="中断动态风险形成机制探索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-15" value="&lt;b&gt;风险来源解析&lt;/b&gt;&lt;div&gt;（关键因素）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="386" y="120" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="odXuXjyWREal9GYA59tv-1" source="odXuXjyWREal9GYA59tv-17" target="odXuXjyWREal9GYA59tv-18">
