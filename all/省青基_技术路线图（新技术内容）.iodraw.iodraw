@@ -218,7 +218,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="本项目技术路线图" id="S9d9JqWGpF4EV7Vo7iMG">
-    <mxGraphModel dx="1742" dy="77" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1741" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="odXuXjyWREal9GYA59tv-0" />
         <mxCell id="odXuXjyWREal9GYA59tv-1" parent="odXuXjyWREal9GYA59tv-0" />
@@ -423,7 +423,7 @@
             <mxPoint x="586" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-67" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;以真实世界纵向数据为基础，融合人工智能算法，揭示连续性服务中断演变规律并实现动态预测，支撑宫颈癌筛查全过程价值实现与精准管理&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#004C99;fontColor=#333333;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-67" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;基于真实世界数据与人工智能方法，形成面向宫颈癌筛查连续性服务风险识别、解析与管理决策支持的方法学，助力筛查服务质量提升与健康收益最大化&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#004C99;fontColor=#333333;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="-81" y="499" width="1020" height="28" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="odXuXjyWREal9GYA59tv-1">
