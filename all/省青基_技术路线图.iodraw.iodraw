@@ -312,7 +312,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-31" value="&lt;b&gt;3. 风险预测&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;fillColor=#d5e8d4;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="219" y="330" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-32" value="个体疾病风险、&lt;div style=&quot;line-height: 150%;&quot;&gt;服务过程、&lt;span style=&quot;background-color: initial;&quot;&gt;机构及区域信息构成连续性服务链&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-32" value="服务事件序列构建; 特征工程与变量选择" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="20" y="379" width="90" height="81" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-33" value="节点缺失型&lt;div style=&quot;line-height: 150%;&quot;&gt;时间延迟型&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;路径偏离型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
