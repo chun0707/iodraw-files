@@ -345,7 +345,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-42" value="中断发生率与特征; 多维人群差异分析(地区、机构、社会经济等)" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
           <mxGeometry x="330" y="371" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-43" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;个体—服务过程—机构多层模型构建连续性服务中断因素框架&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
+        <mxCell id="odXuXjyWREal9GYA59tv-43" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;可解释人工智能方法(SHAP等);多层次模型分析&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
           <mxGeometry x="430" y="370" width="90" height="81" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-44" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;Donabedian“结构—过程—结果”理论，通过路径分析探索机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
