@@ -270,7 +270,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-17" value="&lt;b&gt;分层管理策略&lt;/b&gt;&lt;div&gt;(决策支持)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="586" y="120" width="173" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-18" value="真实场景应用验证&lt;div&gt;与推广建议&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-18" value="真实场景应用验证&lt;div&gt;(推广建议)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="786" y="120" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-19" value="&lt;b&gt;宫颈癌初筛数据&lt;/b&gt;&lt;div&gt;(HPV检测/细胞学结果&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
