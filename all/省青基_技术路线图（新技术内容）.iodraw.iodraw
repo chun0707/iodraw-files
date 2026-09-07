@@ -363,7 +363,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" parent="odXuXjyWREal9GYA59tv-1" source="odXuXjyWREal9GYA59tv-49" target="odXuXjyWREal9GYA59tv-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-49" value="&lt;b&gt;1. 特征体系构建&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
+        <mxCell id="odXuXjyWREal9GYA59tv-49" value="&lt;b&gt;1. 风险分层&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;opacity=50;" parent="odXuXjyWREal9GYA59tv-1" vertex="1">
           <mxGeometry x="639.5" y="321" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" parent="odXuXjyWREal9GYA59tv-1" source="odXuXjyWREal9GYA59tv-51" target="odXuXjyWREal9GYA59tv-55" edge="1">
