@@ -321,7 +321,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-34" value="个体中断风险预测; 动态风险更新; 模型可解性评估" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="219" y="379" width="90" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-35" value="&lt;font color=&quot;#006600&quot;&gt;输出：连续性服务轨迹库与特征描述&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-35" value="&lt;font color=&quot;#006600&quot;&gt;输出：连续性服务中断动态风险预测模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="24" y="465" width="280" height="18" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="odXuXjyWREal9GYA59tv-1" source="odXuXjyWREal9GYA59tv-37" target="odXuXjyWREal9GYA59tv-42">
