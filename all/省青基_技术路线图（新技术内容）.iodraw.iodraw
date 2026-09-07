@@ -315,7 +315,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-32" value="服务事件序列构建; 特征工程与变量选择" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="20" y="379" width="90" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-33" value="节点缺失型&lt;div style=&quot;line-height: 150%;&quot;&gt;时间延迟型&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;路径偏离型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-33" value="融合事件级约束注意力和服务状态持续事件编码的人工智能时序预测模型" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="120" y="379" width="90" height="81" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-34" value="个体中断风险预测; 动态风险更新; 模型可解性评估" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
