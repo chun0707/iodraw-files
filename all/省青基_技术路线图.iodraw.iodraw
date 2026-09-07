@@ -354,7 +354,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-45" value="&lt;font color=&quot;#000099&quot;&gt;输出：关键断点、动态演变特征与风险形成机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="330" y="466" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-46" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;内容2：连续性服务中断风险动态演变及形成机制探索&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;&quot; color=&quot;#000099&quot;&gt;（解析连续性服务中断风险来源及关键因素）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-46" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;内容2：风险来源解析（因素解释）&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;&quot; color=&quot;#000099&quot;&gt;（解析连续性服务中断风险来源及关键因素）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="330" y="295.5" width="290" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-47" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;内容3：人工智能驱动的中断风险动态预测模型构建&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
