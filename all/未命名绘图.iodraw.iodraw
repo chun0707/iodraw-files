@@ -1,9 +1,219 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="YWxD4uk5-A7ESotLL_5O">
-    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1741" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632.75" y="280.75" width="306.5" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="281" width="306.5" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="281" width="310" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="930" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="15" y="165" width="920" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="15.5" y="114" width="919.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#7EA6E0;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="15" y="45" width="920" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;fillColor=#000099;strokeWidth=1;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-9" target="btsQLPTQ4vQ-puoRIvgc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-9" value="&lt;b&gt;&lt;font color=&quot;#006600&quot;&gt;识别问题：连续性服务服务中断界定及轨迹识别&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;明确“在哪里”发生中断、“是什么样”的中断&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="50" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;fillColor=#000099;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-11" target="btsQLPTQ4vQ-puoRIvgc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-11" value="&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;解释问题：动态演变规律及形成机制探索&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;为什么会中断？风险如何随时间动态变化？&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;哪些因素在起作用？&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-12" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;预测问题：人工智能驱动的动态风险预测&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;未来是否会中断？何时可能中断？风险有多大？&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="650" y="50" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-13" value="中断界定与轨迹识别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="120" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-14" value="中断动态风险形成机制探索" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="386" y="120" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-16" target="btsQLPTQ4vQ-puoRIvgc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-16" value="中断风险动态预测模型构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="586" y="120" width="173" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-17" value="预测风险分层评价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="786" y="120" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-18" value="&lt;b&gt;宫颈癌初筛数据&lt;/b&gt;&lt;div&gt;(HPV检测/细胞学结果&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-19" value="&lt;b&gt;临床诊疗数据&lt;/b&gt;&lt;div&gt;(阴道镜、病理、治疗、随访&lt;span style=&quot;background-color: initial;&quot;&gt;等)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-20" value="&lt;b&gt;服务过程数据&lt;/b&gt;&lt;div&gt;(服务时间、等待时间、&lt;/div&gt;&lt;div&gt;转诊流程、就诊记录等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-21" value="&lt;b&gt;人口与社会经济数据&lt;/b&gt;&lt;div&gt;(年龄、居住地、民族、教育&lt;span style=&quot;background-color: initial;&quot;&gt;等&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-22" value="&lt;b&gt;机构服务能力数据&lt;/b&gt;&lt;div&gt;(机构类型、服务能力、&lt;/div&gt;&lt;div&gt;人员配置、设备设施等&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="781" y="170" width="149" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-23" value="&lt;b&gt;数据清洗与标准化、个体唯一标识关联、质量控制与整合(患者级、机构级、地区级)，构建纵向融合的个体服务轨迹&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20.5" y="222" width="910" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-24" value="&lt;b&gt;&lt;font color=&quot;#006600&quot;&gt;内容1：连续性服务中断界定与轨迹特征识别&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="288.5" width="290" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006600;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-26" target="btsQLPTQ4vQ-puoRIvgc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-26" value="&lt;b&gt;1. 服务链定义&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006600;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-28" target="btsQLPTQ4vQ-puoRIvgc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-28" value="&lt;b&gt;2. 中断判定&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006600;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-30" target="btsQLPTQ4vQ-puoRIvgc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-30" value="&lt;b&gt;3. 轨迹识别&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;opacity=50;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="219" y="310" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-31" value="个体疾病风险、&lt;div style=&quot;line-height: 150%;&quot;&gt;服务过程、&lt;span style=&quot;background-color: initial;&quot;&gt;机构及区域信息构成连续性服务链&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="20" y="359" width="90" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-32" value="节点缺失型&lt;div style=&quot;line-height: 150%;&quot;&gt;时间延迟型&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;路径偏离型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="120" y="359" width="90" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-33" value="事件序列构建&lt;div style=&quot;line-height: 150%;&quot;&gt;轨迹聚类分析&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;序列模式挖掘&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=#d5e8d4;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="219" y="359" width="90" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-34" value="&lt;font color=&quot;#006600&quot;&gt;输出：连续性服务轨迹库与特征描述&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="24" y="445" width="280" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-36" target="btsQLPTQ4vQ-puoRIvgc-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-36" value="&lt;b&gt;1. 动态演变规律&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="330" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-38" target="btsQLPTQ4vQ-puoRIvgc-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-38" value="&lt;b&gt;2. 层级因素关联&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-40" target="btsQLPTQ4vQ-puoRIvgc-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-40" value="&lt;b&gt;3. 机制&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;探索&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="310" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-41" value="多状态模型&lt;div style=&quot;line-height: 150%;&quot;&gt;状态转移概率&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;风险动态演变&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;特征及图谱&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-42" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;个体—服务过程—机构多层模型构建连续性服务中断因素框架&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="430" y="359" width="90" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-43" value="&lt;p style=&quot;line-height: 140%;&quot;&gt;Donabedian“结构—过程—结果”理论，通过路径分析探索机制&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="360" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-44" value="&lt;font color=&quot;#000099&quot;&gt;输出：关键断点、动态演变特征与风险形成机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="446" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-45" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;内容2：连续性服务中断风险动态演变及形成机制探索&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="288.5" width="290" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-46" value="&lt;b&gt;&lt;font color=&quot;#ff8000&quot;&gt;内容3：人工智能驱动的中断风险动态预测模型构建&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="288.5" width="290" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-48" target="btsQLPTQ4vQ-puoRIvgc-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-48" value="&lt;b&gt;1. 特征体系构建&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="639.5" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-50" target="btsQLPTQ4vQ-puoRIvgc-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-50" value="&lt;b&gt;2. 模型构建&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="310" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF8000;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-52" target="btsQLPTQ4vQ-puoRIvgc-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-52" value="&lt;b&gt;3. 模型评估&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="839.5" y="310" width="91" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-53" value="&lt;p style=&quot;line-height: 150%;&quot;&gt;个体历史轨迹，&lt;span style=&quot;background-color: initial;&quot;&gt;利用&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;轨迹前缀信息构建预测特征&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="639.5" y="361" width="90" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-54" value="&lt;p style=&quot;line-height: 130%;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;机器学习模型GRU&lt;/font&gt;深度时序模型,&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Transformer&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;增强模型&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="360" width="91" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-55" value="&lt;span style=&quot;color: rgb(31, 35, 41);&quot; lang=&quot;EN-US&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;PR-AUC,&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;时间外、机构外验证&lt;/span&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;TimesSHAP可&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;解释性分析&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#ffe6cc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="839.5" y="360" width="91" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-56" value="&lt;font color=&quot;#ff8000&quot;&gt;输出：动态中断风险预测模型与解释结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="449.5" width="270" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-57" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;研究主线&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-82" y="50" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-58" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;总体思路&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-59" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;数据来源与&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;数据整合&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=none;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="170" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-60" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;研究内容与&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;技术路径&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="280.5" width="80" height="189.5" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-61" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;人工智能驱动的宫颈癌筛查连续性服务中断风险动态预测研究&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#004C99;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1" width="1020" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-13" target="btsQLPTQ4vQ-puoRIvgc-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="135" as="sourcePoint" />
+            <mxPoint x="300" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000099;" edge="1" parent="1" source="btsQLPTQ4vQ-puoRIvgc-64" target="btsQLPTQ4vQ-puoRIvgc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-64" value="中断动态演变规律刻画" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="195" y="120" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000099;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="135" as="sourcePoint" />
+            <mxPoint x="586" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-66" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;以真实世界纵向数据为基础，融合人工智能算法，揭示连续性服务中断演变规律并实现动态预测，支撑宫颈癌筛查全过程价值实现与精准管理&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#004C99;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-81" y="479" width="1020" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="btsQLPTQ4vQ-puoRIvgc-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="477" y="251" as="sourcePoint" />
+            <mxPoint x="475.75" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
