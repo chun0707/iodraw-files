@@ -267,7 +267,7 @@
         <mxCell id="odXuXjyWREal9GYA59tv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000099;" edge="1" parent="odXuXjyWREal9GYA59tv-1" source="odXuXjyWREal9GYA59tv-17" target="odXuXjyWREal9GYA59tv-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="odXuXjyWREal9GYA59tv-17" value="中断风险动态预测模型构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
+        <mxCell id="odXuXjyWREal9GYA59tv-17" value="&lt;b&gt;分层管理策略&lt;/b&gt;&lt;div&gt;(决策支持)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
           <mxGeometry x="586" y="120" width="173" height="30" as="geometry" />
         </mxCell>
         <mxCell id="odXuXjyWREal9GYA59tv-18" value="预测风险分层评价" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;opacity=50;" vertex="1" parent="odXuXjyWREal9GYA59tv-1">
