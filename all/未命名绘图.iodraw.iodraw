@@ -93,13 +93,13 @@
         <mxCell id="VVoOymK9UzcZp46kgQCg-3" value="&lt;b&gt;恢复阶段&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="79" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-4" value="反应阶段" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+        <mxCell id="VVoOymK9UzcZp46kgQCg-4" value="&lt;b&gt;反应阶段&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="139" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-5" value="预备阶段" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+        <mxCell id="VVoOymK9UzcZp46kgQCg-5" value="&lt;b&gt;预备阶段&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="199" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-6" value="缩减阶段" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+        <mxCell id="VVoOymK9UzcZp46kgQCg-6" value="&lt;b&gt;缩减阶段&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="259" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-7" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;维度&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
