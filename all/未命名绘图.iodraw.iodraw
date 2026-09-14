@@ -82,7 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-13" value="供给行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="230" y="330" width="37" height="20" as="geometry" />
+          <mxGeometry x="240" y="330" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-14" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="340" y="330" width="20" height="20" as="geometry" />
