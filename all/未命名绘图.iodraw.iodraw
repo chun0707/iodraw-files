@@ -22,8 +22,8 @@
             <mxPoint x="440" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dB2q85MuqWHwPtFop4B_-4" value="次要的社会性&lt;div&gt;利益相关者&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="209" y="120" width="100" height="40" as="geometry" />
+        <mxCell id="dB2q85MuqWHwPtFop4B_-4" value="次要的社会性&lt;div&gt;利益相关者&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dB2q85MuqWHwPtFop4B_-5" value="首要的社会性&lt;div&gt;利益相关者&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="120" width="100" height="40" as="geometry" />
