@@ -49,14 +49,13 @@
         <mxCell id="dB2q85MuqWHwPtFop4B_-12" value="低" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="219" width="20" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="dB2q85MuqWHwPtFop4B_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dB2q85MuqWHwPtFop4B_-14" target="dB2q85MuqWHwPtFop4B_-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dB2q85MuqWHwPtFop4B_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dB2q85MuqWHwPtFop4B_-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dB2q85MuqWHwPtFop4B_-14" value="低" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="330" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="dB2q85MuqWHwPtFop4B_-15" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
-          <mxGeometry x="320" y="310" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
