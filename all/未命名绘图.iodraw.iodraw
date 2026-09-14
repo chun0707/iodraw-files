@@ -97,7 +97,10 @@
           <mxGeometry x="434" y="80" width="95" height="210" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-3" value="恢复阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="80" y="80" width="110" height="40" as="geometry" />
+          <mxGeometry x="120" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VVoOymK9UzcZp46kgQCg-4" value="恢复阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+          <mxGeometry x="100" y="190" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
