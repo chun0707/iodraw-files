@@ -82,7 +82,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-13" value="供给型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="238" y="330" width="40" height="20" as="geometry" />
+          <mxGeometry x="238" y="328" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-0" value="社区动员&lt;div style=&quot;line-height: 150%;&quot;&gt;队伍建设&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;教育培训&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;激励保障&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;资金支持&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;物资供应和储备&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;基础设施和环境&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;建设&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;信息化建设&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;外部协作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="210" y="80" width="95" height="210" as="geometry" />
@@ -112,7 +112,7 @@
           <mxGeometry x="120" y="40" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-10" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="327" y="342" width="80" height="60" as="geometry" />
+          <mxGeometry x="327" y="335" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
