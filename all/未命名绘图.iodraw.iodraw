@@ -100,7 +100,7 @@
           <mxGeometry x="130" y="40" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-4" value="反应阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="120" y="140" width="70" height="40" as="geometry" />
+          <mxGeometry x="120" y="120" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-5" value="预备阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="200" width="70" height="40" as="geometry" />
