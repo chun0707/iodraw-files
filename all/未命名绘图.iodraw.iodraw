@@ -150,8 +150,11 @@
         </mxCell>
         <mxCell id="szMm34v-UNcoxmWuqgIj-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="100" as="sourcePoint" />
-            <mxPoint x="60" y="180" as="targetPoint" />
+            <mxPoint x="80" y="80" as="sourcePoint" />
+            <mxPoint x="80" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
