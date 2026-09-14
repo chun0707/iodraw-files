@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="威勒对利益相关者 的副本" id="VUMEsP7ZsZE3LPJ1xn4R">
-    <mxGraphModel dx="332" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-0" />
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-1" parent="Ql0T-OZpPVMzNRs8MpU_-0" />
@@ -79,7 +79,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-10" value="社&lt;div&gt;会&lt;/div&gt;&lt;div&gt;性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="170" y="100" width="20" height="50" as="geometry" />
+          <mxGeometry x="140" y="100" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-11" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="170" y="170" width="20" height="20" as="geometry" />
