@@ -90,8 +90,10 @@
         <mxCell id="VVoOymK9UzcZp46kgQCg-1" value="人员管控&lt;div style=&quot;line-height: 150%;&quot;&gt;信息摸排&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;核酸检测&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;监测预警&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;就医保障&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;生产生活保障&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;群众心理疏导&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;关心关爱&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="320" y="80" width="95" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ql0T-OZpPVMzNRs8MpU_-1" source="VVoOymK9UzcZp46kgQCg-2" target="VVoOymK9UzcZp46kgQCg-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VVoOymK9UzcZp46kgQCg-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ql0T-OZpPVMzNRs8MpU_-1" source="VVoOymK9UzcZp46kgQCg-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481.5" y="329" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-2" value="宣传引导&lt;div style=&quot;line-height: 150%;&quot;&gt;社区体系建设&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;管理制度&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;组织协同&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;督导检查&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="434" y="80" width="95" height="210" as="geometry" />
@@ -114,8 +116,8 @@
         <mxCell id="VVoOymK9UzcZp46kgQCg-12" value="需求型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="347.5" y="329" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-14" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="441.5" y="329" width="80" height="60" as="geometry" />
+        <mxCell id="VVoOymK9UzcZp46kgQCg-16" value="需求型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+          <mxGeometry x="357.5" y="339" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
