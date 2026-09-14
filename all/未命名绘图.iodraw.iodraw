@@ -119,8 +119,8 @@
         <mxCell id="VVoOymK9UzcZp46kgQCg-16" value="环境型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="461.5" y="329" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-17" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;维度&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="560" y="299" width="70" height="30" as="geometry" />
+        <mxCell id="VVoOymK9UzcZp46kgQCg-17" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;/font&gt;维度&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+          <mxGeometry x="560" y="305" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
