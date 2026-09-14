@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="威勒对利益相关者 的副本" id="VUMEsP7ZsZE3LPJ1xn4R">
-    <mxGraphModel dx="332" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-0" />
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-1" parent="Ql0T-OZpPVMzNRs8MpU_-0" />
@@ -98,13 +98,13 @@
         <mxCell id="VVoOymK9UzcZp46kgQCg-2" value="宣传引导&lt;div style=&quot;line-height: 150%;&quot;&gt;社区体系建设&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;管理制度&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;组织协同&lt;/div&gt;&lt;div style=&quot;line-height: 150%;&quot;&gt;督导检查&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="434" y="80" width="95" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-3" value="恢复阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+        <mxCell id="VVoOymK9UzcZp46kgQCg-3" value="恢复阶段" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="79" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-4" value="反应阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+        <mxCell id="VVoOymK9UzcZp46kgQCg-4" value="反应阶段" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="139" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-5" value="预备阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+        <mxCell id="VVoOymK9UzcZp46kgQCg-5" value="预备阶段" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="199" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-6" value="缩减阶段" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
