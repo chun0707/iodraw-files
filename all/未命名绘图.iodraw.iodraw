@@ -62,7 +62,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="威勒对利益相关者 的副本" id="VUMEsP7ZsZE3LPJ1xn4R">
-    <mxGraphModel dx="572" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="332" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-0" />
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-1" parent="Ql0T-OZpPVMzNRs8MpU_-0" />
@@ -107,7 +107,7 @@
         <mxCell id="VVoOymK9UzcZp46kgQCg-5" value="预备阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="199" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-6" value="缩减阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+        <mxCell id="VVoOymK9UzcZp46kgQCg-6" value="缩减阶段" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="259" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-7" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;维度&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
@@ -120,7 +120,7 @@
           <mxGeometry x="461.5" y="329" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VVoOymK9UzcZp46kgQCg-17" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;X&lt;/font&gt;维度&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
-          <mxGeometry x="560" y="305" width="70" height="30" as="geometry" />
+          <mxGeometry x="560" y="305" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
