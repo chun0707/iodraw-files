@@ -52,11 +52,11 @@
         <mxCell id="dB2q85MuqWHwPtFop4B_-14" value="低" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="330" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dB2q85MuqWHwPtFop4B_-17" value="低" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dB2q85MuqWHwPtFop4B_-17" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="330" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dB2q85MuqWHwPtFop4B_-18" value="紧密性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="330" width="60" height="20" as="geometry" />
+          <mxGeometry x="380" y="330" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
