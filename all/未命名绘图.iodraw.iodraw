@@ -78,6 +78,9 @@
             <mxPoint x="200" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="VVoOymK9UzcZp46kgQCg-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ql0T-OZpPVMzNRs8MpU_-1" source="Ql0T-OZpPVMzNRs8MpU_-13" target="VVoOymK9UzcZp46kgQCg-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ql0T-OZpPVMzNRs8MpU_-13" value="低" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="250" y="330" width="20" height="20" as="geometry" />
         </mxCell>
