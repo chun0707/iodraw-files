@@ -28,8 +28,8 @@
         <mxCell id="dB2q85MuqWHwPtFop4B_-5" value="首要的社会性&lt;div&gt;利益相关者&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dB2q85MuqWHwPtFop4B_-6" value="次要的社会性&lt;div&gt;利益相关者&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="230" width="100" height="40" as="geometry" />
+        <mxCell id="dB2q85MuqWHwPtFop4B_-6" value="次要的非社会性&lt;div&gt;利益相关者&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
