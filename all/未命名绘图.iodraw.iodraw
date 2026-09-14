@@ -108,7 +108,7 @@
         <mxCell id="VVoOymK9UzcZp46kgQCg-6" value="缩减阶段" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="120" y="259" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVoOymK9UzcZp46kgQCg-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;维度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
+        <mxCell id="VVoOymK9UzcZp46kgQCg-7" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Y&lt;/font&gt;维度&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Ql0T-OZpPVMzNRs8MpU_-1">
           <mxGeometry x="129" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
