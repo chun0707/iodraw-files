@@ -22,8 +22,8 @@
             <mxPoint x="440" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dB2q85MuqWHwPtFop4B_-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="120" width="120" height="30" as="geometry" />
+        <mxCell id="dB2q85MuqWHwPtFop4B_-4" value="次要的社会性利益相关者" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
