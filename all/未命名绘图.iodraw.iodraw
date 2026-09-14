@@ -49,6 +49,9 @@
         <mxCell id="dB2q85MuqWHwPtFop4B_-12" value="非社&lt;div&gt;会&lt;/div&gt;&lt;div&gt;性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="219" width="20" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dB2q85MuqWHwPtFop4B_-13" value="高" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
