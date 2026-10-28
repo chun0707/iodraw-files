@@ -199,6 +199,10 @@
         <mxCell id="rp6H1q360udjM2NW3aC9-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="EoWwmrWOo1EgjvU0Diav-1" source="rp6H1q360udjM2NW3aC9-23" target="rp6H1q360udjM2NW3aC9-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="880" />
+              <mxPoint x="580" y="880" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;事件触发与定时随访|HIS/病历核实|经授权核实外院资料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
@@ -285,7 +289,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="20" y="750" width="720" height="50" as="geometry" />
+          <mxGeometry x="20" y="750" width="720" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
