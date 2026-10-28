@@ -75,7 +75,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="cy1Q2ib_gen5Aa4RjiEu">
-    <mxGraphModel dx="901" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EoWwmrWOo1EgjvU0Diav-0" />
         <mxCell id="EoWwmrWOo1EgjvU0Diav-1" parent="EoWwmrWOo1EgjvU0Diav-0" />
@@ -194,7 +194,7 @@
           <mxGeometry x="600" y="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;事件触发与定时随访|HIS/病历核实|经授权核实外院资料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="180" y="830" width="440" height="40" as="geometry" />
+          <mxGeometry x="40" y="830" width="680" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.2 关联路径与偏好演变机制分析&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="40" y="1100" width="280" height="40" as="geometry" />
