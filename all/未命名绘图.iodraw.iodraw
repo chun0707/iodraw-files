@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZPAX2sOgww8kZsESK0as-1" value="核心问题：" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="520" height="40" as="geometry" />
+        <mxCell id="ZPAX2sOgww8kZsESK0as-1" value="核心问题：医患如何理解生育相关需求，这种差异如何关联患者偏好演变与治疗决策？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
