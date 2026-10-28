@@ -50,6 +50,9 @@
         <mxCell id="ZPAX2sOgww8kZsESK0as-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生育相关需求维度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;同构医患患者工具&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;临床约束下的分层DCE&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="160" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="ZPAX2sOgww8kZsESK0as-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZPAX2sOgww8kZsESK0as-16" target="ZPAX2sOgww8kZsESK0as-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZPAX2sOgww8kZsESK0as-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;患者偏好与医生预测配对&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;专业推荐单独记录&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;偏好异质性与理解差异&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="160" height="120" as="geometry" />
         </mxCell>
@@ -57,10 +60,13 @@
           <mxGeometry x="480" y="320" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZPAX2sOgww8kZsESK0as-23" value="提供测量工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="520" width="80" height="20" as="geometry" />
+          <mxGeometry x="210" y="450" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZPAX2sOgww8kZsESK0as-24" value="提供差异证据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="450" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPAX2sOgww8kZsESK0as-27" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
