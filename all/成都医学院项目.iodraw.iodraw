@@ -166,28 +166,28 @@
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EoWwmrWOo1EgjvU0Diav-1" source="rp6H1q360udjM2NW3aC9-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="194" y="870" as="targetPoint" />
+            <mxPoint x="200" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;3.1 纵向决策追踪&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="34" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EoWwmrWOo1EgjvU0Diav-1" source="rp6H1q360udjM2NW3aC9-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="354" y="870" as="targetPoint" />
+            <mxPoint x="360" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T0初始偏好&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;讨论前&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="194" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="200" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T1沟通后偏好&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;讨论后&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="354" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T2 最终决定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;约2周内核实&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="514" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T3 实际实施&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;决定后1、3个月&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="674" y="850" width="120" height="40" as="geometry" />
+          <mxGeometry x="680" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;事件触发与定时随访|HIS/病历核实|经授权核实外院资料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="160" y="1040" width="440" height="40" as="geometry" />
