@@ -75,7 +75,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 1 页 的副本" id="cy1Q2ib_gen5Aa4RjiEu">
-    <mxGraphModel dx="900" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EoWwmrWOo1EgjvU0Diav-0" />
         <mxCell id="EoWwmrWOo1EgjvU0Diav-1" parent="EoWwmrWOo1EgjvU0Diav-0" />
@@ -228,7 +228,7 @@
         <mxCell id="rp6H1q360udjM2NW3aC9-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;半结构化访谈|框架分析|混合数据三角互证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="440" y="1030" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rp6H1q360udjM2NW3aC9-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.4 优化策略构建与可实施性论证&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
+        <mxCell id="rp6H1q360udjM2NW3aC9-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;3.4 优化策略构建与可实施性论证&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="80" y="1120" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;需求评估单|风险沟通要点|偏好澄清记录|适宜转诊信息清单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
