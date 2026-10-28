@@ -37,6 +37,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZPAX2sOgww8kZsESK0as-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZPAX2sOgww8kZsESK0as-15" target="ZPAX2sOgww8kZsESK0as-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZPAX2sOgww8kZsESK0as-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生育相关需求维度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;同构医患患者工具&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;临床约束下的分层DCE&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="250" width="180" height="70" as="geometry" />
         </mxCell>
