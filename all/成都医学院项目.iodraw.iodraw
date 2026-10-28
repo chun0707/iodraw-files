@@ -107,7 +107,7 @@
           <mxGeometry x="50" y="1660" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-0" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;文献与指南梳理|半结构化访谈&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="50" y="230" width="200" height="50" as="geometry" />
+          <mxGeometry x="40" y="230" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ODSF指导|临床专家审核&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;|&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;D-有效设计|认知访谈测试&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="270" y="230" width="210" height="50" as="geometry" />
