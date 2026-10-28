@@ -206,8 +206,8 @@
         <mxCell id="rp6H1q360udjM2NW3aC9-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;需求评估单|风险沟通要点|偏好澄清记录|适宜转诊信息清单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="80" y="1400" width="560" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rp6H1q360udjM2NW3aC9-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;需求评估单|风险沟通要点|偏好澄清记录|适宜转诊信息清单&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="240" y="1500" width="560" height="40" as="geometry" />
+        <mxCell id="rp6H1q360udjM2NW3aC9-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;问题—证据—措施对应|患者与临床人员讨论|可接受性与实施条件评价&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
+          <mxGeometry x="80" y="1460" width="560" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
