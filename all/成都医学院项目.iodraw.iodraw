@@ -92,7 +92,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EoWwmrWOo1EgjvU0Diav-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生育计划与治疗顾虑&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;信息及决策支持需求&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="50" y="160" width="200" height="50" as="geometry" />
+          <mxGeometry x="40" y="160" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EoWwmrWOo1EgjvU0Diav-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EoWwmrWOo1EgjvU0Diav-1" source="EoWwmrWOo1EgjvU0Diav-15" target="EoWwmrWOo1EgjvU0Diav-16">
           <mxGeometry relative="1" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="270" y="230" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;认知访谈|预调查|参数模拟&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
-          <mxGeometry x="500" y="230" width="210" height="50" as="geometry" />
+          <mxGeometry x="510" y="230" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rp6H1q360udjM2NW3aC9-3" value="&lt;b&gt;&lt;font color=&quot;#004c99&quot;&gt;产出：需求维度+同构配对问卷+分层DCE方案&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="50" y="380" width="660" height="30" as="geometry" />
