@@ -46,11 +46,13 @@
         <mxCell id="ZPAX2sOgww8kZsESK0as-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZPAX2sOgww8kZsESK0as-16" target="ZPAX2sOgww8kZsESK0as-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZPAX2sOgww8kZsESK0as-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZPAX2sOgww8kZsESK0as-16" target="ZPAX2sOgww8kZsESK0as-29">
+        <mxCell id="ZPAX2sOgww8kZsESK0as-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="320" as="sourcePoint" />
+            <mxPoint x="353" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="330" />
-              <mxPoint x="360" y="330" />
+              <mxPoint x="353" y="330" />
+              <mxPoint x="353" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
