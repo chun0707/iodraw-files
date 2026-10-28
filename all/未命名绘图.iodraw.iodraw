@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZPAX2sOgww8kZsESK0as-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;理论指导：渥太华决策支持框架(ODSF)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="100" width="320" height="40" as="geometry" />
+          <mxGeometry x="200" y="100" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZPAX2sOgww8kZsESK0as-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究内容一&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;识别需求与工具开发&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="160" width="160" height="40" as="geometry" />
