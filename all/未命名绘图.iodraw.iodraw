@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZPAX2sOgww8kZsESK0as-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;生育相关需求维度&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;同构医患患者工具&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;临床约束下的分层DCE&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="180" height="120" as="geometry" />
+          <mxGeometry x="40" y="250" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZPAX2sOgww8kZsESK0as-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;患者偏好与医生预测配对&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;专业推荐单独记录&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;偏好异质性与理解差异&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="250" width="180" height="120" as="geometry" />
