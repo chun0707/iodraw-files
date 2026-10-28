@@ -173,8 +173,11 @@
         <mxCell id="rp6H1q360udjM2NW3aC9-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T1沟通后偏好&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;讨论后&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="360" y="960" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rp6H1q360udjM2NW3aC9-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T0初始偏好&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;讨论前&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
+        <mxCell id="rp6H1q360udjM2NW3aC9-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T2 最终决定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;约2周内核实&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
           <mxGeometry x="520" y="960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rp6H1q360udjM2NW3aC9-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;T2 最终决定&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;约2周内核实&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EoWwmrWOo1EgjvU0Diav-1">
+          <mxGeometry x="680" y="960" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
