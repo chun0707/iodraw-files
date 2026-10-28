@@ -65,8 +65,8 @@
         <mxCell id="ZPAX2sOgww8kZsESK0as-24" value="提供差异证据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="450" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZPAX2sOgww8kZsESK0as-27" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="550" width="80" height="60" as="geometry" />
+        <mxCell id="ZPAX2sOgww8kZsESK0as-27" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=1;arrowSize=0.44749984741210935;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
