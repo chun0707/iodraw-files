@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lqc4k2-9vdGHXs1Rj0a1-1" value="手术与麻醉&lt;div&gt;术式/入路/操作范围&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="200" height="40" as="geometry" />
+        <mxCell id="lqc4k2-9vdGHXs1Rj0a1-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;手术与麻醉&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;术式/入路/操作范围&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
